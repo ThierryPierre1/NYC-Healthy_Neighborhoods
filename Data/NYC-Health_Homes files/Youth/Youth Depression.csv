@@ -1,0 +1,63 @@
+"Name","Youth Depression"
+"Description","The percentage of high school-aged youth that reported feeling ""so sad or hopeless almost every day for 2 weeks or more in a row that they stopped doing some usual activities"" in the past 12 months.&nbsp;"
+"Source Notes","<normal>Centers for Disease Control and Prevention (CDC).<em>&nbsp;High School Youth Risk Behavior Survey Data&nbsp;</em>(1999-2019). Retrieved from&nbsp;<a href=""http://nccd.cdc.gov/youthonline/"" target=""_blank"" style=""margin: 0px; padding: 0px; box-sizing: inherit; color: #075290; background-color: #ffffff;"">http://nccd.cdc.gov/youthonline/</a>;&nbsp;<br />
+<a href=""https://www.cdc.gov/healthyyouth/data/yrbs/data.htm"" target=""_blank"">https://www.cdc.gov/healthyyouth/data/yrbs/data.htm</a></normal>"
+"Notes","The Youth Risk Behavior Survey (YRBS) is a self-administered survey for public high school students, that is conducted every other in collaboration between the NYC Health Department, the Department of Education, and the National Centers for Disease Control and Prevention (CDC). The survey is intended to monitor health risk behaviors that contribute to the&nbsp;leading causes of mortality, morbidity and social problems among youth in the city.&nbsp;"
+
+Location,TimeFrame,DataFormat,Data,Fips
+New York City,2003,Percent,0.322,3651000
+New York City,2005,Percent,0.323,3651000
+New York City,2007,Percent,0.302,3651000
+New York City,2009,Percent,0.283,3651000
+New York City,2011,Percent,0.269,3651000
+New York City,2001,Percent,0.325,3651000
+New York City,2013,Percent,0.274,3651000
+New York City,1999,Percent,0.331,3651000
+New York City,2015,Percent,0.294,3651000
+New York City,2017,Percent,0.316,3651000
+Manhattan,2017,Percent,0.327,36061
+Manhattan,2015,Percent,0.298,36061
+Manhattan,2013,Percent,0.292,36061
+Manhattan,2011,Percent,0.284,36061
+Manhattan,2009,Percent,0.291,36061
+Manhattan,2007,Percent,0.334,36061
+Manhattan,2005,Percent,0.343,36061
+Manhattan,2003,Percent,0.316,36061
+Bronx,2003,Percent,0.347,36005
+Bronx,2007,Percent,0.337,36005
+Bronx,2005,Percent,0.34,36005
+Bronx,2011,Percent,0.273,36005
+Bronx,2009,Percent,0.302,36005
+Bronx,2013,Percent,0.262,36005
+Bronx,2015,Percent,0.295,36005
+Bronx,2017,Percent,0.328,36005
+Brooklyn,2017,Percent,0.323,36047
+Brooklyn,2015,Percent,0.292,36047
+Brooklyn,2013,Percent,0.255,36047
+Brooklyn,2011,Percent,0.28,36047
+Brooklyn,2009,Percent,0.293,36047
+Brooklyn,2007,Percent,0.269,36047
+Brooklyn,2005,Percent,0.3,36047
+Brooklyn,2003,Percent,0.317,36047
+Queens,2003,Percent,0.314,36081
+Queens,2005,Percent,0.336,36081
+Queens,2007,Percent,0.302,36081
+Queens,2009,Percent,0.262,36081
+Queens,2011,Percent,0.243,36081
+Queens,2013,Percent,0.291,36081
+Queens,2015,Percent,0.301,36081
+Queens,2017,Percent,0.3,36081
+Staten Island,2017,Percent,0.293,36085
+Staten Island,2015,Percent,0.254,36085
+Staten Island,2011,Percent,0.268,36085
+Staten Island,2013,Percent,0.266,36085
+Staten Island,2007,Percent,0.259,36085
+Staten Island,2009,Percent,0.238,36085
+Staten Island,2003,Percent,0.301,36085
+Staten Island,2005,Percent,0.279,36085
+New York City,2019,Percent,0.35935,3651000
+Bronx,2019,Percent,0.34542,36005
+Brooklyn,2019,Percent,0.35823,36047
+Manhattan,2019,Percent,0.38433,36061
+Queens,2019,Percent,0.35069,36081
+Staten Island,2019,Percent,0.36153,36085

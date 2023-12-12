@@ -1,0 +1,302 @@
+"Name","COVID-19 Deaths by Neighborhood Poverty"
+"Description","Neighborhood poverty as the percentage of people earning incomes below the Federal Poverty Threshold within a ZCTA, such that:&nbsp;<br />
+<em>Low</em>: &lt;10% of residents in ZCTA living below the Federal Poverty Threshold&nbsp;<br />
+<em>Medium</em>: 10% to &lt;20%&nbsp;<br />
+<em>High</em>: 20% to &lt;30%<br />
+<em>Very high</em>: &ge;30% residents living below the FPT<br />
+<br />
+Rates refer to number of confirmed cases per 100,000 people in ZCTA of residence.&nbsp;<br />"
+"Source Notes","New York City Department of Health and Mental Hygiene, COVID-19 Data (2020). Retrieved from:&nbsp;<a href=""https://github.com/nychealth/coronavirus-data"" target=""_blank"">https://github.com/nychealth/coronavirus-data</a><br />
+<br />
+<strong><strong><strong>Data for COVID-19 Deaths were updated weekly for the period of April 2, 2020 through April 2, 2021.&nbsp;</strong><strong><strong>These data are no longer being regularly updated.&nbsp;</strong><strong><strong>For the latest data on COVID-19, see:&nbsp;</strong><a href=""https://www1.nyc.gov/site/doh/covid/covid-19-data.page"" target=""_blank"">https://www1.nyc.gov/site/doh/covid/covid-19-data.page</a></strong></strong></strong></strong>"
+"Notes","Data are cumulative and do not represent new cases per day listed. Data are being collected in real-time and are preliminary and subject to change as COVID-19 response continues. Due to delays in reporting, recent data are incomplete.&nbsp;"
+
+Location,Neighborhood Poverty,TimeFrame,DataFormat,Data,Fips
+New York City,Low,05/19,Rate,100.1,3651000
+New York City,Medium,05/19,Rate,160.96,3651000
+New York City,High,05/19,Rate,203.58,3651000
+New York City,Very High,05/19,Rate,233.47,3651000
+New York City,Low,05/19,Number,2251,3651000
+New York City,Medium,05/19,Number,6310,3651000
+New York City,High,05/19,Number,4463,3651000
+New York City,Very High,05/19,Number,2922,3651000
+New York City,Low,05/22,Rate,101.77,3651000
+New York City,Medium,05/22,Rate,163.94,3651000
+New York City,High,05/22,Rate,206.62,3651000
+New York City,Very High,05/22,Rate,237.53,3651000
+New York City,Low,05/22,Number,2289,3651000
+New York City,Medium,05/22,Number,6427,3651000
+New York City,High,05/22,Number,4530,3651000
+New York City,Very High,05/22,Number,2973,3651000
+New York City,Low,05/25,Rate,102.86,3651000
+New York City,Medium,05/25,Rate,165.78,3651000
+New York City,High,05/25,Rate,208.46,3651000
+New York City,Very High,05/25,Rate,239.37,3651000
+New York City,Low,05/25,Number,2313,3651000
+New York City,Medium,05/25,Number,6499,3651000
+New York City,High,05/25,Number,4571,3651000
+New York City,Very High,05/25,Number,2996,3651000
+New York City,Low,05/29,Number,2358,3651000
+New York City,Medium,05/29,Number,6609,3651000
+New York City,High,05/29,Number,4631,3651000
+New York City,Very High,05/29,Number,3034,3651000
+New York City,Low,05/29,Rate,104.88,3651000
+New York City,Medium,05/29,Rate,168.59,3651000
+New York City,High,05/29,Rate,211.15,3651000
+New York City,Very High,05/29,Rate,242.38,3651000
+New York City,Low,06/01,Number,2381,3651000
+New York City,Medium,06/01,Number,6666,3651000
+New York City,High,06/01,Number,4673,3651000
+New York City,Very High,06/01,Number,3055,3651000
+New York City,Low,06/01,Rate,105.92,3651000
+New York City,Medium,06/01,Rate,170.07,3651000
+New York City,High,06/01,Rate,213.11,3651000
+New York City,Very High,06/01,Rate,244.09,3651000
+New York City,Low,06/05,Number,2414,3651000
+New York City,Medium,06/05,Number,6737,3651000
+New York City,High,06/05,Number,4720,3651000
+New York City,Very High,06/05,Number,3079,3651000
+New York City,Low,06/05,Rate,107.45,3651000
+New York City,Medium,06/05,Rate,171.85,3651000
+New York City,High,06/05,Rate,215.23,3651000
+New York City,Very High,06/05,Rate,246.05,3651000
+New York City,Low,06/08,Number,2430,3651000
+New York City,Medium,06/08,Number,6779,3651000
+New York City,High,06/08,Number,4757,3651000
+New York City,Very High,06/08,Number,3096,3651000
+New York City,Low,06/08,Rate,108.21,3651000
+New York City,Medium,06/08,Rate,172.97,3651000
+New York City,High,06/08,Rate,216.89,3651000
+New York City,Very High,06/08,Rate,247.35,3651000
+New York City,Low,06/12,Number,2453,3651000
+New York City,Medium,06/12,Number,6853,3651000
+New York City,High,06/12,Number,4812,3651000
+New York City,Very High,06/12,Number,3128,3651000
+New York City,Low,06/12,Rate,109.22,3651000
+New York City,Medium,06/12,Rate,174.84,3651000
+New York City,High,06/12,Rate,219.4,3651000
+New York City,Very High,06/12,Rate,250.02,3651000
+New York City,Low,06/15,Number,2465,3651000
+New York City,Medium,06/15,Number,6881,3651000
+New York City,High,06/15,Number,4837,3651000
+New York City,Very High,06/15,Number,3144,3651000
+New York City,Low,06/15,Rate,109.76,3651000
+New York City,Medium,06/15,Rate,175.55,3651000
+New York City,High,06/15,Rate,220.58,3651000
+New York City,Very High,06/15,Rate,251.25,3651000
+New York City,Low,06/19,Number,2480,3651000
+New York City,Medium,06/19,Number,6928,3651000
+New York City,High,06/19,Number,4869,3651000
+New York City,Very High,06/19,Number,3167,3651000
+New York City,Low,06/19,Rate,110.43,3651000
+New York City,Medium,06/19,Rate,176.77,3651000
+New York City,High,06/19,Rate,222.07,3651000
+New York City,Very High,06/19,Rate,253.03,3651000
+New York City,Low,06/22,Number,2494,3651000
+New York City,Medium,06/22,Number,6963,3651000
+New York City,High,06/22,Number,4894,3651000
+New York City,Very High,06/22,Number,3182,3651000
+New York City,Low,06/22,Rate,111.03,3651000
+New York City,Medium,06/22,Rate,177.65,3651000
+New York City,High,06/22,Rate,223.22,3651000
+New York City,Very High,06/22,Rate,254.18,3651000
+New York City,Low,06/26,Number,2534,3651000
+New York City,Medium,06/26,Number,7009,3651000
+New York City,High,06/26,Number,4907,3651000
+New York City,Very High,06/26,Number,3199,3651000
+New York City,Low,06/26,Rate,112.77,3651000
+New York City,Medium,06/26,Rate,178.82,3651000
+New York City,High,06/26,Rate,223.81,3651000
+New York City,Very High,06/26,Rate,255.48,3651000
+New York City,Low,06/30,Number,2729,3651000
+New York City,Medium,06/30,Number,7332,3651000
+New York City,High,06/30,Number,5108,3651000
+New York City,Very High,06/30,Number,3270,3651000
+New York City,Low,06/30,Rate,121.35,3651000
+New York City,Medium,06/30,Rate,187.1,3651000
+New York City,High,06/30,Rate,233.01,3651000
+New York City,Very High,06/30,Rate,261.2,3651000
+New York City,Low,07/09,Number,2752,3651000
+New York City,Medium,07/09,Number,7373,3651000
+New York City,High,07/09,Number,5164,3651000
+New York City,Very High,07/09,Number,3303,3651000
+New York City,Low,07/09,Rate,122.3,3651000
+New York City,Medium,07/09,Rate,188.15,3651000
+New York City,High,07/09,Rate,235.52,3651000
+New York City,Very High,07/09,Rate,263.96,3651000
+New York City,Low,07/20,Number,2778,3651000
+New York City,Medium,07/20,Number,7429,3651000
+New York City,High,07/20,Number,5210,3651000
+New York City,Very High,07/20,Number,3322,3651000
+New York City,Low,07/20,Rate,123.41,3651000
+New York City,Medium,07/20,Rate,189.62,3651000
+New York City,High,07/20,Rate,237.6,3651000
+New York City,Very High,07/20,Rate,265.56,3651000
+New York City,Low,07/30,Number,2785,3651000
+New York City,Medium,07/30,Number,7485,3651000
+New York City,High,07/30,Number,5238,3651000
+New York City,Very High,07/30,Number,3342,3651000
+New York City,Low,07/30,Rate,123.74,3651000
+New York City,Medium,07/30,Rate,191.04,3651000
+New York City,High,07/30,Rate,238.91,3651000
+New York City,Very High,07/30,Rate,267.12,3651000
+New York City,Low,08/05,Number,2791,3651000
+New York City,Medium,08/05,Number,7497,3651000
+New York City,High,08/05,Number,5249,3651000
+New York City,Very High,08/05,Number,3351,3651000
+New York City,Low,08/05,Rate,124.01,3651000
+New York City,Medium,08/05,Rate,191.36,3651000
+New York City,High,08/05,Rate,239.42,3651000
+New York City,Very High,08/05,Rate,267.83,3651000
+New York City,Low,08/16,Number,2797,3651000
+New York City,Medium,08/16,Number,7517,3651000
+New York City,High,08/16,Number,5269,3651000
+New York City,Very High,08/16,Number,3360,3651000
+New York City,Low,08/16,Rate,124.27,3651000
+New York City,Medium,08/16,Rate,191.89,3651000
+New York City,High,08/16,Rate,240.36,3651000
+New York City,Very High,08/16,Rate,268.55,3651000
+New York City,Low,08/23,Number,2801,3651000
+New York City,Medium,08/23,Number,7529,3651000
+New York City,High,08/23,Number,5279,3651000
+New York City,Very High,08/23,Number,3365,3651000
+New York City,Low,08/23,Rate,124.46,3651000
+New York City,Medium,08/23,Rate,192.22,3651000
+New York City,High,08/23,Rate,240.82,3651000
+New York City,Very High,08/23,Rate,268.94,3651000
+New York City,Low,09/07,Number,2812,3651000
+New York City,Medium,09/07,Number,7549,3651000
+New York City,High,09/07,Number,5297,3651000
+New York City,Very High,09/07,Number,3388,3651000
+New York City,Low,09/07,Rate,124.96,3651000
+New York City,Medium,09/07,Rate,192.73,3651000
+New York City,High,09/07,Rate,241.66,3651000
+New York City,Very High,09/07,Rate,270.71,3651000
+New York City,Low,09/14,Number,2813,3651000
+New York City,Medium,09/14,Number,7566,3651000
+New York City,High,09/14,Number,5301,3651000
+New York City,Very High,09/14,Number,3399,3651000
+New York City,Low,09/14,Rate,125.01,3651000
+New York City,Medium,09/14,Rate,193.18,3651000
+New York City,High,09/14,Rate,241.85,3651000
+New York City,Very High,09/14,Rate,271.6,3651000
+New York City,Low,09/27,Number,2817,3651000
+New York City,Medium,09/27,Number,7588,3651000
+New York City,High,09/27,Number,5313,3651000
+New York City,Very High,09/27,Number,3408,3651000
+New York City,Low,09/27,Rate,125.21,3651000
+New York City,Medium,09/27,Rate,193.78,3651000
+New York City,High,09/27,Rate,242.38,3651000
+New York City,Very High,09/27,Rate,272.3,3651000
+New York City,Low,10/07,Number,2825,3651000
+New York City,Medium,10/07,Number,7614,3651000
+New York City,High,10/07,Number,5330,3651000
+New York City,Very High,10/07,Number,3416,3651000
+New York City,Low,10/07,Rate,125.57,3651000
+New York City,Medium,10/07,Rate,194.49,3651000
+New York City,High,10/07,Rate,243.19,3651000
+New York City,Very High,10/07,Rate,272.96,3651000
+New York City,Low,10/14,Number,2830,3651000
+New York City,Medium,10/14,Number,7625,3651000
+New York City,High,10/14,Number,5340,3651000
+New York City,Very High,10/14,Number,3417,3651000
+New York City,Low,10/14,Rate,125.81,3651000
+New York City,Medium,10/14,Rate,194.78,3651000
+New York City,High,10/14,Rate,243.66,3651000
+New York City,Very High,10/14,Rate,273.06,3651000
+New York City,Low,10/21,Number,2831,3651000
+New York City,Medium,10/21,Number,7641,3651000
+New York City,High,10/21,Number,5353,3651000
+New York City,Very High,10/21,Number,3423,3651000
+New York City,Low,10/28,Number,2838,3651000
+New York City,Medium,10/28,Number,7652,3651000
+New York City,High,10/28,Number,5360,3651000
+New York City,Very High,10/28,Number,3428,3651000
+New York City,Low,10/21,Rate,125.86,3651000
+New York City,Medium,10/21,Rate,195.2,3651000
+New York City,High,10/21,Rate,244.27,3651000
+New York City,Very High,10/21,Rate,273.58,3651000
+New York City,Low,10/28,Rate,126.18,3651000
+New York City,Medium,10/28,Rate,195.45,3651000
+New York City,High,10/28,Rate,244.6,3651000
+New York City,Very High,10/28,Rate,273.98,3651000
+New York City,Low,11/04,Number,2841,3651000
+New York City,Medium,11/04,Number,7672,3651000
+New York City,High,11/04,Number,5375,3651000
+New York City,Very High,11/04,Number,3441,3651000
+New York City,Low,11/12,Number,2682,3651000
+New York City,Medium,11/12,Number,8391,3651000
+New York City,High,11/12,Number,5227,3651000
+New York City,Very High,11/12,Number,3087,3651000
+New York City,Low,11/04,Rate,126.31,3651000
+New York City,Medium,11/04,Rate,195.96,3651000
+New York City,High,11/04,Rate,245.26,3651000
+New York City,Very High,11/04,Rate,275.11,3651000
+New York City,Low,11/12,Rate,121.12,3651000
+New York City,Medium,11/12,Rate,198.84,3651000
+New York City,High,11/12,Rate,235.16,3651000
+New York City,Very High,11/12,Rate,288.35,3651000
+New York City,Low,11/19,Number,2694,3651000
+New York City,Medium,11/19,Number,8419,3651000
+New York City,High,11/19,Number,5249,3651000
+New York City,Very High,11/19,Number,3102,3651000
+New York City,Low,11/26,Number,2715,3651000
+New York City,Medium,11/26,Number,8446,3651000
+New York City,High,11/26,Number,5258,3651000
+New York City,Very High,11/26,Number,3103,3651000
+New York City,Low,12/03,Number,2734,3651000
+New York City,Medium,12/03,Number,8465,3651000
+New York City,High,12/03,Number,5268,3651000
+New York City,Very High,12/03,Number,3106,3651000
+New York City,Low,12/11,Number,2714,3651000
+New York City,Medium,12/11,Number,8365,3651000
+New York City,High,12/11,Number,5246,3651000
+New York City,Very High,12/11,Number,3022,3651000
+New York City,Low,11/19,Rate,121.7,3651000
+New York City,Medium,11/19,Rate,199.5,3651000
+New York City,High,11/19,Rate,236.13,3651000
+New York City,Very High,11/19,Rate,289.76,3651000
+New York City,Low,11/26,Rate,122.6,3651000
+New York City,Medium,11/26,Rate,200.15,3651000
+New York City,High,11/26,Rate,236.56,3651000
+New York City,Very High,11/26,Rate,289.84,3651000
+New York City,Low,12/03,Rate,123.46,3651000
+New York City,Medium,12/03,Rate,200.57,3651000
+New York City,High,12/03,Rate,236.96,3651000
+New York City,Very High,12/03,Rate,290.08,3651000
+New York City,Low,12/11,Rate,122.45,3651000
+New York City,Medium,12/11,Rate,198.18,3651000
+New York City,High,12/11,Rate,235.98,3651000
+New York City,Very High,12/11,Rate,282.05,3651000
+New York City,Low,1/27,Number,3095,3651000
+New York City,Medium,1/27,Number,9271,3651000
+New York City,High,1/27,Number,5794,3651000
+New York City,Very High,1/27,Number,3245,3651000
+New York City,Low,2/12,Number,3305,3651000
+New York City,Medium,2/12,Number,9815,3651000
+New York City,High,2/12,Number,6154,3651000
+New York City,Very High,2/12,Number,3437,3651000
+New York City,Low,2/26,Number,3475,3651000
+New York City,Medium,2/26,Number,10245,3651000
+New York City,High,2/26,Number,6436,3651000
+New York City,Very High,2/26,Number,3600,3651000
+New York City,Low,3/05,Number,3554,3651000
+New York City,Medium,3/05,Number,10475,3651000
+New York City,High,3/05,Number,6565,3651000
+New York City,Very High,3/05,Number,3672,3651000
+New York City,Low,1/27,Rate,139.69,3651000
+New York City,Medium,1/27,Rate,219.54,3651000
+New York City,High,1/27,Rate,260.79,3651000
+New York City,Very High,1/27,Rate,302.49,3651000
+New York City,Low,2/12,Rate,148.93,3651000
+New York City,Medium,2/12,Rate,232.39,3651000
+New York City,High,2/12,Rate,277.05,3651000
+New York City,Very High,2/12,Rate,320.42,3651000
+New York City,Low,2/26,Rate,156.47,3651000
+New York City,Medium,2/26,Rate,242.65,3651000
+New York City,High,2/26,Rate,289.66,3651000
+New York City,Very High,2/26,Rate,335.66,3651000
+New York City,Low,3/05,Rate,159.96,3651000
+New York City,Medium,3/05,Rate,248.03,3651000
+New York City,High,3/05,Rate,295.44,3651000
+New York City,Very High,3/05,Rate,342.19,3651000

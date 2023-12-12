@@ -1,0 +1,40 @@
+"Name","Youth Depression by Sex"
+"Description","The percentage of high school-aged youth that reported feeling ""so sad or hopeless almost every day for 2 weeks or more in a row that they stopped doing some usual activities"" in the past 12 month, by sex.&nbsp;&nbsp;"
+"Source Notes","Centers for Disease Control and Prevention (CDC).<em>&nbsp;High School Youth Risk Behavior Survey Data&nbsp;</em>(1999-2019). Retrieved from&nbsp;<a href=""http://nccd.cdc.gov/youthonline/"" target=""_blank"" style=""margin: 0px; padding: 0px; box-sizing: inherit; color: #075290; background-color: #ffffff;"">http://nccd.cdc.gov/youthonline/</a>;&nbsp;<br />
+<a href=""https://www.cdc.gov/healthyyouth/data/yrbs/data.htm"" target=""_blank"">https://www.cdc.gov/healthyyouth/data/yrbs/data.htm</a><a href=""http://nccd.cdc.gov/youthonline/"" target=""_blank"" style=""margin: 0px; padding: 0px; box-sizing: inherit; color: #075290; background-color: #ffffff;""></a><a href=""https://a816-healthpsi.nyc.gov/epiquery/index.html"" target=""_blank""></a>"
+"Notes","The Youth Risk Behavior Survey (YRBS) is a self-administered survey for public high school students, that is conducted every other in collaboration between the NYC Health Department, the Department of Education, and the National Centers for Disease Control and Prevention (CDC). The survey is intended to monitor health risk behaviors that contribute to the&nbsp;leading causes of mortality, morbidity and social problems among youth in the city.<br />
+Data for some breakdowns are available by borough, however they are not presented here due too limitations with the original source.&nbsp;"
+
+Location,Sex,TimeFrame,DataFormat,Data,Fips
+New York City,Female,2003,Percent,0.393,3651000
+New York City,Male,2003,Percent,0.249,3651000
+New York City,Female,2005,Percent,0.403,3651000
+New York City,Male,2005,Percent,0.243,3651000
+New York City,Female,2007,Percent,0.391,3651000
+New York City,Male,2007,Percent,0.206,3651000
+New York City,Female,2009,Percent,0.344,3651000
+New York City,Male,2009,Percent,0.215,3651000
+New York City,Female,2011,Percent,0.33,3651000
+New York City,Male,2011,Percent,0.208,3651000
+New York City,Female,2001,Percent,0.396,3651000
+New York City,Male,2001,Percent,0.248,3651000
+New York City,Female,2013,Percent,0.339,3651000
+New York City,Male,2013,Percent,0.209,3651000
+New York City,Female,1999,Percent,0.403,3651000
+New York City,Male,1999,Percent,0.258,3651000
+New York City,Female,2015,Percent,0.377,3651000
+New York City,Male,2015,Percent,0.212,3651000
+New York City,Female,2017,Percent,0.386,3651000
+New York City,Male,2017,Percent,0.244,3651000
+New York City,Female,2019,Percent,0.43663,3651000
+Bronx,Female,2019,Percent,0.42582,36005
+Brooklyn,Female,2019,Percent,0.42268,36047
+Manhattan,Female,2019,Percent,0.46007,36061
+Queens,Female,2019,Percent,0.44414,36081
+Staten Island,Female,2019,Percent,0.4139,36085
+New York City,Male,2019,Percent,0.28168,3651000
+Bronx,Male,2019,Percent,0.26677,36005
+Brooklyn,Male,2019,Percent,0.29777,36047
+Manhattan,Male,2019,Percent,0.28975,36061
+Queens,Male,2019,Percent,0.26415,36081
+Staten Island,Male,2019,Percent,0.30589,36085

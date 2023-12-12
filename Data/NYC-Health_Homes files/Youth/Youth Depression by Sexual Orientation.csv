@@ -1,0 +1,34 @@
+"Name","Youth Depression by Sexual Orientation"
+"Description","The percentage of high school-aged youth that reported feeling ""so sad or hopeless almost every day for 2 weeks or more in a row that they stopped doing some usual activities"" in the past 12 months, by sexual orientation.&nbsp;<br />"
+"Source Notes","Centers for Disease Control and Prevention (CDC).<em>&nbsp;High School Youth Risk Behavior Survey Data&nbsp;</em>(1999-2019). Retrieved from&nbsp;<a href=""http://nccd.cdc.gov/youthonline/"" target=""_blank"" style=""margin: 0px; padding: 0px; box-sizing: inherit; color: #075290; background-color: #ffffff;"">http://nccd.cdc.gov/youthonline/</a>;&nbsp;<br />
+<a href=""https://www.cdc.gov/healthyyouth/data/yrbs/data.htm"" target=""_blank"">https://www.cdc.gov/healthyyouth/data/yrbs/data.htm</a><a href=""http://nccd.cdc.gov/youthonline/"" style=""margin: 0px; padding: 0px; box-sizing: inherit; color: #075290; background-color: #ffffff;"" target=""_blank""></a>"
+"Notes","The Youth Risk Behavior Survey (YRBS) is a self-administered survey for public high school students, that is conducted every other in collaboration between the NYC Health Department, the Department of Education, and the National Centers for Disease Control and Prevention (CDC). The survey is intended to monitor health risk behaviors that contribute to the&nbsp;leading causes of mortality, morbidity and social problems among youth in the city.<br />
+Data for some breakdowns are available by borough, however they are not presented here due too limitations with the original source.&nbsp;"
+
+Location,Sexual Orientation,TimeFrame,DataFormat,Data,Fips
+New York City,Heterosexual,2005,Percent,0.306,3651000
+New York City,"Gay, Lesbian, or Bisexual",2005,Percent,0.519,3651000
+New York City,Heterosexual,2007,Percent,0.286,3651000
+New York City,"Gay, Lesbian, or Bisexual",2007,Percent,0.543,3651000
+New York City,Heterosexual,2009,Percent,0.26,3651000
+New York City,"Gay, Lesbian, or Bisexual",2009,Percent,0.49,3651000
+New York City,Heterosexual,2011,Percent,0.243,3651000
+New York City,"Gay, Lesbian, or Bisexual",2011,Percent,0.433,3651000
+New York City,Heterosexual,2013,Percent,0.253,3651000
+New York City,"Gay, Lesbian, or Bisexual",2013,Percent,0.429,3651000
+New York City,Heterosexual,2015,Percent,0.256,3651000
+New York City,"Gay, Lesbian, or Bisexual",2015,Percent,0.532,3651000
+New York City,Heterosexual,2017,Percent,0.279,3651000
+New York City,"Gay, Lesbian, or Bisexual",2017,Percent,0.535,3651000
+New York City,"Gay, Lesbian, or Bisexual",2019,Percent,0.61836,3651000
+Bronx,"Gay, Lesbian, or Bisexual",2019,Percent,0.54527,36005
+Brooklyn,"Gay, Lesbian, or Bisexual",2019,Percent,0.67319,36047
+Manhattan,"Gay, Lesbian, or Bisexual",2019,Percent,0.65066,36061
+Queens,"Gay, Lesbian, or Bisexual",2019,Percent,0.5563,36081
+Staten Island,"Gay, Lesbian, or Bisexual",2019,Percent,0.68717,36085
+New York City,Heterosexual,2019,Percent,0.32112,3651000
+Bronx,Heterosexual,2019,Percent,0.31359,36005
+Brooklyn,Heterosexual,2019,Percent,0.31668,36047
+Manhattan,Heterosexual,2019,Percent,0.31951,36061
+Queens,Heterosexual,2019,Percent,0.33154,36081
+Staten Island,Heterosexual,2019,Percent,0.32143,36085

@@ -1,0 +1,73 @@
+"Name","Youth Depression by Race/Ethnicity"
+"Description","The percentage of high school-aged youth that reported feeling ""so sad or hopeless almost every day for 2 weeks or more in a row that they stopped doing some usual activities"" in the past 12 months, by self-reported race/ethnicity.&nbsp;&nbsp;<br />
+Race/ethnicity is defined as:<br />
+Asian = Asian alone; Black = Black or African American alone; Latino = Hispanic/Latino of any race; White = White alone. Individuals who identified their race as American Indian/Alaskan Native, Native Hawaiian/Pacific Islander, or multiple Non-Hispanic/Latino races are not currently shown.&nbsp;"
+"Source Notes","Centers for Disease Control and Prevention (CDC).<em>&nbsp;High School Youth Risk Behavior Survey Data&nbsp;</em>(1999-2019). Retrieved from&nbsp;<a href=""http://nccd.cdc.gov/youthonline/"" target=""_blank"" style=""margin: 0px; padding: 0px; box-sizing: inherit; color: #075290; background-color: #ffffff;"">http://nccd.cdc.gov/youthonline/</a>;&nbsp;<br />
+<a href=""https://www.cdc.gov/healthyyouth/data/yrbs/data.htm"" target=""_blank"">https://www.cdc.gov/healthyyouth/data/yrbs/data.htm</a><a href=""http://nccd.cdc.gov/youthonline/"" target=""_blank"" style=""margin: 0px; padding: 0px; box-sizing: inherit; color: #075290; background-color: #ffffff;""></a><a href=""https://a816-healthpsi.nyc.gov/epiquery/index.html"" target=""_blank""></a>"
+"Notes","The Youth Risk Behavior Survey (YRBS) is a self-administered survey for public high school students, that is conducted every other in collaboration between the NYC Health Department, the Department of Education, and the National Centers for Disease Control and Prevention (CDC). The survey is intended to monitor health risk behaviors that contribute to the&nbsp;leading causes of mortality, morbidity and social problems among youth in the city.<br />
+Data for some breakdowns are available by borough, however they are not presented here due too limitations with the original source.&nbsp;"
+
+Location,Race/Ethnicity,TimeFrame,DataFormat,Data,Fips
+New York City,Asian,2003,Percent,0.276,3651000
+New York City,Black,2003,Percent,0.3,3651000
+New York City,White,2003,Percent,0.311,3651000
+New York City,Latino,2003,Percent,0.355,3651000
+New York City,White,2005,Percent,0.249,3651000
+New York City,Black,2005,Percent,0.297,3651000
+New York City,Asian,2005,Percent,0.27,3651000
+New York City,Asian,2007,Percent,0.235,3651000
+New York City,Black,2007,Percent,0.273,3651000
+New York City,White,2007,Percent,0.263,3651000
+New York City,Latino,2007,Percent,0.367,3651000
+New York City,Latino,2009,Percent,0.332,3651000
+New York City,White,2009,Percent,0.271,3651000
+New York City,Black,2009,Percent,0.253,3651000
+New York City,Asian,2009,Percent,0.246,3651000
+New York City,Asian,2011,Percent,0.221,3651000
+New York City,Black,2011,Percent,0.255,3651000
+New York City,White,2011,Percent,0.256,3651000
+New York City,Latino,2011,Percent,0.302,3651000
+New York City,White,2001,Percent,0.32,3651000
+New York City,Asian,2001,Percent,0.306,3651000
+New York City,Black,2001,Percent,0.292,3651000
+New York City,Latino,2001,Percent,0.367,3651000
+New York City,White,2013,Percent,0.223,3651000
+New York City,Latino,2013,Percent,0.318,3651000
+New York City,Black,2013,Percent,0.252,3651000
+New York City,Asian,2013,Percent,0.233,3651000
+New York City,White,1999,Percent,0.284,3651000
+New York City,Latino,1999,Percent,0.367,3651000
+New York City,Black,1999,Percent,0.27,3651000
+New York City,Asian,1999,Percent,0.367,3651000
+New York City,White,2015,Percent,0.297,3651000
+New York City,Latino,2015,Percent,0.312,3651000
+New York City,Asian,2015,Percent,0.266,3651000
+New York City,Black,2015,Percent,0.278,3651000
+New York City,Black,2017,Percent,0.301,3651000
+New York City,Asian,2017,Percent,0.282,3651000
+New York City,Latino,2017,Percent,0.3466,3651000
+New York City,White,2017,Percent,0.294,3651000
+New York City,Asian,2019,Percent,0.3348,3651000
+Bronx,Asian,2019,Percent,0.31172,36005
+Brooklyn,Asian,2019,Percent,0.30346,36047
+Manhattan,Asian,2019,Percent,0.32053,36061
+Queens,Asian,2019,Percent,0.35905,36081
+Staten Island,Asian,2019,Percent,0.361,36085
+New York City,Black,2019,Percent,0.33627,3651000
+Bronx,Black,2019,Percent,0.30509,36005
+Brooklyn,Black,2019,Percent,0.3519,36047
+Manhattan,Black,2019,Percent,0.34069,36061
+Queens,Black,2019,Percent,0.32172,36081
+Staten Island,Black,2019,Percent,0.37346,36085
+New York City,Latino,2019,Percent,0.39153,3651000
+Bronx,Latino,2019,Percent,0.36345,36005
+Brooklyn,Latino,2019,Percent,0.36848,36047
+Manhattan,Latino,2019,Percent,0.44276,36061
+Queens,Latino,2019,Percent,0.38327,36081
+Staten Island,Latino,2019,Percent,0.44525,36085
+New York City,White,2019,Percent,0.30583,3651000
+Bronx,White,2019,Percent,0.28025,36005
+Brooklyn,White,2019,Percent,0.34209,36047
+Manhattan,White,2019,Percent,0.30612,36061
+Queens,White,2019,Percent,0.26351,36081
+Staten Island,White,2019,Percent,0.30404,36085

@@ -1,0 +1,326 @@
+"Name","COVID-19 Deaths by Daily Count"
+"Description","Daily count of confirmed COVID-19 deaths by date of death.&nbsp;"
+"Source Notes","New York City Department of Health and Mental Hygiene, COVID-19 Data (2020). Retrieved from:&nbsp;<a href=""https://github.com/nychealth/coronavirus-data"" target=""_blank"">https://github.com/nychealth/coronavirus-data</a><br />
+<br />
+<strong><strong><strong>Data for COVID-19 Deaths were updated weekly for the period of April 2, 2020 through April 2, 2021.&nbsp;</strong><strong><strong>These data are no longer being regularly updated.&nbsp;</strong><strong><strong>For the latest data on COVID-19, see:&nbsp;</strong><a href=""https://www1.nyc.gov/site/doh/covid/covid-19-data.page"" target=""_blank"">https://www1.nyc.gov/site/doh/covid/covid-19-data.page</a></strong></strong></strong></strong>"
+"Notes","Borough-wide counts may not sum to citywide tables due to records with missing geographic information. Because of delays in reporting, the most recent data may be incomplete. Data shown currently will be updated in the future as new information on cases, hospitalizations, and deaths are reported."
+
+Location,TimeFrame,DataFormat,Data,Fips
+New York City,04/02,Number,497,3651000
+New York City,04/06,Number,576,3651000
+New York City,04/10,Number,539,3651000
+New York City,04/13,Number,570,3651000
+New York City,04/17,Number,384,3651000
+New York City,04/20,Number,363,3651000
+New York City,04/24,Number,314,3651000
+New York City,04/27,Number,269,3651000
+New York City,05/01,Number,210,3651000
+New York City,05/04,Number,158,3651000
+New York City,05/08,Number,131,3651000
+New York City,05/11,Number,104,3651000
+New York City,05/15,Number,86,3651000
+New York City,05/19,Number,55,3651000
+New York City,05/22,Number,65,3651000
+New York City,05/25,Number,47,3651000
+New York City,05/29,Number,43,3651000
+New York City,06/01,Number,35,3651000
+New York City,06/05,Number,28,3651000
+New York City,06/08,Number,39,3651000
+New York City,06/12,Number,23,3651000
+New York City,06/19,Number,15,3651000
+New York City,06/22,Number,17,3651000
+New York City,06/26,Number,17,3651000
+New York City,06/30,Number,11,3651000
+New York City,07/09,Number,6,3651000
+New York City,07/20,Number,7,3651000
+New York City,07/30,Number,4,3651000
+New York City,08/05,Number,6,3651000
+New York City,08/16,Number,5,3651000
+New York City,08/23,Number,3,3651000
+New York City,09/07,Number,1,3651000
+New York City,09/14,Number,5,3651000
+New York City,09/27,Number,2,3651000
+New York City,10/07,Number,4,3651000
+New York City,10/14,Number,6,3651000
+New York City,10/21,Number,5,3651000
+New York City,10/28,Number,4,3651000
+New York City,11/04,Number,9,3651000
+New York City,11/12,Number,16,3651000
+New York City,11/19,Number,9,3651000
+New York City,11/26,Number,7,3651000
+New York City,12/03,Number,18,3651000
+New York City,12/11,Number,30,3651000
+New York City,12/25,Number,39,3651000
+New York City,1/08,Number,61,3651000
+New York City,1/22,Number,79,3651000
+New York City,1/27,Number,91,3651000
+New York City,2/12,Number,81,3651000
+New York City,2/26,Number,71,3651000
+New York City,3/05,Number,55,3651000
+New York City,3/19,Number,44,3651000
+New York City,4/02,Number,52,3651000
+Bronx,04/02,Number,96,36005
+Bronx,04/06,Number,112,36005
+Bronx,04/10,Number,117,36005
+Bronx,04/13,Number,122,36005
+Bronx,04/17,Number,88,36005
+Bronx,04/20,Number,78,36005
+Bronx,04/24,Number,62,36005
+Bronx,04/27,Number,53,36005
+Bronx,05/01,Number,45,36005
+Bronx,05/04,Number,34,36005
+Bronx,05/08,Number,22,36005
+Bronx,05/11,Number,27,36005
+Bronx,05/15,Number,15,36005
+Bronx,05/19,Number,12,36005
+Bronx,05/22,Number,12,36005
+Bronx,05/25,Number,8,36005
+Bronx,05/29,Number,6,36005
+Bronx,06/01,Number,3,36005
+Bronx,06/05,Number,9,36005
+Bronx,06/08,Number,10,36005
+Bronx,06/12,Number,5,36005
+Bronx,06/19,Number,3,36005
+Bronx,06/22,Number,1,36005
+Bronx,06/26,Number,3,36005
+Bronx,06/30,Number,2,36005
+Bronx,07/09,Number,1,36005
+Bronx,07/20,Number,1,36005
+Bronx,07/30,Number,1,36005
+Bronx,08/05,Number,1,36005
+Bronx,08/16,Number,2,36005
+Bronx,08/23,Number,2,36005
+Bronx,09/07,Number,0,36005
+Bronx,09/14,Number,1,36005
+Bronx,09/27,Number,0,36005
+Bronx,10/07,Number,1,36005
+Bronx,10/14,Number,2,36005
+Bronx,10/21,Number,0,36005
+Bronx,10/28,Number,0,36005
+Bronx,11/04,Number,0,36005
+Bronx,11/12,Number,4,36005
+Bronx,11/19,Number,1,36005
+Bronx,11/26,Number,1,36005
+Bronx,12/03,Number,0,36005
+Bronx,12/11,Number,3,36005
+Bronx,12/25,Number,6,36005
+Bronx,1/08,Number,10,36005
+Bronx,1/22,Number,12,36005
+Bronx,1/27,Number,12,36005
+Bronx,2/12,Number,13,36005
+Bronx,2/26,Number,12,36005
+Bronx,3/05,Number,8,36005
+Bronx,3/19,Number,10,36005
+Bronx,4/02,Number,9,36005
+Brooklyn,04/02,Number,171,36047
+Brooklyn,04/06,Number,169,36047
+Brooklyn,04/10,Number,178,36047
+Brooklyn,04/13,Number,158,36047
+Brooklyn,04/17,Number,118,36047
+Brooklyn,04/20,Number,95,36047
+Brooklyn,04/24,Number,93,36047
+Brooklyn,04/27,Number,86,36047
+Brooklyn,05/01,Number,56,36047
+Brooklyn,05/04,Number,42,36047
+Brooklyn,05/08,Number,43,36047
+Brooklyn,05/11,Number,33,36047
+Brooklyn,05/15,Number,27,36047
+Brooklyn,05/19,Number,16,36047
+Brooklyn,05/22,Number,15,36047
+Brooklyn,05/25,Number,14,36047
+Brooklyn,05/29,Number,16,36047
+Brooklyn,06/01,Number,10,36047
+Brooklyn,06/05,Number,6,36047
+Brooklyn,06/08,Number,13,36047
+Brooklyn,06/12,Number,6,36047
+Brooklyn,06/19,Number,3,36047
+Brooklyn,06/22,Number,5,36047
+Brooklyn,06/26,Number,3,36047
+Brooklyn,06/30,Number,2,36047
+Brooklyn,07/09,Number,4,36047
+Brooklyn,07/20,Number,3,36047
+Brooklyn,07/30,Number,2,36047
+Brooklyn,08/05,Number,0,36047
+Brooklyn,08/16,Number,1,36047
+Brooklyn,08/23,Number,0,36047
+Brooklyn,09/07,Number,0,36047
+Brooklyn,09/14,Number,2,36047
+Brooklyn,09/27,Number,2,36047
+Brooklyn,10/07,Number,1,36047
+Brooklyn,10/14,Number,3,36047
+Brooklyn,10/21,Number,3,36047
+Brooklyn,10/28,Number,3,36047
+Brooklyn,11/04,Number,7,36047
+Brooklyn,11/12,Number,6,36047
+Brooklyn,11/19,Number,6,36047
+Brooklyn,11/26,Number,3,36047
+Brooklyn,12/03,Number,4,36047
+Brooklyn,12/11,Number,8,36047
+Brooklyn,12/25,Number,12,36047
+Brooklyn,1/08,Number,14,36047
+Brooklyn,1/22,Number,31,36047
+Brooklyn,1/27,Number,30,36047
+Brooklyn,2/12,Number,26,36047
+Brooklyn,2/26,Number,15,36047
+Brooklyn,3/05,Number,18,36047
+Brooklyn,3/19,Number,8,36047
+Brooklyn,4/02,Number,21,36047
+Manhattan,04/02,Number,62,36061
+Manhattan,04/06,Number,69,36061
+Manhattan,04/10,Number,69,36061
+Manhattan,04/13,Number,71,36061
+Manhattan,04/17,Number,41,36061
+Manhattan,04/20,Number,49,36061
+Manhattan,04/24,Number,47,36061
+Manhattan,04/27,Number,30,36061
+Manhattan,05/01,Number,24,36061
+Manhattan,05/04,Number,19,36061
+Manhattan,05/08,Number,13,36061
+Manhattan,05/11,Number,14,36061
+Manhattan,05/15,Number,11,36061
+Manhattan,05/19,Number,10,36061
+Manhattan,05/22,Number,5,36061
+Manhattan,05/25,Number,12,36061
+Manhattan,05/29,Number,5,36061
+Manhattan,06/01,Number,3,36061
+Manhattan,06/05,Number,7,36061
+Manhattan,06/08,Number,2,36061
+Manhattan,06/12,Number,3,36061
+Manhattan,06/19,Number,4,36061
+Manhattan,06/22,Number,1,36061
+Manhattan,06/26,Number,6,36061
+Manhattan,06/30,Number,2,36061
+Manhattan,07/09,Number,1,36061
+Manhattan,07/20,Number,2,36061
+Manhattan,07/30,Number,1,36061
+Manhattan,08/05,Number,2,36061
+Manhattan,08/16,Number,0,36061
+Manhattan,08/23,Number,1,36061
+Manhattan,09/07,Number,0,36061
+Manhattan,09/14,Number,0,36061
+Manhattan,09/27,Number,0,36061
+Manhattan,10/07,Number,1,36061
+Manhattan,10/14,Number,0,36061
+Manhattan,10/21,Number,1,36061
+Manhattan,10/28,Number,0,36061
+Manhattan,11/04,Number,0,36061
+Manhattan,11/12,Number,2,36061
+Manhattan,11/19,Number,1,36061
+Manhattan,11/26,Number,1,36061
+Manhattan,12/03,Number,7,36061
+Manhattan,12/11,Number,2,36061
+Manhattan,12/25,Number,6,36061
+Manhattan,1/08,Number,10,36061
+Manhattan,1/22,Number,9,36061
+Manhattan,1/27,Number,23,36061
+Manhattan,2/12,Number,10,36061
+Manhattan,2/26,Number,17,36061
+Manhattan,3/05,Number,11,36061
+Manhattan,3/19,Number,9,36061
+Manhattan,4/02,Number,6,36061
+Queens,04/02,Number,139,36081
+Queens,04/06,Number,202,36081
+Queens,04/10,Number,156,36081
+Queens,04/13,Number,194,36081
+Queens,04/17,Number,122,36081
+Queens,04/20,Number,125,36081
+Queens,04/24,Number,98,36081
+Queens,04/27,Number,91,36081
+Queens,05/01,Number,77,36081
+Queens,05/04,Number,55,36081
+Queens,05/08,Number,48,36081
+Queens,05/11,Number,27,36081
+Queens,05/15,Number,27,36081
+Queens,05/19,Number,12,36081
+Queens,05/22,Number,28,36081
+Queens,05/25,Number,11,36081
+Queens,05/29,Number,14,36081
+Queens,06/01,Number,16,36081
+Queens,06/05,Number,5,36081
+Queens,06/08,Number,14,36081
+Queens,06/12,Number,9,36081
+Queens,06/19,Number,3,36081
+Queens,06/22,Number,8,36081
+Queens,06/26,Number,4,36081
+Queens,06/30,Number,5,36081
+Queens,07/09,Number,0,36081
+Queens,07/20,Number,1,36081
+Queens,07/30,Number,0,36081
+Queens,08/05,Number,3,36081
+Queens,08/16,Number,2,36081
+Queens,08/23,Number,0,36081
+Queens,09/07,Number,1,36081
+Queens,09/14,Number,2,36081
+Queens,09/27,Number,0,36081
+Queens,10/07,Number,1,36081
+Queens,10/14,Number,1,36081
+Queens,10/21,Number,0,36081
+Queens,10/28,Number,0,36081
+Queens,11/04,Number,1,36081
+Queens,11/12,Number,2,36081
+Queens,11/19,Number,1,36081
+Queens,11/26,Number,0,36081
+Queens,12/03,Number,4,36081
+Queens,12/11,Number,10,36081
+Queens,12/25,Number,8,36081
+Queens,1/08,Number,19,36081
+Queens,1/22,Number,24,36081
+Queens,1/27,Number,21,36081
+Queens,2/12,Number,26,36081
+Queens,2/26,Number,23,36081
+Queens,3/05,Number,13,36081
+Queens,3/19,Number,15,36081
+Queens,4/02,Number,14,36081
+Staten Island,04/02,Number,29,36085
+Staten Island,04/06,Number,24,36085
+Staten Island,04/10,Number,19,36085
+Staten Island,04/13,Number,25,36085
+Staten Island,04/17,Number,15,36085
+Staten Island,04/20,Number,16,36085
+Staten Island,04/24,Number,14,36085
+Staten Island,04/27,Number,9,36085
+Staten Island,05/01,Number,8,36085
+Staten Island,05/04,Number,8,36085
+Staten Island,05/08,Number,5,36085
+Staten Island,05/11,Number,3,36085
+Staten Island,05/15,Number,6,36085
+Staten Island,05/19,Number,5,36085
+Staten Island,05/22,Number,5,36085
+Staten Island,05/25,Number,2,36085
+Staten Island,05/29,Number,2,36085
+Staten Island,06/01,Number,3,36085
+Staten Island,06/05,Number,1,36085
+Staten Island,06/08,Number,0,36085
+Staten Island,06/12,Number,0,36085
+Staten Island,06/19,Number,2,36085
+Staten Island,06/22,Number,2,36085
+Staten Island,06/26,Number,1,36085
+Staten Island,06/30,Number,0,36085
+Staten Island,07/09,Number,0,36085
+Staten Island,07/20,Number,0,36085
+Staten Island,07/30,Number,0,36085
+Staten Island,08/05,Number,0,36085
+Staten Island,08/16,Number,0,36085
+Staten Island,08/23,Number,0,36085
+Staten Island,09/07,Number,0,36085
+Staten Island,09/14,Number,0,36085
+Staten Island,09/27,Number,0,36085
+Staten Island,10/07,Number,0,36085
+Staten Island,10/14,Number,0,36085
+Staten Island,10/21,Number,1,36085
+Staten Island,10/28,Number,1,36085
+Staten Island,11/04,Number,1,36085
+Staten Island,11/12,Number,2,36085
+Staten Island,11/19,Number,0,36085
+Staten Island,11/26,Number,2,36085
+Staten Island,12/03,Number,3,36085
+Staten Island,12/11,Number,7,36085
+Staten Island,12/25,Number,7,36085
+Staten Island,1/08,Number,8,36085
+Staten Island,1/22,Number,3,36085
+Staten Island,1/27,Number,5,36085
+Staten Island,2/12,Number,6,36085
+Staten Island,2/26,Number,4,36085
+Staten Island,3/05,Number,5,36085
+Staten Island,3/19,Number,2,36085
+Staten Island,4/02,Number,2,36085

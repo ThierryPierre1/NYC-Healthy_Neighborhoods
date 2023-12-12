@@ -1,0 +1,138 @@
+"Name","Medical Facilities"
+"Description","Rate of adults per medical facility represents the total population per one medical facility which can include hospitals, diagnostic and treatment centers and health clinics in a given geography.<br />
+You can explore medical facilities across New York City on the&nbsp;<a href=""https://data.cccnewyork.org/assetmapping#?domain=1245&amp;assets=Medical%20Facility%2FHospital%7CMedical%20Facility%2FDiagnostic%20and%20Treatment%20Center%7CMedical%20Facility%2FClinic%7CMedical%20Facility%2FMobile%20Clinic%7CMedical%20Facility&amp;communities=8%7C17"" target=""_blank"">Map Community Resources</a>&nbsp;tool.&nbsp;"
+"Source Notes","New York State Department of Health. (January 2022).  Health Facility General Information - Hospitals, Diagnosis and Treatment Centers, and Clinics. Retrieved from: <a href=""https://health.data.ny.gov/Health/Health-Facility-General-Information/vn5v-hh5r"" target=""_blank"">https://health.data.ny.gov/Health/Health-Facility-General-Information/vn5v-hh5r</a>.<br />
+U.S. Census Bureau. (2019). American Community Survey 1-Year Estimates. Retrieved from <a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a>."
+"Notes",""
+
+Location,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,2022,Number of Medical Facilities,8,101
+Greenwich Village,2022,Number of Medical Facilities,12,102
+Lower East Side,2022,Number of Medical Facilities,22,103
+Chelsea/Clinton,2022,Number of Medical Facilities,25,104
+Midtown Business District,2022,Number of Medical Facilities,14,105
+Murray Hill/Stuyvesant,2022,Number of Medical Facilities,39,106
+Upper West Side,2022,Number of Medical Facilities,9,107
+Upper East Side,2022,Number of Medical Facilities,39,108
+Manhattanville,2022,Number of Medical Facilities,7,109
+Central Harlem,2022,Number of Medical Facilities,18,110
+East Harlem,2022,Number of Medical Facilities,30,111
+Washington Heights,2022,Number of Medical Facilities,23,112
+Mott Haven,2022,Number of Medical Facilities,26,201
+Hunts Point,2022,Number of Medical Facilities,13,202
+Morrisania,2022,Number of Medical Facilities,14,203
+Concourse/Highbridge,2022,Number of Medical Facilities,17,204
+University Heights,2022,Number of Medical Facilities,26,205
+East Tremont,2022,Number of Medical Facilities,24,206
+Bedford Park,2022,Number of Medical Facilities,16,207
+Riverdale,2022,Number of Medical Facilities,6,208
+Unionport/Soundview,2022,Number of Medical Facilities,11,209
+Throgs Neck,2022,Number of Medical Facilities,7,210
+Pelham Parkway,2022,Number of Medical Facilities,34,211
+Williamsbridge,2022,Number of Medical Facilities,13,212
+Williamsburg/Greenpoint,2022,Number of Medical Facilities,16,301
+Fort Greene/Brooklyn Hts,2022,Number of Medical Facilities,24,302
+Bedford Stuyvesant,2022,Number of Medical Facilities,14,303
+Bushwick,2022,Number of Medical Facilities,13,304
+East New York,2022,Number of Medical Facilities,19,305
+Park Slope,2022,Number of Medical Facilities,14,306
+Sunset Park,2022,Number of Medical Facilities,13,307
+Crown Heights North,2022,Number of Medical Facilities,11,308
+Crown Heights South,2022,Number of Medical Facilities,11,309
+Bay Ridge,2022,Number of Medical Facilities,15,310
+Bensonhurst,2022,Number of Medical Facilities,10,311
+Borough Park,2022,Number of Medical Facilities,17,312
+Coney Island,2022,Number of Medical Facilities,9,313
+Flatbush/Midwood,2022,Number of Medical Facilities,20,314
+Sheepshead Bay,2022,Number of Medical Facilities,17,315
+Brownsville,2022,Number of Medical Facilities,10,316
+East Flatbush,2022,Number of Medical Facilities,10,317
+Canarsie,2022,Number of Medical Facilities,9,318
+Astoria,2022,Number of Medical Facilities,19,401
+Sunnyside/Woodside,2022,Number of Medical Facilities,6,402
+Jackson Heights,2022,Number of Medical Facilities,8,403
+Elmhurst/Corona,2022,Number of Medical Facilities,3,404
+Ridgewood/Glendale,2022,Number of Medical Facilities,7,405
+Rego Park/Forest Hills,2022,Number of Medical Facilities,7,406
+Flushing,2022,Number of Medical Facilities,16,407
+Fresh Meadows/Briarwood,2022,Number of Medical Facilities,6,408
+Woodhaven,2022,Number of Medical Facilities,12,409
+Howard Beach,2022,Number of Medical Facilities,4,410
+Bayside,2022,Number of Medical Facilities,13,411
+Jamaica/St. Albans,2022,Number of Medical Facilities,29,412
+Queens Village,2022,Number of Medical Facilities,6,413
+The Rockaways,2022,Number of Medical Facilities,11,414
+St. George,2022,Number of Medical Facilities,18,501
+South Beach,2022,Number of Medical Facilities,16,502
+Tottenville,2022,Number of Medical Facilities,2,503
+Bronx,2022,Number of Medical Facilities,207,36005
+Brooklyn,2022,Number of Medical Facilities,252,36047
+Manhattan,2022,Number of Medical Facilities,246,36061
+Queens,2022,Number of Medical Facilities,147,36081
+Staten Island,2022,Number of Medical Facilities,36,36085
+New York City,2022,Number of Medical Facilities,888,3651000
+Battery Park/Tribeca,2022,Rate (Total Population per Medical Facility),8305,101
+Greenwich Village,2022,Rate (Total Population per Medical Facility),8173,102
+Lower East Side,2022,Rate (Total Population per Medical Facility),7597,103
+Chelsea/Clinton,2022,Rate (Total Population per Medical Facility),4460,104
+Midtown Business District,2022,Rate (Total Population per Medical Facility),3986,105
+Murray Hill/Stuyvesant,2022,Rate (Total Population per Medical Facility),3807,106
+Upper West Side,2022,Rate (Total Population per Medical Facility),19965,107
+Upper East Side,2022,Rate (Total Population per Medical Facility),5561,108
+Manhattanville,2022,Rate (Total Population per Medical Facility),18977,109
+Central Harlem,2022,Rate (Total Population per Medical Facility),7575,110
+East Harlem,2022,Rate (Total Population per Medical Facility),3715,111
+Washington Heights,2022,Rate (Total Population per Medical Facility),8874,112
+Mott Haven,2022,Rate (Total Population per Medical Facility),3595,201
+Hunts Point,2022,Rate (Total Population per Medical Facility),4105,202
+Morrisania,2022,Rate (Total Population per Medical Facility),6043,203
+Concourse/Highbridge,2022,Rate (Total Population per Medical Facility),8289,204
+University Heights,2022,Rate (Total Population per Medical Facility),5316,205
+East Tremont,2022,Rate (Total Population per Medical Facility),3680,206
+Bedford Park,2022,Rate (Total Population per Medical Facility),9480,207
+Riverdale,2022,Rate (Total Population per Medical Facility),17358,208
+Unionport/Soundview,2022,Rate (Total Population per Medical Facility),16213,209
+Throgs Neck,2022,Rate (Total Population per Medical Facility),15840,210
+Pelham Parkway,2022,Rate (Total Population per Medical Facility),3681,211
+Williamsbridge,2022,Rate (Total Population per Medical Facility),11471,212
+Williamsburg/Greenpoint,2022,Rate (Total Population per Medical Facility),9457,301
+Fort Greene/Brooklyn Hts,2022,Rate (Total Population per Medical Facility),5556,302
+Bedford Stuyvesant,2022,Rate (Total Population per Medical Facility),10308,303
+Bushwick,2022,Rate (Total Population per Medical Facility),9812,304
+East New York,2022,Rate (Total Population per Medical Facility),9516,305
+Park Slope,2022,Rate (Total Population per Medical Facility),8146,306
+Sunset Park,2022,Rate (Total Population per Medical Facility),10060,307
+Crown Heights North,2022,Rate (Total Population per Medical Facility),11666,308
+Crown Heights South,2022,Rate (Total Population per Medical Facility),9660,309
+Bay Ridge,2022,Rate (Total Population per Medical Facility),8128,310
+Bensonhurst,2022,Rate (Total Population per Medical Facility),18696,311
+Borough Park,2022,Rate (Total Population per Medical Facility),9028,312
+Coney Island,2022,Rate (Total Population per Medical Facility),12809,313
+Flatbush/Midwood,2022,Rate (Total Population per Medical Facility),7843,314
+Sheepshead Bay,2022,Rate (Total Population per Medical Facility),8671,315
+Brownsville,2022,Rate (Total Population per Medical Facility),12837,316
+East Flatbush,2022,Rate (Total Population per Medical Facility),13601,317
+Canarsie,2022,Rate (Total Population per Medical Facility),21877,318
+Astoria,2022,Rate (Total Population per Medical Facility),8740,401
+Sunnyside/Woodside,2022,Rate (Total Population per Medical Facility),22676,402
+Jackson Heights,2022,Rate (Total Population per Medical Facility),21909,403
+Elmhurst/Corona,2022,Rate (Total Population per Medical Facility),52025,404
+Ridgewood/Glendale,2022,Rate (Total Population per Medical Facility),23699,405
+Rego Park/Forest Hills,2022,Rate (Total Population per Medical Facility),15084,406
+Flushing,2022,Rate (Total Population per Medical Facility),14992,407
+Fresh Meadows/Briarwood,2022,Rate (Total Population per Medical Facility),28079,408
+Woodhaven,2022,Rate (Total Population per Medical Facility),11980,409
+Howard Beach,2022,Rate (Total Population per Medical Facility),29642,410
+Bayside,2022,Rate (Total Population per Medical Facility),8812,411
+Jamaica/St. Albans,2022,Rate (Total Population per Medical Facility),8320,412
+Queens Village,2022,Rate (Total Population per Medical Facility),33443,413
+The Rockaways,2022,Rate (Total Population per Medical Facility),11067,414
+St. George,2022,Rate (Total Population per Medical Facility),9789,501
+South Beach,2022,Rate (Total Population per Medical Facility),8662,502
+Tottenville,2022,Rate (Total Population per Medical Facility),80679,503
+Bronx,2022,Rate (Total Population per Medical Facility),6851,36005
+Brooklyn,2022,Rate (Total Population per Medical Facility),10158,36047
+Manhattan,2022,Rate (Total Population per Medical Facility),6621,36061
+Queens,2022,Rate (Total Population per Medical Facility),15332,36081
+Staten Island,2022,Rate (Total Population per Medical Facility),13226,36085
+New York City,2022,Rate (Total Population per Medical Facility),9388,3651000

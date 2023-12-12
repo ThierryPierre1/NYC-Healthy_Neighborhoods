@@ -1,0 +1,1566 @@
+"Name","Occupied Public Housing and Rent Regulated Units"
+"Description","Numbers and percents refer to the count and share of <em>all occupied rental units</em> for each geography. ""Rent Regulated"" includes any of the following building types: Rent-Stabilized pre- and post-1947, Rent-Controlled, HUD regulated (Section 8), Mitchell Lama rentals, and Article 4 or 5 buildings."
+"Source Notes","U.S. Census Bureau, New York City Housing and Vacancy Survey (2002, 2005, 2008, 2011, 2014, &amp; 2017); Retrieved from&nbsp;<a href=""https://www1.nyc.gov/site/hpd/about/nychvs.page"">https://www1.nyc.gov/site/hpd/about/nychvs.page</a>."
+"Notes",""
+
+Location,Housing Type,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,Public Housing,2002,Number,0,101
+Battery Park/Tribeca,Rent Regulated,2002,Number,13139.80449,101
+Greenwich Village,Public Housing,2002,Number,0,102
+Greenwich Village,Rent Regulated,2002,Number,19397.03896,102
+Lower East Side,Public Housing,2002,Number,16493.7485,103
+Lower East Side,Rent Regulated,2002,Number,38123.60911,103
+Chelsea/Clinton,Public Housing,2002,Number,1343.58767,104
+Chelsea/Clinton,Rent Regulated,2002,Number,23526.96838,104
+Midtown Business District,Public Housing,2002,Number,672.45102,105
+Midtown Business District,Rent Regulated,2002,Number,11774.99189,105
+Murray Hill/Stuyvesant,Public Housing,2002,Number,754.03239,106
+Murray Hill/Stuyvesant,Rent Regulated,2002,Number,44461.74194,106
+Upper West Side,Public Housing,2002,Number,4643.31152,107
+Upper West Side,Rent Regulated,2002,Number,55653.6497,107
+Upper East Side,Public Housing,2002,Number,3031.01217,108
+Upper East Side,Rent Regulated,2002,Number,56884.01701,108
+Manhattanville,Public Housing,2002,Number,4207.58974,109
+Manhattanville,Rent Regulated,2002,Number,33652.34648,109
+Central Harlem,Public Housing,2002,Number,3919.53192,110
+Central Harlem,Rent Regulated,2002,Number,26675.18488,110
+East Harlem,Public Housing,2002,Number,17435.37894,111
+East Harlem,Rent Regulated,2002,Number,15989.10163,111
+Washington Heights,Public Housing,2002,Number,2349.31123,112
+Washington Heights,Rent Regulated,2002,Number,60627.80972,112
+Mott Haven,Public Housing,2002,Number,7973.95853,201
+Mott Haven,Rent Regulated,2002,Number,14933.26371,201
+Hunts Point,Public Housing,2002,Number,4553.23603,202
+Hunts Point,Rent Regulated,2002,Number,8527.09156,202
+Morrisania,Public Housing,2002,Number,4014.17654,203
+Morrisania,Rent Regulated,2002,Number,12958.46389,203
+Concourse/Highbridge,Public Housing,2002,Number,1230.2391,204
+Concourse/Highbridge,Rent Regulated,2002,Number,33889.00258,204
+University Heights,Public Housing,2002,Number,1312.1205,205
+University Heights,Rent Regulated,2002,Number,38415.61341,205
+East Tremont,Public Housing,2002,Number,4190.62276,206
+East Tremont,Rent Regulated,2002,Number,13528.06313,206
+Bedford Park,Public Housing,2002,Number,540.04153,207
+Bedford Park,Rent Regulated,2002,Number,36502.45864,207
+Riverdale,Public Housing,2002,Number,819.96797,208
+Riverdale,Rent Regulated,2002,Number,27294.64598,208
+Unionport/Soundview,Public Housing,2002,Number,8082.37311,209
+Unionport/Soundview,Rent Regulated,2002,Number,23767.69834,209
+Throgs Neck,Public Housing,2002,Number,1727.26217,210
+Throgs Neck,Rent Regulated,2002,Number,6298.10571,210
+Pelham Parkway,Public Housing,2002,Number,3837.5085,211
+Pelham Parkway,Rent Regulated,2002,Number,15427.95918,211
+Williamsbridge,Public Housing,2002,Number,4375.89632,212
+Williamsbridge,Rent Regulated,2002,Number,11086.23583,212
+Williamsburg/Greenpoint,Public Housing,2002,Number,4619.49713,301
+Williamsburg/Greenpoint,Rent Regulated,2002,Number,26732.31246,301
+Fort Greene/Brooklyn Hts,Public Housing,2002,Number,4991.12785,302
+Fort Greene/Brooklyn Hts,Rent Regulated,2002,Number,14854.2958,302
+Bedford Stuyvesant,Public Housing,2002,Number,6637.74128,303
+Bedford Stuyvesant,Rent Regulated,2002,Number,11695.09991,303
+Bushwick,Public Housing,2002,Number,4210.98694,304
+Bushwick,Rent Regulated,2002,Number,14338.19699,304
+East New York,Public Housing,2002,Number,7394.06384,305
+East New York,Rent Regulated,2002,Number,13188.84491,305
+Park Slope,Public Housing,2002,Number,3048.9085,306
+Park Slope,Rent Regulated,2002,Number,11659.63469,306
+Sunset Park,Public Housing,2002,Number,0,307
+Sunset Park,Rent Regulated,2002,Number,12443.50617,307
+Crown Heights North,Public Housing,2002,Number,4981.74426,308
+Crown Heights North,Rent Regulated,2002,Number,22974.09725,308
+Crown Heights South,Public Housing,2002,Number,0,309
+Crown Heights South,Rent Regulated,2002,Number,27460.62213,309
+Bay Ridge,Public Housing,2002,Number,0,310
+Bay Ridge,Rent Regulated,2002,Number,18084.07922,310
+Bensonhurst,Public Housing,2002,Number,0,311
+Bensonhurst,Rent Regulated,2002,Number,20457.81279,311
+Borough Park,Public Housing,2002,Number,0,312
+Borough Park,Rent Regulated,2002,Number,16305.38047,312
+Coney Island,Public Housing,2002,Number,5737.73912,313
+Coney Island,Rent Regulated,2002,Number,20271.65947,313
+Flatbush/Midwood,Public Housing,2002,Number,0,314
+Flatbush/Midwood,Rent Regulated,2002,Number,36078.37332,314
+Sheepshead Bay,Public Housing,2002,Number,1455.43966,315
+Sheepshead Bay,Rent Regulated,2002,Number,20456.79612,315
+Brownsville,Public Housing,2002,Number,9476.84325,316
+Brownsville,Rent Regulated,2002,Number,12030.88432,316
+East Flatbush,Public Housing,2002,Number,0,317
+East Flatbush,Rent Regulated,2002,Number,18582.96186,317
+Canarsie,Public Housing,2002,Number,5340.01545,318
+Canarsie,Rent Regulated,2002,Number,3876.05123,318
+Astoria,Public Housing,2002,Number,7419.3237,401
+Astoria,Rent Regulated,2002,Number,34070.3546,401
+Sunnyside/Woodside,Public Housing,2002,Number,491.11401,402
+Sunnyside/Woodside,Rent Regulated,2002,Number,25394.52395,402
+Jackson Heights,Public Housing,2002,Number,0,403
+Jackson Heights,Rent Regulated,2002,Number,15983.50647,403
+Elmhurst/Corona,Public Housing,2002,Number,0,404
+Elmhurst/Corona,Rent Regulated,2002,Number,20383.1574,404
+Ridgewood/Glendale,Public Housing,2002,Number,0,405
+Ridgewood/Glendale,Rent Regulated,2002,Number,9855.58208,405
+Rego Park/Forest Hills,Public Housing,2002,Number,0,406
+Rego Park/Forest Hills,Rent Regulated,2002,Number,23441.66688,406
+Flushing,Public Housing,2002,Number,0,407
+Flushing,Rent Regulated,2002,Number,24298.60316,407
+Fresh Meadows/Briarwood,Public Housing,2002,Number,2449.55027,408
+Fresh Meadows/Briarwood,Rent Regulated,2002,Number,20182.97244,408
+Woodhaven,Public Housing,2002,Number,0,409
+Woodhaven,Rent Regulated,2002,Number,9649.40875,409
+Howard Beach,Public Housing,2002,Number,0,410
+Howard Beach,Rent Regulated,2002,Number,2344.51552,410
+Bayside,Public Housing,2002,Number,0,411
+Bayside,Rent Regulated,2002,Number,2696.90028,411
+Jamaica/St. Albans,Public Housing,2002,Number,1808.43538,412
+Jamaica/St. Albans,Rent Regulated,2002,Number,12133.01218,412
+Queens Village,Public Housing,2002,Number,0,413
+Queens Village,Rent Regulated,2002,Number,3534.51082,413
+The Rockaways,Public Housing,2002,Number,3849.41075,414
+The Rockaways,Rent Regulated,2002,Number,11102.27896,414
+St. George,Public Housing,2002,Number,2296.70402,501
+St. George,Rent Regulated,2002,Number,9551.11859,501
+South Beach,Public Housing,2002,Number,773.93061,502
+South Beach,Rent Regulated,2002,Number,1160.19124,502
+Tottenville,Public Housing,2002,Number,0,503
+Tottenville,Rent Regulated,2002,Number,2807.13319,503
+Bronx,Public Housing,2002,Number,42657.40306,36005
+Bronx,Rent Regulated,2002,Number,242628.60196,36005
+Brooklyn,Public Housing,2002,Number,57894.10728,36047
+Brooklyn,Rent Regulated,2002,Number,321490.60911,36047
+Manhattan,Public Housing,2002,Number,54849.9551,36061
+Manhattan,Rent Regulated,2002,Number,399906.26419,36061
+Queens,Public Housing,2002,Number,16017.83411,36081
+Queens,Rent Regulated,2002,Number,215070.99349,36081
+Staten Island,Public Housing,2002,Number,3070.63463,36085
+Staten Island,Rent Regulated,2002,Number,13518.44302,36085
+New York City,Public Housing,2002,Number,174489.93418,3651000
+New York City,Rent Regulated,2002,Number,1192614.91177,3651000
+Battery Park/Tribeca,Public Housing,2005,Number,0,101
+Battery Park/Tribeca,Rent Regulated,2005,Number,11175.10742,101
+Greenwich Village,Public Housing,2005,Number,0,102
+Greenwich Village,Rent Regulated,2005,Number,16496.74423,102
+Lower East Side,Public Housing,2005,Number,15172.57759,103
+Lower East Side,Rent Regulated,2005,Number,34733.40068,103
+Chelsea/Clinton,Public Housing,2005,Number,1420.49071,104
+Chelsea/Clinton,Rent Regulated,2005,Number,24844.52787,104
+Midtown Business District,Public Housing,2005,Number,710.94015,105
+Midtown Business District,Rent Regulated,2005,Number,12434.41608,105
+Murray Hill/Stuyvesant,Public Housing,2005,Number,777.6492,106
+Murray Hill/Stuyvesant,Rent Regulated,2005,Number,38850.20234,106
+Upper West Side,Public Housing,2005,Number,5883.30016,107
+Upper West Side,Rent Regulated,2005,Number,52077.56913,107
+Upper East Side,Public Housing,2005,Number,2324.47487,108
+Upper East Side,Rent Regulated,2005,Number,48658.18076,108
+Manhattanville,Public Housing,2005,Number,3919.00819,109
+Manhattanville,Rent Regulated,2005,Number,30987.18301,109
+Central Harlem,Public Housing,2005,Number,3778.60011,110
+Central Harlem,Rent Regulated,2005,Number,28479.58563,110
+East Harlem,Public Housing,2005,Number,15039.24541,111
+East Harlem,Rent Regulated,2005,Number,19778.58493,111
+Washington Heights,Public Housing,2005,Number,1633.81298,112
+Washington Heights,Rent Regulated,2005,Number,58567.91477,112
+Mott Haven,Public Housing,2005,Number,6939.45817,201
+Mott Haven,Rent Regulated,2005,Number,17218.53589,201
+Hunts Point,Public Housing,2005,Number,3962.52261,202
+Hunts Point,Rent Regulated,2005,Number,9832.01226,202
+Morrisania,Public Housing,2005,Number,3951.39375,203
+Morrisania,Rent Regulated,2005,Number,14681.2547,203
+Concourse/Highbridge,Public Housing,2005,Number,1051.18009,204
+Concourse/Highbridge,Rent Regulated,2005,Number,34812.86069,204
+University Heights,Public Housing,2005,Number,1174.01191,205
+University Heights,Rent Regulated,2005,Number,38526.95521,205
+East Tremont,Public Housing,2005,Number,4125.0803,206
+East Tremont,Rent Regulated,2005,Number,15326.58053,206
+Bedford Park,Public Housing,2005,Number,784.87786,207
+Bedford Park,Rent Regulated,2005,Number,37639.78555,207
+Riverdale,Public Housing,2005,Number,572.42087,208
+Riverdale,Rent Regulated,2005,Number,26821.26073,208
+Unionport/Soundview,Public Housing,2005,Number,7535.1251,209
+Unionport/Soundview,Rent Regulated,2005,Number,27297.03598,209
+Throgs Neck,Public Housing,2005,Number,1258.23956,210
+Throgs Neck,Rent Regulated,2005,Number,8663.66013,210
+Pelham Parkway,Public Housing,2005,Number,3904.45619,211
+Pelham Parkway,Rent Regulated,2005,Number,17411.94607,211
+Williamsbridge,Public Housing,2005,Number,2592.23328,212
+Williamsbridge,Rent Regulated,2005,Number,14663.72124,212
+Williamsburg/Greenpoint,Public Housing,2005,Number,4534.76613,301
+Williamsburg/Greenpoint,Rent Regulated,2005,Number,27633.39374,301
+Fort Greene/Brooklyn Hts,Public Housing,2005,Number,5153.15191,302
+Fort Greene/Brooklyn Hts,Rent Regulated,2005,Number,15401.1615,302
+Bedford Stuyvesant,Public Housing,2005,Number,7847.97574,303
+Bedford Stuyvesant,Rent Regulated,2005,Number,10285.64462,303
+Bushwick,Public Housing,2005,Number,4372.68026,304
+Bushwick,Rent Regulated,2005,Number,12706.53439,304
+East New York,Public Housing,2005,Number,8003.55742,305
+East New York,Rent Regulated,2005,Number,12462.22452,305
+Park Slope,Public Housing,2005,Number,3440.77835,306
+Park Slope,Rent Regulated,2005,Number,10158.2267,306
+Sunset Park,Public Housing,2005,Number,0,307
+Sunset Park,Rent Regulated,2005,Number,13383.72987,307
+Crown Heights North,Public Housing,2005,Number,3642.51732,308
+Crown Heights North,Rent Regulated,2005,Number,24651.55926,308
+Crown Heights South,Public Housing,2005,Number,0,309
+Crown Heights South,Rent Regulated,2005,Number,28809.25514,309
+Bay Ridge,Public Housing,2005,Number,0,310
+Bay Ridge,Rent Regulated,2005,Number,17775.95908,310
+Bensonhurst,Public Housing,2005,Number,0,311
+Bensonhurst,Rent Regulated,2005,Number,20108.17831,311
+Borough Park,Public Housing,2005,Number,0,312
+Borough Park,Rent Regulated,2005,Number,17390.51771,312
+Coney Island,Public Housing,2005,Number,6577.35871,313
+Coney Island,Rent Regulated,2005,Number,16596.38837,313
+Flatbush/Midwood,Public Housing,2005,Number,0,314
+Flatbush/Midwood,Rent Regulated,2005,Number,35422.56471,314
+Sheepshead Bay,Public Housing,2005,Number,2868.16877,315
+Sheepshead Bay,Rent Regulated,2005,Number,21365.32906,315
+Brownsville,Public Housing,2005,Number,8593.87079,316
+Brownsville,Rent Regulated,2005,Number,13572.95433,316
+East Flatbush,Public Housing,2005,Number,0,317
+East Flatbush,Rent Regulated,2005,Number,16612.53934,317
+Canarsie,Public Housing,2005,Number,4550.26607,318
+Canarsie,Rent Regulated,2005,Number,3109.13573,318
+Astoria,Public Housing,2005,Number,7115.17097,401
+Astoria,Rent Regulated,2005,Number,34782.8653,401
+Sunnyside/Woodside,Public Housing,2005,Number,0,402
+Sunnyside/Woodside,Rent Regulated,2005,Number,25581.0214,402
+Jackson Heights,Public Housing,2005,Number,0,403
+Jackson Heights,Rent Regulated,2005,Number,15301.2569,403
+Elmhurst/Corona,Public Housing,2005,Number,0,404
+Elmhurst/Corona,Rent Regulated,2005,Number,20059.5579,404
+Ridgewood/Glendale,Public Housing,2005,Number,0,405
+Ridgewood/Glendale,Rent Regulated,2005,Number,9589.66183,405
+Rego Park/Forest Hills,Public Housing,2005,Number,0,406
+Rego Park/Forest Hills,Rent Regulated,2005,Number,23740.01912,406
+Flushing,Public Housing,2005,Number,0,407
+Flushing,Rent Regulated,2005,Number,23457.1469,407
+Fresh Meadows/Briarwood,Public Housing,2005,Number,2588.53669,408
+Fresh Meadows/Briarwood,Rent Regulated,2005,Number,19061.99729,408
+Woodhaven,Public Housing,2005,Number,0,409
+Woodhaven,Rent Regulated,2005,Number,8748.60832,409
+Howard Beach,Public Housing,2005,Number,0,410
+Howard Beach,Rent Regulated,2005,Number,2144.14979,410
+Bayside,Public Housing,2005,Number,0,411
+Bayside,Rent Regulated,2005,Number,1586.57028,411
+Jamaica/St. Albans,Public Housing,2005,Number,2981.66421,412
+Jamaica/St. Albans,Rent Regulated,2005,Number,11343.90537,412
+Queens Village,Public Housing,2005,Number,533.58072,413
+Queens Village,Rent Regulated,2005,Number,4249.79647,413
+The Rockaways,Public Housing,2005,Number,3811.42352,414
+The Rockaways,Rent Regulated,2005,Number,12121.34118,414
+St. George,Public Housing,2005,Number,1820.14814,501
+St. George,Rent Regulated,2005,Number,8361.6319,501
+South Beach,Public Housing,2005,Number,592.72247,502
+South Beach,Rent Regulated,2005,Number,887.19165,502
+Tottenville,Public Housing,2005,Number,0,503
+Tottenville,Rent Regulated,2005,Number,2777.16979,503
+Bronx,Public Housing,2005,Number,37850.99969,36005
+Bronx,Rent Regulated,2005,Number,262895.60898,36005
+Brooklyn,Public Housing,2005,Number,59585.09147,36047
+Brooklyn,Rent Regulated,2005,Number,317445.29638,36047
+Manhattan,Public Housing,2005,Number,50660.09937,36061
+Manhattan,Rent Regulated,2005,Number,377083.41685,36061
+Queens,Public Housing,2005,Number,17030.37611,36081
+Queens,Rent Regulated,2005,Number,211767.89805,36081
+Staten Island,Public Housing,2005,Number,2412.87061,36085
+Staten Island,Rent Regulated,2005,Number,12025.99334,36085
+New York City,Public Housing,2005,Number,167539.43725,3651000
+New York City,Rent Regulated,2005,Number,1181218.2136,3651000
+Battery Park/Tribeca,Public Housing,2008,Number,0,101
+Battery Park/Tribeca,Rent Regulated,2008,Number,11221.85957,101
+Greenwich Village,Public Housing,2008,Number,0,102
+Greenwich Village,Rent Regulated,2008,Number,16565.75997,102
+Lower East Side,Public Housing,2008,Number,17813.50411,103
+Lower East Side,Rent Regulated,2008,Number,30068.27516,103
+Chelsea/Clinton,Public Housing,2008,Number,1525.88475,104
+Chelsea/Clinton,Rent Regulated,2008,Number,22605.49759,104
+Midtown Business District,Public Housing,2008,Number,763.68873,105
+Midtown Business District,Rent Regulated,2008,Number,11313.80577,105
+Murray Hill/Stuyvesant,Public Housing,2008,Number,765.78862,106
+Murray Hill/Stuyvesant,Rent Regulated,2008,Number,29928.16464,106
+Upper West Side,Public Housing,2008,Number,5843.6393,107
+Upper West Side,Rent Regulated,2008,Number,41622.86584,107
+Upper East Side,Public Housing,2008,Number,2333.86577,108
+Upper East Side,Rent Regulated,2008,Number,42927.63628,108
+Manhattanville,Public Housing,2008,Number,4431.69464,109
+Manhattanville,Rent Regulated,2008,Number,32342.37091,109
+Central Harlem,Public Housing,2008,Number,8644.89706,110
+Central Harlem,Rent Regulated,2008,Number,26814.42102,110
+East Harlem,Public Housing,2008,Number,15872.1191,111
+East Harlem,Rent Regulated,2008,Number,20430.29925,111
+Washington Heights,Public Housing,2008,Number,1601.97818,112
+Washington Heights,Rent Regulated,2008,Number,57098.50706,112
+Mott Haven,Public Housing,2008,Number,7587.18482,201
+Mott Haven,Rent Regulated,2008,Number,17602.91945,201
+Hunts Point,Public Housing,2008,Number,4332.38312,202
+Hunts Point,Rent Regulated,2008,Number,10051.50038,202
+Morrisania,Public Housing,2008,Number,3767.38456,203
+Morrisania,Rent Regulated,2008,Number,13143.33836,203
+Concourse/Highbridge,Public Housing,2008,Number,2101.30449,204
+Concourse/Highbridge,Rent Regulated,2008,Number,34860.32901,204
+University Heights,Public Housing,2008,Number,1522.66075,205
+University Heights,Rent Regulated,2008,Number,40608.43044,205
+East Tremont,Public Housing,2008,Number,3932.98284,206
+East Tremont,Rent Regulated,2008,Number,13721.0639,206
+Bedford Park,Public Housing,2008,Number,749.62962,207
+Bedford Park,Rent Regulated,2008,Number,36026.89535,207
+Riverdale,Public Housing,2008,Number,3303.0387,208
+Riverdale,Rent Regulated,2008,Number,22724.08392,208
+Unionport/Soundview,Public Housing,2008,Number,7484.42262,209
+Unionport/Soundview,Rent Regulated,2008,Number,25849.55158,209
+Throgs Neck,Public Housing,2008,Number,1745.70316,210
+Throgs Neck,Rent Regulated,2008,Number,7295.18838,210
+Pelham Parkway,Public Housing,2008,Number,3842.60778,211
+Pelham Parkway,Rent Regulated,2008,Number,15266.96648,211
+Williamsbridge,Public Housing,2008,Number,3105.81485,212
+Williamsbridge,Rent Regulated,2008,Number,14027.35548,212
+Williamsburg/Greenpoint,Public Housing,2008,Number,4816.93132,301
+Williamsburg/Greenpoint,Rent Regulated,2008,Number,26224.08181,301
+Fort Greene/Brooklyn Hts,Public Housing,2008,Number,5134.12914,302
+Fort Greene/Brooklyn Hts,Rent Regulated,2008,Number,14605.93658,302
+Bedford Stuyvesant,Public Housing,2008,Number,7660.46093,303
+Bedford Stuyvesant,Rent Regulated,2008,Number,9571.62773,303
+Bushwick,Public Housing,2008,Number,4504.40556,304
+Bushwick,Rent Regulated,2008,Number,12381.57487,304
+East New York,Public Housing,2008,Number,7383.52338,305
+East New York,Rent Regulated,2008,Number,13341.79888,305
+Park Slope,Public Housing,2008,Number,3165.80547,306
+Park Slope,Rent Regulated,2008,Number,12501.93978,306
+Sunset Park,Public Housing,2008,Number,0,307
+Sunset Park,Rent Regulated,2008,Number,12346.08298,307
+Crown Heights North,Public Housing,2008,Number,5244.97993,308
+Crown Heights North,Rent Regulated,2008,Number,22558.33731,308
+Crown Heights South,Public Housing,2008,Number,0,309
+Crown Heights South,Rent Regulated,2008,Number,29261.84876,309
+Bay Ridge,Public Housing,2008,Number,0,310
+Bay Ridge,Rent Regulated,2008,Number,17488.14543,310
+Bensonhurst,Public Housing,2008,Number,0,311
+Bensonhurst,Rent Regulated,2008,Number,20012.64322,311
+Borough Park,Public Housing,2008,Number,0,312
+Borough Park,Rent Regulated,2008,Number,17935.89703,312
+Coney Island,Public Housing,2008,Number,6636.38553,313
+Coney Island,Rent Regulated,2008,Number,18690.66643,313
+Flatbush/Midwood,Public Housing,2008,Number,0,314
+Flatbush/Midwood,Rent Regulated,2008,Number,37679.24856,314
+Sheepshead Bay,Public Housing,2008,Number,2991.69559,315
+Sheepshead Bay,Rent Regulated,2008,Number,19739.3736,315
+Brownsville,Public Housing,2008,Number,8696.30022,316
+Brownsville,Rent Regulated,2008,Number,13004.95379,316
+East Flatbush,Public Housing,2008,Number,0,317
+East Flatbush,Rent Regulated,2008,Number,17879.63352,317
+Canarsie,Public Housing,2008,Number,4857.80271,318
+Canarsie,Rent Regulated,2008,Number,2792.0953,318
+Astoria,Public Housing,2008,Number,8050.01867,401
+Astoria,Rent Regulated,2008,Number,34463.89525,401
+Sunnyside/Woodside,Public Housing,2008,Number,0,402
+Sunnyside/Woodside,Rent Regulated,2008,Number,26406.82365,402
+Jackson Heights,Public Housing,2008,Number,0,403
+Jackson Heights,Rent Regulated,2008,Number,19076.97636,403
+Elmhurst/Corona,Public Housing,2008,Number,0,404
+Elmhurst/Corona,Rent Regulated,2008,Number,21645.59033,404
+Ridgewood/Glendale,Public Housing,2008,Number,0,405
+Ridgewood/Glendale,Rent Regulated,2008,Number,12491.3018,405
+Rego Park/Forest Hills,Public Housing,2008,Number,0,406
+Rego Park/Forest Hills,Rent Regulated,2008,Number,20397.2969,406
+Flushing,Public Housing,2008,Number,0,407
+Flushing,Rent Regulated,2008,Number,24409.18855,407
+Fresh Meadows/Briarwood,Public Housing,2008,Number,2282.92176,408
+Fresh Meadows/Briarwood,Rent Regulated,2008,Number,16909.64759,408
+Woodhaven,Public Housing,2008,Number,0,409
+Woodhaven,Rent Regulated,2008,Number,7736.61466,409
+Howard Beach,Public Housing,2008,Number,0,410
+Howard Beach,Rent Regulated,2008,Number,2469.33937,410
+Bayside,Public Housing,2008,Number,0,411
+Bayside,Rent Regulated,2008,Number,997.97976,411
+Jamaica/St. Albans,Public Housing,2008,Number,2400.64677,412
+Jamaica/St. Albans,Rent Regulated,2008,Number,15551.39147,412
+Queens Village,Public Housing,2008,Number,0,413
+Queens Village,Rent Regulated,2008,Number,3546.23213,413
+The Rockaways,Public Housing,2008,Number,4209.64531,414
+The Rockaways,Rent Regulated,2008,Number,11168.36548,414
+St. George,Public Housing,2008,Number,1977.07263,501
+St. George,Rent Regulated,2008,Number,6480.53857,501
+South Beach,Public Housing,2008,Number,724.47842,502
+South Beach,Rent Regulated,2008,Number,775.73101,502
+Tottenville,Public Housing,2008,Number,0,503
+Tottenville,Rent Regulated,2008,Number,2920.88072,503
+Bronx,Public Housing,2008,Number,43475.11731,36005
+Bronx,Rent Regulated,2008,Number,251177.62273,36005
+Brooklyn,Public Housing,2008,Number,61092.41978,36047
+Brooklyn,Rent Regulated,2008,Number,318015.88558,36047
+Manhattan,Public Housing,2008,Number,59597.06026,36061
+Manhattan,Rent Regulated,2008,Number,342939.46306,36061
+Queens,Public Housing,2008,Number,16943.23251,36081
+Queens,Rent Regulated,2008,Number,217270.6433,36081
+Staten Island,Public Housing,2008,Number,2701.55105,36085
+Staten Island,Rent Regulated,2008,Number,10177.1503,36085
+New York City,Public Housing,2008,Number,183809.38091,3651000
+New York City,Rent Regulated,2008,Number,1139580.76497,3651000
+Battery Park/Tribeca,Public Housing,2011,Number,0,101
+Battery Park/Tribeca,Rent Regulated,2011,Number,9623.53547,101
+Greenwich Village,Public Housing,2011,Number,0,102
+Greenwich Village,Rent Regulated,2011,Number,14206.30667,102
+Lower East Side,Public Housing,2011,Number,13375.74901,103
+Lower East Side,Rent Regulated,2011,Number,33778.38344,103
+Chelsea/Clinton,Public Housing,2011,Number,1532.60785,104
+Chelsea/Clinton,Rent Regulated,2011,Number,21537.67574,104
+Midtown Business District,Public Housing,2011,Number,767.05356,105
+Midtown Business District,Rent Regulated,2011,Number,10779.37255,105
+Murray Hill/Stuyvesant,Public Housing,2011,Number,847.14766,106
+Murray Hill/Stuyvesant,Rent Regulated,2011,Number,26154.27126,106
+Upper West Side,Public Housing,2011,Number,5545.17025,107
+Upper West Side,Rent Regulated,2011,Number,31156.08155,107
+Upper East Side,Public Housing,2011,Number,1546.25074,108
+Upper East Side,Rent Regulated,2011,Number,38665.11826,108
+Manhattanville,Public Housing,2011,Number,4027.14005,109
+Manhattanville,Rent Regulated,2011,Number,23713.89395,109
+Central Harlem,Public Housing,2011,Number,8345.83678,110
+Central Harlem,Rent Regulated,2011,Number,26494.65034,110
+East Harlem,Public Housing,2011,Number,14738.65442,111
+East Harlem,Rent Regulated,2011,Number,20374.44728,111
+Washington Heights,Public Housing,2011,Number,2027.87668,112
+Washington Heights,Rent Regulated,2011,Number,56196.36957,112
+Mott Haven,Public Housing,2011,Number,10597.27052,201
+Mott Haven,Rent Regulated,2011,Number,13809.05978,201
+Hunts Point,Public Housing,2011,Number,6051.18196,202
+Hunts Point,Rent Regulated,2011,Number,7885.1562,202
+Morrisania,Public Housing,2011,Number,5229.51061,203
+Morrisania,Rent Regulated,2011,Number,14176.94029,203
+Concourse/Highbridge,Public Housing,2011,Number,777.47708,204
+Concourse/Highbridge,Rent Regulated,2011,Number,40912.8008,204
+University Heights,Public Housing,2011,Number,781.89099,205
+University Heights,Rent Regulated,2011,Number,35318.24857,205
+East Tremont,Public Housing,2011,Number,5459.37776,206
+East Tremont,Rent Regulated,2011,Number,14800.09859,206
+Bedford Park,Public Housing,2011,Number,0,207
+Bedford Park,Rent Regulated,2011,Number,38695.25834,207
+Riverdale,Public Housing,2011,Number,749.01368,208
+Riverdale,Rent Regulated,2011,Number,22241.72885,208
+Unionport/Soundview,Public Housing,2011,Number,9338.10164,209
+Unionport/Soundview,Rent Regulated,2011,Number,22065.62829,209
+Throgs Neck,Public Housing,2011,Number,1998.16349,210
+Throgs Neck,Rent Regulated,2011,Number,9234.4719,210
+Pelham Parkway,Public Housing,2011,Number,3620.28094,211
+Pelham Parkway,Rent Regulated,2011,Number,17319.92117,211
+Williamsbridge,Public Housing,2011,Number,3472.10982,212
+Williamsbridge,Rent Regulated,2011,Number,13962.13944,212
+Williamsburg/Greenpoint,Public Housing,2011,Number,4317.97582,301
+Williamsburg/Greenpoint,Rent Regulated,2011,Number,24846.6355,301
+Fort Greene/Brooklyn Hts,Public Housing,2011,Number,7044.31696,302
+Fort Greene/Brooklyn Hts,Rent Regulated,2011,Number,13956.78716,302
+Bedford Stuyvesant,Public Housing,2011,Number,7189.60704,303
+Bedford Stuyvesant,Rent Regulated,2011,Number,16977.54786,303
+Bushwick,Public Housing,2011,Number,5249.79284,304
+Bushwick,Rent Regulated,2011,Number,15395.39072,304
+East New York,Public Housing,2011,Number,6462.92352,305
+East New York,Rent Regulated,2011,Number,14913.41308,305
+Park Slope,Public Housing,2011,Number,3791.41288,306
+Park Slope,Rent Regulated,2011,Number,12312.19285,306
+Sunset Park,Public Housing,2011,Number,0,307
+Sunset Park,Rent Regulated,2011,Number,15806.74161,307
+Crown Heights North,Public Housing,2011,Number,3802.57606,308
+Crown Heights North,Rent Regulated,2011,Number,22606.13724,308
+Crown Heights South,Public Housing,2011,Number,0,309
+Crown Heights South,Rent Regulated,2011,Number,30536.58787,309
+Bay Ridge,Public Housing,2011,Number,0,310
+Bay Ridge,Rent Regulated,2011,Number,18769.28933,310
+Bensonhurst,Public Housing,2011,Number,0,311
+Bensonhurst,Rent Regulated,2011,Number,22749.10246,311
+Borough Park,Public Housing,2011,Number,0,312
+Borough Park,Rent Regulated,2011,Number,15120.06479,312
+Coney Island,Public Housing,2011,Number,5368.03592,313
+Coney Island,Rent Regulated,2011,Number,20925.78078,313
+Flatbush/Midwood,Public Housing,2011,Number,0,314
+Flatbush/Midwood,Rent Regulated,2011,Number,31913.79705,314
+Sheepshead Bay,Public Housing,2011,Number,1577.75776,315
+Sheepshead Bay,Rent Regulated,2011,Number,17428.624,315
+Brownsville,Public Housing,2011,Number,10365.66154,316
+Brownsville,Rent Regulated,2011,Number,16238.9301,316
+East Flatbush,Public Housing,2011,Number,760.31958,317
+East Flatbush,Rent Regulated,2011,Number,18001.4775,317
+Canarsie,Public Housing,2011,Number,6159.08585,318
+Canarsie,Rent Regulated,2011,Number,4271.87959,318
+Astoria,Public Housing,2011,Number,8619.00504,401
+Astoria,Rent Regulated,2011,Number,32685.21211,401
+Sunnyside/Woodside,Public Housing,2011,Number,0,402
+Sunnyside/Woodside,Rent Regulated,2011,Number,22941.15312,402
+Jackson Heights,Public Housing,2011,Number,0,403
+Jackson Heights,Rent Regulated,2011,Number,19199.98136,403
+Elmhurst/Corona,Public Housing,2011,Number,0,404
+Elmhurst/Corona,Rent Regulated,2011,Number,19808.16882,404
+Ridgewood/Glendale,Public Housing,2011,Number,0,405
+Ridgewood/Glendale,Rent Regulated,2011,Number,13487.92843,405
+Rego Park/Forest Hills,Public Housing,2011,Number,722.58908,406
+Rego Park/Forest Hills,Rent Regulated,2011,Number,17952.34022,406
+Flushing,Public Housing,2011,Number,0,407
+Flushing,Rent Regulated,2011,Number,21342.125,407
+Fresh Meadows/Briarwood,Public Housing,2011,Number,2358.7722,408
+Fresh Meadows/Briarwood,Rent Regulated,2011,Number,15571.8478,408
+Woodhaven,Public Housing,2011,Number,0,409
+Woodhaven,Rent Regulated,2011,Number,8922.58533,409
+Howard Beach,Public Housing,2011,Number,0,410
+Howard Beach,Rent Regulated,2011,Number,521.75464,410
+Bayside,Public Housing,2011,Number,0,411
+Bayside,Rent Regulated,2011,Number,2848.55973,411
+Jamaica/St. Albans,Public Housing,2011,Number,1551.19701,412
+Jamaica/St. Albans,Rent Regulated,2011,Number,10671.41069,412
+Queens Village,Public Housing,2011,Number,0,413
+Queens Village,Rent Regulated,2011,Number,1991.66854,413
+The Rockaways,Public Housing,2011,Number,3984.31512,414
+The Rockaways,Rent Regulated,2011,Number,10416.29086,414
+St. George,Public Housing,2011,Number,3128.14146,501
+St. George,Rent Regulated,2011,Number,7001.21282,501
+South Beach,Public Housing,2011,Number,1664.30158,502
+South Beach,Rent Regulated,2011,Number,1545.24012,502
+Tottenville,Public Housing,2011,Number,0,503
+Tottenville,Rent Regulated,2011,Number,1541.94651,503
+Bronx,Public Housing,2011,Number,48074.37849,36005
+Bronx,Rent Regulated,2011,Number,250421.45222,36005
+Brooklyn,Public Housing,2011,Number,62089.46577,36047
+Brooklyn,Rent Regulated,2011,Number,332770.37949,36047
+Manhattan,Public Housing,2011,Number,52753.487,36061
+Manhattan,Rent Regulated,2011,Number,312680.10608,36061
+Queens,Public Housing,2011,Number,17235.87845,36081
+Queens,Rent Regulated,2011,Number,198361.02665,36081
+Staten Island,Public Housing,2011,Number,4792.44304,36085
+Staten Island,Rent Regulated,2011,Number,10088.39945,36085
+New York City,Public Housing,2011,Number,184945.65275,3651000
+New York City,Rent Regulated,2011,Number,1104321.36389,3651000
+Battery Park/Tribeca,Public Housing,2014,Number,0,101
+Battery Park/Tribeca,Rent Regulated,2014,Number,10539.92966,101
+Greenwich Village,Public Housing,2014,Number,0,102
+Greenwich Village,Rent Regulated,2014,Number,15559.09195,102
+Lower East Side,Public Housing,2014,Number,14064.36792,103
+Lower East Side,Rent Regulated,2014,Number,31510.80693,103
+Chelsea/Clinton,Public Housing,2014,Number,1506.67168,104
+Chelsea/Clinton,Rent Regulated,2014,Number,21822.66233,104
+Midtown Business District,Public Housing,2014,Number,754.0728,105
+Midtown Business District,Rent Regulated,2014,Number,10922.00523,105
+Murray Hill/Stuyvesant,Public Housing,2014,Number,467.47502,106
+Murray Hill/Stuyvesant,Rent Regulated,2014,Number,27270.83942,106
+Upper West Side,Public Housing,2014,Number,5861.12452,107
+Upper West Side,Rent Regulated,2014,Number,36093.87192,107
+Upper East Side,Public Housing,2014,Number,1342.23433,108
+Upper East Side,Rent Regulated,2014,Number,41488.05507,108
+Manhattanville,Public Housing,2014,Number,4328.67343,109
+Manhattanville,Rent Regulated,2014,Number,24722.02367,109
+Central Harlem,Public Housing,2014,Number,8217.6832,110
+Central Harlem,Rent Regulated,2014,Number,27450.51013,110
+East Harlem,Public Housing,2014,Number,14820.44354,111
+East Harlem,Rent Regulated,2014,Number,21075.9429,111
+Washington Heights,Public Housing,2014,Number,2167.20854,112
+Washington Heights,Rent Regulated,2014,Number,56126.1135,112
+Mott Haven,Public Housing,2014,Number,10571.13119,201
+Mott Haven,Rent Regulated,2014,Number,13480.68628,201
+Hunts Point,Public Housing,2014,Number,6036.25605,202
+Hunts Point,Rent Regulated,2014,Number,7697.65058,202
+Morrisania,Public Housing,2014,Number,5484.9122,203
+Morrisania,Rent Regulated,2014,Number,13909.35568,203
+Concourse/Highbridge,Public Housing,2014,Number,849.6101,204
+Concourse/Highbridge,Rent Regulated,2014,Number,38304.09365,204
+University Heights,Public Housing,2014,Number,600.16335,205
+University Heights,Rent Regulated,2014,Number,34794.43639,205
+East Tremont,Public Housing,2014,Number,5726.00574,206
+East Tremont,Rent Regulated,2014,Number,14520.75209,206
+Bedford Park,Public Housing,2014,Number,0,207
+Bedford Park,Rent Regulated,2014,Number,42190.40452,207
+Riverdale,Public Housing,2014,Number,1854.92368,208
+Riverdale,Rent Regulated,2014,Number,19948.26243,208
+Unionport/Soundview,Public Housing,2014,Number,10918.58548,209
+Unionport/Soundview,Rent Regulated,2014,Number,24648.17352,209
+Throgs Neck,Public Housing,2014,Number,2317.43512,210
+Throgs Neck,Rent Regulated,2014,Number,6564.00296,210
+Pelham Parkway,Public Housing,2014,Number,3038.66568,211
+Pelham Parkway,Rent Regulated,2014,Number,17220.02772,211
+Williamsbridge,Public Housing,2014,Number,3656.76664,212
+Williamsbridge,Rent Regulated,2014,Number,14634.08994,212
+Williamsburg/Greenpoint,Public Housing,2014,Number,4530.02512,301
+Williamsburg/Greenpoint,Rent Regulated,2014,Number,24906.3785,301
+Fort Greene/Brooklyn Hts,Public Housing,2014,Number,7606.56926,302
+Fort Greene/Brooklyn Hts,Rent Regulated,2014,Number,13036.40728,302
+Bedford Stuyvesant,Public Housing,2014,Number,7291.83653,303
+Bedford Stuyvesant,Rent Regulated,2014,Number,20661.28127,303
+Bushwick,Public Housing,2014,Number,5343.00646,304
+Bushwick,Rent Regulated,2014,Number,16603.31776,304
+East New York,Public Housing,2014,Number,4388.97,305
+East New York,Rent Regulated,2014,Number,13921.6282,305
+Park Slope,Public Housing,2014,Number,3315.44,306
+Park Slope,Rent Regulated,2014,Number,10938.0263,306
+Sunset Park,Public Housing,2014,Number,0,307
+Sunset Park,Rent Regulated,2014,Number,15475.40698,307
+Crown Heights North,Public Housing,2014,Number,3810.48858,308
+Crown Heights North,Rent Regulated,2014,Number,23159.46506,308
+Crown Heights South,Public Housing,2014,Number,0,309
+Crown Heights South,Rent Regulated,2014,Number,31481.92177,309
+Bay Ridge,Public Housing,2014,Number,0,310
+Bay Ridge,Rent Regulated,2014,Number,18736.77977,310
+Bensonhurst,Public Housing,2014,Number,0,311
+Bensonhurst,Rent Regulated,2014,Number,21162.09448,311
+Borough Park,Public Housing,2014,Number,0,312
+Borough Park,Rent Regulated,2014,Number,17741.71966,312
+Coney Island,Public Housing,2014,Number,5752.59428,313
+Coney Island,Rent Regulated,2014,Number,15044.03396,313
+Flatbush/Midwood,Public Housing,2014,Number,0,314
+Flatbush/Midwood,Rent Regulated,2014,Number,31032.53836,314
+Sheepshead Bay,Public Housing,2014,Number,1362.01403,315
+Sheepshead Bay,Rent Regulated,2014,Number,16071.55897,315
+Brownsville,Public Housing,2014,Number,9685.451,316
+Brownsville,Rent Regulated,2014,Number,16872.925,316
+East Flatbush,Public Housing,2014,Number,724.91982,317
+East Flatbush,Rent Regulated,2014,Number,18246.85286,317
+Canarsie,Public Housing,2014,Number,6247.33412,318
+Canarsie,Rent Regulated,2014,Number,4428.30906,318
+Astoria,Public Housing,2014,Number,7722.9367,401
+Astoria,Rent Regulated,2014,Number,33118.57633,401
+Sunnyside/Woodside,Public Housing,2014,Number,0,402
+Sunnyside/Woodside,Rent Regulated,2014,Number,22658.78706,402
+Jackson Heights,Public Housing,2014,Number,0,403
+Jackson Heights,Rent Regulated,2014,Number,19662.78088,403
+Elmhurst/Corona,Public Housing,2014,Number,0,404
+Elmhurst/Corona,Rent Regulated,2014,Number,19372.79836,404
+Ridgewood/Glendale,Public Housing,2014,Number,0,405
+Ridgewood/Glendale,Rent Regulated,2014,Number,14491.74233,405
+Rego Park/Forest Hills,Public Housing,2014,Number,756.73308,406
+Rego Park/Forest Hills,Rent Regulated,2014,Number,18700.62199,406
+Flushing,Public Housing,2014,Number,0,407
+Flushing,Rent Regulated,2014,Number,24369.00199,407
+Fresh Meadows/Briarwood,Public Housing,2014,Number,2459.07336,408
+Fresh Meadows/Briarwood,Rent Regulated,2014,Number,14546.3564,408
+Woodhaven,Public Housing,2014,Number,0,409
+Woodhaven,Rent Regulated,2014,Number,7658.29886,409
+Howard Beach,Public Housing,2014,Number,0,410
+Howard Beach,Rent Regulated,2014,Number,194.16724,410
+Bayside,Public Housing,2014,Number,0,411
+Bayside,Rent Regulated,2014,Number,2907.56446,411
+Jamaica/St. Albans,Public Housing,2014,Number,1392.56387,412
+Jamaica/St. Albans,Rent Regulated,2014,Number,10375.57561,412
+Queens Village,Public Housing,2014,Number,0,413
+Queens Village,Rent Regulated,2014,Number,1861.03342,413
+The Rockaways,Public Housing,2014,Number,3525.56783,414
+The Rockaways,Rent Regulated,2014,Number,11307.78528,414
+St. George,Public Housing,2014,Number,2639.2635,501
+St. George,Rent Regulated,2014,Number,10406.86516,501
+South Beach,Public Housing,2014,Number,1713.308,502
+South Beach,Rent Regulated,2014,Number,2169.5782,502
+Tottenville,Public Housing,2014,Number,0,503
+Tottenville,Rent Regulated,2014,Number,2112.99399,503
+Bronx,Public Housing,2014,Number,51054.45523,36005
+Bronx,Rent Regulated,2014,Number,247911.93576,36005
+Brooklyn,Public Housing,2014,Number,60058.6492,36047
+Brooklyn,Rent Regulated,2014,Number,329520.64524,36047
+Manhattan,Public Housing,2014,Number,53529.95498,36061
+Manhattan,Rent Regulated,2014,Number,324581.85271,36061
+Queens,Public Housing,2014,Number,15856.87484,36081
+Queens,Rent Regulated,2014,Number,201225.09021,36081
+Staten Island,Public Housing,2014,Number,4352.5715,36085
+Staten Island,Rent Regulated,2014,Number,14689.43735,36085
+New York City,Public Housing,2014,Number,184852.50575,3651000
+New York City,Rent Regulated,2014,Number,1117928.96127,3651000
+Battery Park/Tribeca,Public Housing,2017,Number,0,101
+Battery Park/Tribeca,Rent Regulated,2017,Number,9028.16784,101
+Greenwich Village,Public Housing,2017,Number,0,102
+Greenwich Village,Rent Regulated,2017,Number,13327.4223,102
+Lower East Side,Public Housing,2017,Number,14855.86056,103
+Lower East Side,Rent Regulated,2017,Number,25844.6744,103
+Chelsea/Clinton,Public Housing,2017,Number,879.45875,104
+Chelsea/Clinton,Rent Regulated,2017,Number,18213.66558,104
+Midtown Business District,Public Housing,2017,Number,440.15955,105
+Midtown Business District,Rent Regulated,2017,Number,9115.7416,105
+Murray Hill/Stuyvesant,Public Housing,2017,Number,514.1897,106
+Murray Hill/Stuyvesant,Rent Regulated,2017,Number,24229.31106,106
+Upper West Side,Public Housing,2017,Number,5544.93342,107
+Upper West Side,Rent Regulated,2017,Number,27295.81238,107
+Upper East Side,Public Housing,2017,Number,1407.01818,108
+Upper East Side,Rent Regulated,2017,Number,26324.88298,108
+Manhattanville,Public Housing,2017,Number,3440.11292,109
+Manhattanville,Rent Regulated,2017,Number,22904.50012,109
+Central Harlem,Public Housing,2017,Number,9199.26574,110
+Central Harlem,Rent Regulated,2017,Number,26607.61852,110
+East Harlem,Public Housing,2017,Number,15846.98333,111
+East Harlem,Rent Regulated,2017,Number,18668.11098,111
+Washington Heights,Public Housing,2017,Number,2436.6624,112
+Washington Heights,Rent Regulated,2017,Number,51782.6327,112
+Mott Haven,Public Housing,2017,Number,9401.67239,201
+Mott Haven,Rent Regulated,2017,Number,14912.70221,201
+Hunts Point,Public Housing,2017,Number,5368.47957,202
+Hunts Point,Rent Regulated,2017,Number,8515.35067,202
+Morrisania,Public Housing,2017,Number,4918.72736,203
+Morrisania,Rent Regulated,2017,Number,12979.54957,203
+Concourse/Highbridge,Public Housing,2017,Number,260.56644,204
+Concourse/Highbridge,Rent Regulated,2017,Number,38960.23185,204
+University Heights,Public Housing,2017,Number,905.89586,205
+University Heights,Rent Regulated,2017,Number,36632.53948,205
+East Tremont,Public Housing,2017,Number,5134.9338,206
+East Tremont,Rent Regulated,2017,Number,13550.07564,206
+Bedford Park,Public Housing,2017,Number,0,207
+Bedford Park,Rent Regulated,2017,Number,41233.38126,207
+Riverdale,Public Housing,2017,Number,2094.90752,208
+Riverdale,Rent Regulated,2017,Number,24262.96416,208
+Unionport/Soundview,Public Housing,2017,Number,10542.20193,209
+Unionport/Soundview,Rent Regulated,2017,Number,22793.50652,209
+Throgs Neck,Public Housing,2017,Number,2694.76144,210
+Throgs Neck,Rent Regulated,2017,Number,5473.66104,210
+Pelham Parkway,Public Housing,2017,Number,2623.0721,211
+Pelham Parkway,Rent Regulated,2017,Number,14936.63348,211
+Williamsbridge,Public Housing,2017,Number,3152.1686,212
+Williamsbridge,Rent Regulated,2017,Number,14157.72516,212
+Williamsburg/Greenpoint,Public Housing,2017,Number,4129.5213,301
+Williamsburg/Greenpoint,Rent Regulated,2017,Number,26560.32036,301
+Fort Greene/Brooklyn Hts,Public Housing,2017,Number,7278.55507,302
+Fort Greene/Brooklyn Hts,Rent Regulated,2017,Number,10729.28468,302
+Bedford Stuyvesant,Public Housing,2017,Number,6954.30906,303
+Bedford Stuyvesant,Rent Regulated,2017,Number,16566.01905,303
+Bushwick,Public Housing,2017,Number,5079.762,304
+Bushwick,Rent Regulated,2017,Number,12644.72022,304
+East New York,Public Housing,2017,Number,7117.93552,305
+East New York,Rent Regulated,2017,Number,12310.02279,305
+Park Slope,Public Housing,2017,Number,3500.39837,306
+Park Slope,Rent Regulated,2017,Number,7902.48843,306
+Sunset Park,Public Housing,2017,Number,0,307
+Sunset Park,Rent Regulated,2017,Number,11715.33898,307
+Crown Heights North,Public Housing,2017,Number,4346.57878,308
+Crown Heights North,Rent Regulated,2017,Number,19798.41899,308
+Crown Heights South,Public Housing,2017,Number,0,309
+Crown Heights South,Rent Regulated,2017,Number,29643.84998,309
+Bay Ridge,Public Housing,2017,Number,0,310
+Bay Ridge,Rent Regulated,2017,Number,18873.8421,310
+Bensonhurst,Public Housing,2017,Number,0,311
+Bensonhurst,Rent Regulated,2017,Number,22227.85992,311
+Borough Park,Public Housing,2017,Number,0,312
+Borough Park,Rent Regulated,2017,Number,15791.67606,312
+Coney Island,Public Housing,2017,Number,5421.43184,313
+Coney Island,Rent Regulated,2017,Number,19374.01402,313
+Flatbush/Midwood,Public Housing,2017,Number,0,314
+Flatbush/Midwood,Rent Regulated,2017,Number,31608.9446,314
+Sheepshead Bay,Public Housing,2017,Number,1875.37586,315
+Sheepshead Bay,Rent Regulated,2017,Number,17254.70867,315
+Brownsville,Public Housing,2017,Number,9288.29012,316
+Brownsville,Rent Regulated,2017,Number,15090.27992,316
+East Flatbush,Public Housing,2017,Number,801.0312,317
+East Flatbush,Rent Regulated,2017,Number,18036.3995,317
+Canarsie,Public Housing,2017,Number,5593.05948,318
+Canarsie,Rent Regulated,2017,Number,3781.55684,318
+Astoria,Public Housing,2017,Number,8697.8029,401
+Astoria,Rent Regulated,2017,Number,28450.33766,401
+Sunnyside/Woodside,Public Housing,2017,Number,0,402
+Sunnyside/Woodside,Rent Regulated,2017,Number,19530.40738,402
+Jackson Heights,Public Housing,2017,Number,0,403
+Jackson Heights,Rent Regulated,2017,Number,18890.2602,403
+Elmhurst/Corona,Public Housing,2017,Number,0,404
+Elmhurst/Corona,Rent Regulated,2017,Number,20536.3426,404
+Ridgewood/Glendale,Public Housing,2017,Number,0,405
+Ridgewood/Glendale,Rent Regulated,2017,Number,15503.9851,405
+Rego Park/Forest Hills,Public Housing,2017,Number,895.3543,406
+Rego Park/Forest Hills,Rent Regulated,2017,Number,17677.88558,406
+Flushing,Public Housing,2017,Number,0,407
+Flushing,Rent Regulated,2017,Number,20523.66998,407
+Fresh Meadows/Briarwood,Public Housing,2017,Number,2187.94,408
+Fresh Meadows/Briarwood,Rent Regulated,2017,Number,12063.41423,408
+Woodhaven,Public Housing,2017,Number,0,409
+Woodhaven,Rent Regulated,2017,Number,8550.34258,409
+Howard Beach,Public Housing,2017,Number,0,410
+Howard Beach,Rent Regulated,2017,Number,208.46676,410
+Bayside,Public Housing,2017,Number,0,411
+Bayside,Rent Regulated,2017,Number,3051.47268,411
+Jamaica/St. Albans,Public Housing,2017,Number,1715.55266,412
+Jamaica/St. Albans,Rent Regulated,2017,Number,10787.66992,412
+Queens Village,Public Housing,2017,Number,0,413
+Queens Village,Rent Regulated,2017,Number,1677.94072,413
+The Rockaways,Public Housing,2017,Number,3307.74632,414
+The Rockaways,Rent Regulated,2017,Number,14229.63377,414
+St. George,Public Housing,2017,Number,3078.68292,501
+St. George,Rent Regulated,2017,Number,10793.06366,501
+South Beach,Public Housing,2017,Number,1797.86114,502
+South Beach,Rent Regulated,2017,Number,1203.57964,502
+Tottenville,Public Housing,2017,Number,0,503
+Tottenville,Rent Regulated,2017,Number,2149.73186,503
+Bronx,Public Housing,2017,Number,47097.38701,36005
+Bronx,Rent Regulated,2017,Number,248408.32104,36005
+Brooklyn,Public Housing,2017,Number,61386.2486,36047
+Brooklyn,Rent Regulated,2017,Number,309909.74511,36047
+Manhattan,Public Housing,2017,Number,54564.64455,36061
+Manhattan,Rent Regulated,2017,Number,273342.54046,36061
+Queens,Public Housing,2017,Number,16804.39618,36081
+Queens,Rent Regulated,2017,Number,191681.82916,36081
+Staten Island,Public Housing,2017,Number,4876.54406,36085
+Staten Island,Rent Regulated,2017,Number,14146.37516,36085
+New York City,Public Housing,2017,Number,184729.2204,3651000
+New York City,Rent Regulated,2017,Number,1037488.81093,3651000
+Battery Park/Tribeca,Public Housing,2002,Percent,0,101
+Battery Park/Tribeca,Rent Regulated,2002,Percent,0.69534,101
+Greenwich Village,Public Housing,2002,Percent,0,102
+Greenwich Village,Rent Regulated,2002,Percent,0.69534,102
+Lower East Side,Public Housing,2002,Percent,0.28224,103
+Lower East Side,Rent Regulated,2002,Percent,0.65237,103
+Chelsea/Clinton,Public Housing,2002,Percent,0.04014,104
+Chelsea/Clinton,Rent Regulated,2002,Percent,0.7029,104
+Midtown Business District,Public Housing,2002,Percent,0.04014,105
+Midtown Business District,Rent Regulated,2002,Percent,0.7029,105
+Murray Hill/Stuyvesant,Public Housing,2002,Percent,0.01264,106
+Murray Hill/Stuyvesant,Rent Regulated,2002,Percent,0.74514,106
+Upper West Side,Public Housing,2002,Percent,0.06035,107
+Upper West Side,Rent Regulated,2002,Percent,0.72339,107
+Upper East Side,Public Housing,2002,Percent,0.03806,108
+Upper East Side,Rent Regulated,2002,Percent,0.71435,108
+Manhattanville,Public Housing,2002,Percent,0.09919,109
+Manhattanville,Rent Regulated,2002,Percent,0.79329,109
+Central Harlem,Public Housing,2002,Percent,0.11363,110
+Central Harlem,Rent Regulated,2002,Percent,0.77334,110
+East Harlem,Public Housing,2002,Percent,0.47566,111
+East Harlem,Rent Regulated,2002,Percent,0.4362,111
+Washington Heights,Public Housing,2002,Percent,0.03664,112
+Washington Heights,Rent Regulated,2002,Percent,0.94563,112
+Mott Haven,Public Housing,2002,Percent,0.32246,201
+Mott Haven,Rent Regulated,2002,Percent,0.6039,201
+Hunts Point,Public Housing,2002,Percent,0.32246,202
+Hunts Point,Rent Regulated,2002,Percent,0.6039,202
+Morrisania,Public Housing,2002,Percent,0.20365,203
+Morrisania,Rent Regulated,2002,Percent,0.65743,203
+Concourse/Highbridge,Public Housing,2002,Percent,0.0313,204
+Concourse/Highbridge,Rent Regulated,2002,Percent,0.86215,204
+University Heights,Public Housing,2002,Percent,0.03178,205
+University Heights,Rent Regulated,2002,Percent,0.9305,205
+East Tremont,Public Housing,2002,Percent,0.20365,206
+East Tremont,Rent Regulated,2002,Percent,0.65743,206
+Bedford Park,Public Housing,2002,Percent,0.01351,207
+Bedford Park,Rent Regulated,2002,Percent,0.91337,207
+Riverdale,Public Housing,2002,Percent,0.02443,208
+Riverdale,Rent Regulated,2002,Percent,0.81305,208
+Unionport/Soundview,Public Housing,2002,Percent,0.16323,209
+Unionport/Soundview,Rent Regulated,2002,Percent,0.48001,209
+Throgs Neck,Public Housing,2002,Percent,0.11306,210
+Throgs Neck,Rent Regulated,2002,Percent,0.41226,210
+Pelham Parkway,Public Housing,2002,Percent,0.14334,211
+Pelham Parkway,Rent Regulated,2002,Percent,0.57628,211
+Williamsbridge,Public Housing,2002,Percent,0.13257,212
+Williamsbridge,Rent Regulated,2002,Percent,0.33587,212
+Williamsburg/Greenpoint,Public Housing,2002,Percent,0.11002,301
+Williamsburg/Greenpoint,Rent Regulated,2002,Percent,0.63665,301
+Fort Greene/Brooklyn Hts,Public Housing,2002,Percent,0.15602,302
+Fort Greene/Brooklyn Hts,Rent Regulated,2002,Percent,0.46433,302
+Bedford Stuyvesant,Public Housing,2002,Percent,0.18403,303
+Bedford Stuyvesant,Rent Regulated,2002,Percent,0.32424,303
+Bushwick,Public Housing,2002,Percent,0.13159,304
+Bushwick,Rent Regulated,2002,Percent,0.44806,304
+East New York,Public Housing,2002,Percent,0.20607,305
+East New York,Rent Regulated,2002,Percent,0.36756,305
+Park Slope,Public Housing,2002,Percent,0.09929,306
+Park Slope,Rent Regulated,2002,Percent,0.3797,306
+Sunset Park,Public Housing,2002,Percent,0,307
+Sunset Park,Rent Regulated,2002,Percent,0.39656,307
+Crown Heights North,Public Housing,2002,Percent,0.13401,308
+Crown Heights North,Rent Regulated,2002,Percent,0.61803,308
+Crown Heights South,Public Housing,2002,Percent,0,309
+Crown Heights South,Rent Regulated,2002,Percent,0.80758,309
+Bay Ridge,Public Housing,2002,Percent,0,310
+Bay Ridge,Rent Regulated,2002,Percent,0.59757,310
+Bensonhurst,Public Housing,2002,Percent,0,311
+Bensonhurst,Rent Regulated,2002,Percent,0.44939,311
+Borough Park,Public Housing,2002,Percent,0,312
+Borough Park,Rent Regulated,2002,Percent,0.47252,312
+Coney Island,Public Housing,2002,Percent,0.1839,313
+Coney Island,Rent Regulated,2002,Percent,0.64972,313
+Flatbush/Midwood,Public Housing,2002,Percent,0,314
+Flatbush/Midwood,Rent Regulated,2002,Percent,0.81915,314
+Sheepshead Bay,Public Housing,2002,Percent,0.04247,315
+Sheepshead Bay,Rent Regulated,2002,Percent,0.59687,315
+Brownsville,Public Housing,2002,Percent,0.28593,316
+Brownsville,Rent Regulated,2002,Percent,0.36299,316
+East Flatbush,Public Housing,2002,Percent,0,317
+East Flatbush,Rent Regulated,2002,Percent,0.55781,317
+Canarsie,Public Housing,2002,Percent,0.19106,318
+Canarsie,Rent Regulated,2002,Percent,0.13868,318
+Astoria,Public Housing,2002,Percent,0.12395,401
+Astoria,Rent Regulated,2002,Percent,0.56918,401
+Sunnyside/Woodside,Public Housing,2002,Percent,0.01424,402
+Sunnyside/Woodside,Rent Regulated,2002,Percent,0.73634,402
+Jackson Heights,Public Housing,2002,Percent,0,403
+Jackson Heights,Rent Regulated,2002,Percent,0.46889,403
+Elmhurst/Corona,Public Housing,2002,Percent,0,404
+Elmhurst/Corona,Rent Regulated,2002,Percent,0.63946,404
+Ridgewood/Glendale,Public Housing,2002,Percent,0,405
+Ridgewood/Glendale,Rent Regulated,2002,Percent,0.27406,405
+Rego Park/Forest Hills,Public Housing,2002,Percent,0,406
+Rego Park/Forest Hills,Rent Regulated,2002,Percent,0.78693,406
+Flushing,Public Housing,2002,Percent,0,407
+Flushing,Rent Regulated,2002,Percent,0.53334,407
+Fresh Meadows/Briarwood,Public Housing,2002,Percent,0.08482,408
+Fresh Meadows/Briarwood,Rent Regulated,2002,Percent,0.6989,408
+Woodhaven,Public Housing,2002,Percent,0,409
+Woodhaven,Rent Regulated,2002,Percent,0.36246,409
+Howard Beach,Public Housing,2002,Percent,0,410
+Howard Beach,Rent Regulated,2002,Percent,0.1511,410
+Bayside,Public Housing,2002,Percent,0,411
+Bayside,Rent Regulated,2002,Percent,0.20669,411
+Jamaica/St. Albans,Public Housing,2002,Percent,0.06134,412
+Jamaica/St. Albans,Rent Regulated,2002,Percent,0.41151,412
+Queens Village,Public Housing,2002,Percent,0,413
+Queens Village,Rent Regulated,2002,Percent,0.22174,413
+The Rockaways,Public Housing,2002,Percent,0.1748,414
+The Rockaways,Rent Regulated,2002,Percent,0.50415,414
+St. George,Public Housing,2002,Percent,0.09585,501
+St. George,Rent Regulated,2002,Percent,0.3986,501
+South Beach,Public Housing,2002,Percent,0.04645,502
+South Beach,Rent Regulated,2002,Percent,0.06963,502
+Tottenville,Public Housing,2002,Percent,0,503
+Tottenville,Rent Regulated,2002,Percent,0.17857,503
+Bronx,Public Housing,2002,Percent,0.11921,36005
+Bronx,Rent Regulated,2002,Percent,0.67804,36005
+Brooklyn,Public Housing,2002,Percent,0.09257,36047
+Brooklyn,Rent Regulated,2002,Percent,0.51404,36047
+Manhattan,Public Housing,2002,Percent,0.09984,36061
+Manhattan,Rent Regulated,2002,Percent,0.72793,36061
+Queens,Public Housing,2002,Percent,0.03786,36081
+Queens,Rent Regulated,2002,Percent,0.50829,36081
+Staten Island,Public Housing,2002,Percent,0.0545,36085
+Staten Island,Rent Regulated,2002,Percent,0.23993,36085
+New York City,Public Housing,2002,Percent,0.08672,3651000
+New York City,Rent Regulated,2002,Percent,0.59272,3651000
+Battery Park/Tribeca,Public Housing,2005,Percent,0,101
+Battery Park/Tribeca,Rent Regulated,2005,Percent,0.59252,101
+Greenwich Village,Public Housing,2005,Percent,0,102
+Greenwich Village,Rent Regulated,2005,Percent,0.59252,102
+Lower East Side,Public Housing,2005,Percent,0.25359,103
+Lower East Side,Rent Regulated,2005,Percent,0.58052,103
+Chelsea/Clinton,Public Housing,2005,Percent,0.03777,104
+Chelsea/Clinton,Rent Regulated,2005,Percent,0.66057,104
+Midtown Business District,Public Housing,2005,Percent,0.03777,105
+Midtown Business District,Rent Regulated,2005,Percent,0.66057,105
+Murray Hill/Stuyvesant,Public Housing,2005,Percent,0.0129,106
+Murray Hill/Stuyvesant,Rent Regulated,2005,Percent,0.64452,106
+Upper West Side,Public Housing,2005,Percent,0.07912,107
+Upper West Side,Rent Regulated,2005,Percent,0.70037,107
+Upper East Side,Public Housing,2005,Percent,0.02946,108
+Upper East Side,Rent Regulated,2005,Percent,0.61672,108
+Manhattanville,Public Housing,2005,Percent,0.09725,109
+Manhattanville,Rent Regulated,2005,Percent,0.76895,109
+Central Harlem,Public Housing,2005,Percent,0.09873,110
+Central Harlem,Rent Regulated,2005,Percent,0.74414,110
+East Harlem,Public Housing,2005,Percent,0.3839,111
+East Harlem,Rent Regulated,2005,Percent,0.50487,111
+Washington Heights,Public Housing,2005,Percent,0.02634,112
+Washington Heights,Rent Regulated,2005,Percent,0.94405,112
+Mott Haven,Public Housing,2005,Percent,0.26967,201
+Mott Haven,Rent Regulated,2005,Percent,0.66911,201
+Hunts Point,Public Housing,2005,Percent,0.26967,202
+Hunts Point,Rent Regulated,2005,Percent,0.66911,202
+Morrisania,Public Housing,2005,Percent,0.1846,203
+Morrisania,Rent Regulated,2005,Percent,0.68587,203
+Concourse/Highbridge,Public Housing,2005,Percent,0.02694,204
+Concourse/Highbridge,Rent Regulated,2005,Percent,0.89232,204
+University Heights,Public Housing,2005,Percent,0.02822,205
+University Heights,Rent Regulated,2005,Percent,0.92598,205
+East Tremont,Public Housing,2005,Percent,0.1846,206
+East Tremont,Rent Regulated,2005,Percent,0.68587,206
+Bedford Park,Public Housing,2005,Percent,0.01906,207
+Bedford Park,Rent Regulated,2005,Percent,0.91404,207
+Riverdale,Public Housing,2005,Percent,0.01766,208
+Riverdale,Rent Regulated,2005,Percent,0.82753,208
+Unionport/Soundview,Public Housing,2005,Percent,0.15805,209
+Unionport/Soundview,Rent Regulated,2005,Percent,0.57255,209
+Throgs Neck,Public Housing,2005,Percent,0.07496,210
+Throgs Neck,Rent Regulated,2005,Percent,0.51613,210
+Pelham Parkway,Public Housing,2005,Percent,0.13043,211
+Pelham Parkway,Rent Regulated,2005,Percent,0.58163,211
+Williamsbridge,Public Housing,2005,Percent,0.07711,212
+Williamsbridge,Rent Regulated,2005,Percent,0.43618,212
+Williamsburg/Greenpoint,Public Housing,2005,Percent,0.10509,301
+Williamsburg/Greenpoint,Rent Regulated,2005,Percent,0.6404,301
+Fort Greene/Brooklyn Hts,Public Housing,2005,Percent,0.16142,302
+Fort Greene/Brooklyn Hts,Rent Regulated,2005,Percent,0.48243,302
+Bedford Stuyvesant,Public Housing,2005,Percent,0.22736,303
+Bedford Stuyvesant,Rent Regulated,2005,Percent,0.29798,303
+Bushwick,Public Housing,2005,Percent,0.13719,304
+Bushwick,Rent Regulated,2005,Percent,0.39865,304
+East New York,Public Housing,2005,Percent,0.22075,305
+East New York,Rent Regulated,2005,Percent,0.34373,305
+Park Slope,Public Housing,2005,Percent,0.11052,306
+Park Slope,Rent Regulated,2005,Percent,0.32628,306
+Sunset Park,Public Housing,2005,Percent,0,307
+Sunset Park,Rent Regulated,2005,Percent,0.42856,307
+Crown Heights North,Public Housing,2005,Percent,0.09329,308
+Crown Heights North,Rent Regulated,2005,Percent,0.63133,308
+Crown Heights South,Public Housing,2005,Percent,0,309
+Crown Heights South,Rent Regulated,2005,Percent,0.87033,309
+Bay Ridge,Public Housing,2005,Percent,0,310
+Bay Ridge,Rent Regulated,2005,Percent,0.55531,310
+Bensonhurst,Public Housing,2005,Percent,0,311
+Bensonhurst,Rent Regulated,2005,Percent,0.45431,311
+Borough Park,Public Housing,2005,Percent,0,312
+Borough Park,Rent Regulated,2005,Percent,0.53825,312
+Coney Island,Public Housing,2005,Percent,0.21496,313
+Coney Island,Rent Regulated,2005,Percent,0.54241,313
+Flatbush/Midwood,Public Housing,2005,Percent,0,314
+Flatbush/Midwood,Rent Regulated,2005,Percent,0.81389,314
+Sheepshead Bay,Public Housing,2005,Percent,0.07802,315
+Sheepshead Bay,Rent Regulated,2005,Percent,0.58119,315
+Brownsville,Public Housing,2005,Percent,0.27545,316
+Brownsville,Rent Regulated,2005,Percent,0.43504,316
+East Flatbush,Public Housing,2005,Percent,0,317
+East Flatbush,Rent Regulated,2005,Percent,0.51893,317
+Canarsie,Public Housing,2005,Percent,0.17906,318
+Canarsie,Rent Regulated,2005,Percent,0.12235,318
+Astoria,Public Housing,2005,Percent,0.11436,401
+Astoria,Rent Regulated,2005,Percent,0.55906,401
+Sunnyside/Woodside,Public Housing,2005,Percent,0,402
+Sunnyside/Woodside,Rent Regulated,2005,Percent,0.70977,402
+Jackson Heights,Public Housing,2005,Percent,0,403
+Jackson Heights,Rent Regulated,2005,Percent,0.44733,403
+Elmhurst/Corona,Public Housing,2005,Percent,0,404
+Elmhurst/Corona,Rent Regulated,2005,Percent,0.57462,404
+Ridgewood/Glendale,Public Housing,2005,Percent,0,405
+Ridgewood/Glendale,Rent Regulated,2005,Percent,0.2801,405
+Rego Park/Forest Hills,Public Housing,2005,Percent,0,406
+Rego Park/Forest Hills,Rent Regulated,2005,Percent,0.81156,406
+Flushing,Public Housing,2005,Percent,0,407
+Flushing,Rent Regulated,2005,Percent,0.53055,407
+Fresh Meadows/Briarwood,Public Housing,2005,Percent,0.094,408
+Fresh Meadows/Briarwood,Rent Regulated,2005,Percent,0.69225,408
+Woodhaven,Public Housing,2005,Percent,0,409
+Woodhaven,Rent Regulated,2005,Percent,0.34175,409
+Howard Beach,Public Housing,2005,Percent,0,410
+Howard Beach,Rent Regulated,2005,Percent,0.15206,410
+Bayside,Public Housing,2005,Percent,0,411
+Bayside,Rent Regulated,2005,Percent,0.13515,411
+Jamaica/St. Albans,Public Housing,2005,Percent,0.10358,412
+Jamaica/St. Albans,Rent Regulated,2005,Percent,0.39409,412
+Queens Village,Public Housing,2005,Percent,0.02942,413
+Queens Village,Rent Regulated,2005,Percent,0.23433,413
+The Rockaways,Public Housing,2005,Percent,0.18452,414
+The Rockaways,Rent Regulated,2005,Percent,0.58682,414
+St. George,Public Housing,2005,Percent,0.0773,501
+St. George,Rent Regulated,2005,Percent,0.35512,501
+South Beach,Public Housing,2005,Percent,0.04219,502
+South Beach,Rent Regulated,2005,Percent,0.06315,502
+Tottenville,Public Housing,2005,Percent,0,503
+Tottenville,Rent Regulated,2005,Percent,0.18236,503
+Bronx,Public Housing,2005,Percent,0.1033,36005
+Bronx,Rent Regulated,2005,Percent,0.71749,36005
+Brooklyn,Public Housing,2005,Percent,0.09606,36047
+Brooklyn,Rent Regulated,2005,Percent,0.51174,36047
+Manhattan,Public Housing,2005,Percent,0.09107,36061
+Manhattan,Rent Regulated,2005,Percent,0.67786,36061
+Queens,Public Housing,2005,Percent,0.04039,36081
+Queens,Rent Regulated,2005,Percent,0.50226,36081
+Staten Island,Public Housing,2005,Percent,0.04568,36085
+Staten Island,Rent Regulated,2005,Percent,0.22766,36085
+New York City,Public Housing,2005,Percent,0.08304,3651000
+New York City,Rent Regulated,2005,Percent,0.5855,3651000
+Battery Park/Tribeca,Public Housing,2008,Percent,0,101
+Battery Park/Tribeca,Rent Regulated,2008,Percent,0.53683,101
+Greenwich Village,Public Housing,2008,Percent,0,102
+Greenwich Village,Rent Regulated,2008,Percent,0.53683,102
+Lower East Side,Public Housing,2008,Percent,0.28384,103
+Lower East Side,Rent Regulated,2008,Percent,0.47911,103
+Chelsea/Clinton,Public Housing,2008,Percent,0.03857,104
+Chelsea/Clinton,Rent Regulated,2008,Percent,0.57144,104
+Midtown Business District,Public Housing,2008,Percent,0.03857,105
+Midtown Business District,Rent Regulated,2008,Percent,0.57144,105
+Murray Hill/Stuyvesant,Public Housing,2008,Percent,0.01267,106
+Murray Hill/Stuyvesant,Rent Regulated,2008,Percent,0.49505,106
+Upper West Side,Public Housing,2008,Percent,0.08194,107
+Upper West Side,Rent Regulated,2008,Percent,0.58366,107
+Upper East Side,Public Housing,2008,Percent,0.02923,108
+Upper East Side,Rent Regulated,2008,Percent,0.5376,108
+Manhattanville,Public Housing,2008,Percent,0.10067,109
+Manhattanville,Rent Regulated,2008,Percent,0.7347,109
+Central Harlem,Public Housing,2008,Percent,0.1999,110
+Central Harlem,Rent Regulated,2008,Percent,0.62004,110
+East Harlem,Public Housing,2008,Percent,0.38284,111
+East Harlem,Rent Regulated,2008,Percent,0.49279,111
+Washington Heights,Public Housing,2008,Percent,0.02593,112
+Washington Heights,Rent Regulated,2008,Percent,0.92412,112
+Mott Haven,Public Housing,2008,Percent,0.26944,201
+Mott Haven,Rent Regulated,2008,Percent,0.62513,201
+Hunts Point,Public Housing,2008,Percent,0.26944,202
+Hunts Point,Rent Regulated,2008,Percent,0.62513,202
+Morrisania,Public Housing,2008,Percent,0.18234,203
+Morrisania,Rent Regulated,2008,Percent,0.63613,203
+Concourse/Highbridge,Public Housing,2008,Percent,0.05087,204
+Concourse/Highbridge,Rent Regulated,2008,Percent,0.84385,204
+University Heights,Public Housing,2008,Percent,0.03492,205
+University Heights,Rent Regulated,2008,Percent,0.93134,205
+East Tremont,Public Housing,2008,Percent,0.18234,206
+East Tremont,Rent Regulated,2008,Percent,0.63613,206
+Bedford Park,Public Housing,2008,Percent,0.01855,207
+Bedford Park,Rent Regulated,2008,Percent,0.89135,207
+Riverdale,Public Housing,2008,Percent,0.10241,208
+Riverdale,Rent Regulated,2008,Percent,0.70453,208
+Unionport/Soundview,Public Housing,2008,Percent,0.15078,209
+Unionport/Soundview,Rent Regulated,2008,Percent,0.52074,209
+Throgs Neck,Public Housing,2008,Percent,0.10726,210
+Throgs Neck,Rent Regulated,2008,Percent,0.44825,210
+Pelham Parkway,Public Housing,2008,Percent,0.13206,211
+Pelham Parkway,Rent Regulated,2008,Percent,0.5247,211
+Williamsbridge,Public Housing,2008,Percent,0.0913,212
+Williamsbridge,Rent Regulated,2008,Percent,0.41238,212
+Williamsburg/Greenpoint,Public Housing,2008,Percent,0.10688,301
+Williamsburg/Greenpoint,Rent Regulated,2008,Percent,0.58187,301
+Fort Greene/Brooklyn Hts,Public Housing,2008,Percent,0.14351,302
+Fort Greene/Brooklyn Hts,Rent Regulated,2008,Percent,0.40826,302
+Bedford Stuyvesant,Public Housing,2008,Percent,0.20762,303
+Bedford Stuyvesant,Rent Regulated,2008,Percent,0.25942,303
+Bushwick,Public Housing,2008,Percent,0.13926,304
+Bushwick,Rent Regulated,2008,Percent,0.38278,304
+East New York,Public Housing,2008,Percent,0.20632,305
+East New York,Rent Regulated,2008,Percent,0.37281,305
+Park Slope,Public Housing,2008,Percent,0.09406,306
+Park Slope,Rent Regulated,2008,Percent,0.37145,306
+Sunset Park,Public Housing,2008,Percent,0,307
+Sunset Park,Rent Regulated,2008,Percent,0.35271,307
+Crown Heights North,Public Housing,2008,Percent,0.13422,308
+Crown Heights North,Rent Regulated,2008,Percent,0.57726,308
+Crown Heights South,Public Housing,2008,Percent,0,309
+Crown Heights South,Rent Regulated,2008,Percent,0.78947,309
+Bay Ridge,Public Housing,2008,Percent,0,310
+Bay Ridge,Rent Regulated,2008,Percent,0.51672,310
+Bensonhurst,Public Housing,2008,Percent,0,311
+Bensonhurst,Rent Regulated,2008,Percent,0.4649,311
+Borough Park,Public Housing,2008,Percent,0,312
+Borough Park,Rent Regulated,2008,Percent,0.51687,312
+Coney Island,Public Housing,2008,Percent,0.19734,313
+Coney Island,Rent Regulated,2008,Percent,0.55579,313
+Flatbush/Midwood,Public Housing,2008,Percent,0,314
+Flatbush/Midwood,Rent Regulated,2008,Percent,0.86399,314
+Sheepshead Bay,Public Housing,2008,Percent,0.08262,315
+Sheepshead Bay,Rent Regulated,2008,Percent,0.54512,315
+Brownsville,Public Housing,2008,Percent,0.25888,316
+Brownsville,Rent Regulated,2008,Percent,0.38715,316
+East Flatbush,Public Housing,2008,Percent,0,317
+East Flatbush,Rent Regulated,2008,Percent,0.52521,317
+Canarsie,Public Housing,2008,Percent,0.19707,318
+Canarsie,Rent Regulated,2008,Percent,0.11327,318
+Astoria,Public Housing,2008,Percent,0.12597,401
+Astoria,Rent Regulated,2008,Percent,0.53931,401
+Sunnyside/Woodside,Public Housing,2008,Percent,0,402
+Sunnyside/Woodside,Rent Regulated,2008,Percent,0.68809,402
+Jackson Heights,Public Housing,2008,Percent,0,403
+Jackson Heights,Rent Regulated,2008,Percent,0.56341,403
+Elmhurst/Corona,Public Housing,2008,Percent,0,404
+Elmhurst/Corona,Rent Regulated,2008,Percent,0.60489,404
+Ridgewood/Glendale,Public Housing,2008,Percent,0,405
+Ridgewood/Glendale,Rent Regulated,2008,Percent,0.3605,405
+Rego Park/Forest Hills,Public Housing,2008,Percent,0,406
+Rego Park/Forest Hills,Rent Regulated,2008,Percent,0.73009,406
+Flushing,Public Housing,2008,Percent,0,407
+Flushing,Rent Regulated,2008,Percent,0.5285,407
+Fresh Meadows/Briarwood,Public Housing,2008,Percent,0.08266,408
+Fresh Meadows/Briarwood,Rent Regulated,2008,Percent,0.61227,408
+Woodhaven,Public Housing,2008,Percent,0,409
+Woodhaven,Rent Regulated,2008,Percent,0.29775,409
+Howard Beach,Public Housing,2008,Percent,0,410
+Howard Beach,Rent Regulated,2008,Percent,0.15625,410
+Bayside,Public Housing,2008,Percent,0,411
+Bayside,Rent Regulated,2008,Percent,0.09802,411
+Jamaica/St. Albans,Public Housing,2008,Percent,0.07151,412
+Jamaica/St. Albans,Rent Regulated,2008,Percent,0.46325,412
+Queens Village,Public Housing,2008,Percent,0,413
+Queens Village,Rent Regulated,2008,Percent,0.25836,413
+The Rockaways,Public Housing,2008,Percent,0.194,414
+The Rockaways,Rent Regulated,2008,Percent,0.5147,414
+St. George,Public Housing,2008,Percent,0.08084,501
+St. George,Rent Regulated,2008,Percent,0.26499,501
+South Beach,Public Housing,2008,Percent,0.05065,502
+South Beach,Rent Regulated,2008,Percent,0.05423,502
+Tottenville,Public Housing,2008,Percent,0,503
+Tottenville,Rent Regulated,2008,Percent,0.21367,503
+Bronx,Public Housing,2008,Percent,0.11653,36005
+Bronx,Rent Regulated,2008,Percent,0.67325,36005
+Brooklyn,Public Housing,2008,Percent,0.09428,36047
+Brooklyn,Rent Regulated,2008,Percent,0.49076,36047
+Manhattan,Public Housing,2008,Percent,0.10347,36061
+Manhattan,Rent Regulated,2008,Percent,0.59537,36061
+Queens,Public Housing,2008,Percent,0.03947,36081
+Queens,Rent Regulated,2008,Percent,0.50613,36081
+Staten Island,Public Housing,2008,Percent,0.05153,36085
+Staten Island,Rent Regulated,2008,Percent,0.19411,36085
+New York City,Public Housing,2008,Percent,0.08842,3651000
+New York City,Rent Regulated,2008,Percent,0.54819,3651000
+Battery Park/Tribeca,Public Housing,2011,Percent,0,101
+Battery Park/Tribeca,Rent Regulated,2011,Percent,0.42362,101
+Greenwich Village,Public Housing,2011,Percent,0,102
+Greenwich Village,Rent Regulated,2011,Percent,0.42362,102
+Lower East Side,Public Housing,2011,Percent,0.21442,103
+Lower East Side,Rent Regulated,2011,Percent,0.54148,103
+Chelsea/Clinton,Public Housing,2011,Percent,0.03596,104
+Chelsea/Clinton,Rent Regulated,2011,Percent,0.50531,104
+Midtown Business District,Public Housing,2011,Percent,0.03596,105
+Midtown Business District,Rent Regulated,2011,Percent,0.50531,105
+Murray Hill/Stuyvesant,Public Housing,2011,Percent,0.01391,106
+Murray Hill/Stuyvesant,Rent Regulated,2011,Percent,0.42937,106
+Upper West Side,Public Housing,2011,Percent,0.08112,107
+Upper West Side,Rent Regulated,2011,Percent,0.45576,107
+Upper East Side,Public Housing,2011,Percent,0.02029,108
+Upper East Side,Rent Regulated,2011,Percent,0.5073,108
+Manhattanville,Public Housing,2011,Percent,0.11332,109
+Manhattanville,Rent Regulated,2011,Percent,0.66727,109
+Central Harlem,Public Housing,2011,Percent,0.20284,110
+Central Harlem,Rent Regulated,2011,Percent,0.64393,110
+East Harlem,Public Housing,2011,Percent,0.35948,111
+East Harlem,Rent Regulated,2011,Percent,0.49694,111
+Washington Heights,Public Housing,2011,Percent,0.03216,112
+Washington Heights,Rent Regulated,2011,Percent,0.89115,112
+Mott Haven,Public Housing,2011,Percent,0.37598,201
+Mott Haven,Rent Regulated,2011,Percent,0.48992,201
+Hunts Point,Public Housing,2011,Percent,0.37598,202
+Hunts Point,Rent Regulated,2011,Percent,0.48992,202
+Morrisania,Public Housing,2011,Percent,0.23317,203
+Morrisania,Rent Regulated,2011,Percent,0.6321,203
+Concourse/Highbridge,Public Housing,2011,Percent,0.01744,204
+Concourse/Highbridge,Rent Regulated,2011,Percent,0.91797,204
+University Heights,Public Housing,2011,Percent,0.01935,205
+University Heights,Rent Regulated,2011,Percent,0.87387,205
+East Tremont,Public Housing,2011,Percent,0.23317,206
+East Tremont,Rent Regulated,2011,Percent,0.6321,206
+Bedford Park,Public Housing,2011,Percent,0,207
+Bedford Park,Rent Regulated,2011,Percent,0.93891,207
+Riverdale,Public Housing,2011,Percent,0.02651,208
+Riverdale,Rent Regulated,2011,Percent,0.78728,208
+Unionport/Soundview,Public Housing,2011,Percent,0.20303,209
+Unionport/Soundview,Rent Regulated,2011,Percent,0.47976,209
+Throgs Neck,Public Housing,2011,Percent,0.10119,210
+Throgs Neck,Rent Regulated,2011,Percent,0.46763,210
+Pelham Parkway,Public Housing,2011,Percent,0.10421,211
+Pelham Parkway,Rent Regulated,2011,Percent,0.49856,211
+Williamsbridge,Public Housing,2011,Percent,0.11507,212
+Williamsbridge,Rent Regulated,2011,Percent,0.4627,212
+Williamsburg/Greenpoint,Public Housing,2011,Percent,0.09548,301
+Williamsburg/Greenpoint,Rent Regulated,2011,Percent,0.54939,301
+Fort Greene/Brooklyn Hts,Public Housing,2011,Percent,0.19522,302
+Fort Greene/Brooklyn Hts,Rent Regulated,2011,Percent,0.38679,302
+Bedford Stuyvesant,Public Housing,2011,Percent,0.17588,303
+Bedford Stuyvesant,Rent Regulated,2011,Percent,0.41532,303
+Bushwick,Public Housing,2011,Percent,0.1347,304
+Bushwick,Rent Regulated,2011,Percent,0.39502,304
+East New York,Public Housing,2011,Percent,0.16478,305
+East New York,Rent Regulated,2011,Percent,0.38023,305
+Park Slope,Public Housing,2011,Percent,0.11256,306
+Park Slope,Rent Regulated,2011,Percent,0.36554,306
+Sunset Park,Public Housing,2011,Percent,0,307
+Sunset Park,Rent Regulated,2011,Percent,0.4768,307
+Crown Heights North,Public Housing,2011,Percent,0.09615,308
+Crown Heights North,Rent Regulated,2011,Percent,0.57158,308
+Crown Heights South,Public Housing,2011,Percent,0,309
+Crown Heights South,Rent Regulated,2011,Percent,0.81149,309
+Bay Ridge,Public Housing,2011,Percent,0,310
+Bay Ridge,Rent Regulated,2011,Percent,0.55551,310
+Bensonhurst,Public Housing,2011,Percent,0,311
+Bensonhurst,Rent Regulated,2011,Percent,0.48055,311
+Borough Park,Public Housing,2011,Percent,0,312
+Borough Park,Rent Regulated,2011,Percent,0.4734,312
+Coney Island,Public Housing,2011,Percent,0.15472,313
+Coney Island,Rent Regulated,2011,Percent,0.60312,313
+Flatbush/Midwood,Public Housing,2011,Percent,0,314
+Flatbush/Midwood,Rent Regulated,2011,Percent,0.76184,314
+Sheepshead Bay,Public Housing,2011,Percent,0.04815,315
+Sheepshead Bay,Rent Regulated,2011,Percent,0.53194,315
+Brownsville,Public Housing,2011,Percent,0.26608,316
+Brownsville,Rent Regulated,2011,Percent,0.41684,316
+East Flatbush,Public Housing,2011,Percent,0.02388,317
+East Flatbush,Rent Regulated,2011,Percent,0.56542,317
+Canarsie,Public Housing,2011,Percent,0.17399,318
+Canarsie,Rent Regulated,2011,Percent,0.12068,318
+Astoria,Public Housing,2011,Percent,0.13822,401
+Astoria,Rent Regulated,2011,Percent,0.52415,401
+Sunnyside/Woodside,Public Housing,2011,Percent,0,402
+Sunnyside/Woodside,Rent Regulated,2011,Percent,0.61035,402
+Jackson Heights,Public Housing,2011,Percent,0,403
+Jackson Heights,Rent Regulated,2011,Percent,0.51251,403
+Elmhurst/Corona,Public Housing,2011,Percent,0,404
+Elmhurst/Corona,Rent Regulated,2011,Percent,0.54358,404
+Ridgewood/Glendale,Public Housing,2011,Percent,0,405
+Ridgewood/Glendale,Rent Regulated,2011,Percent,0.38013,405
+Rego Park/Forest Hills,Public Housing,2011,Percent,0.02883,406
+Rego Park/Forest Hills,Rent Regulated,2011,Percent,0.71634,406
+Flushing,Public Housing,2011,Percent,0,407
+Flushing,Rent Regulated,2011,Percent,0.4471,407
+Fresh Meadows/Briarwood,Public Housing,2011,Percent,0.08251,408
+Fresh Meadows/Briarwood,Rent Regulated,2011,Percent,0.54471,408
+Woodhaven,Public Housing,2011,Percent,0,409
+Woodhaven,Rent Regulated,2011,Percent,0.35809,409
+Howard Beach,Public Housing,2011,Percent,0,410
+Howard Beach,Rent Regulated,2011,Percent,0.0392,410
+Bayside,Public Housing,2011,Percent,0,411
+Bayside,Rent Regulated,2011,Percent,0.2258,411
+Jamaica/St. Albans,Public Housing,2011,Percent,0.05167,412
+Jamaica/St. Albans,Rent Regulated,2011,Percent,0.35549,412
+Queens Village,Public Housing,2011,Percent,0,413
+Queens Village,Rent Regulated,2011,Percent,0.10963,413
+The Rockaways,Public Housing,2011,Percent,0.17848,414
+The Rockaways,Rent Regulated,2011,Percent,0.46661,414
+St. George,Public Housing,2011,Percent,0.12857,501
+St. George,Rent Regulated,2011,Percent,0.28776,501
+South Beach,Public Housing,2011,Percent,0.11139,502
+South Beach,Rent Regulated,2011,Percent,0.10342,502
+Tottenville,Public Housing,2011,Percent,0,503
+Tottenville,Rent Regulated,2011,Percent,0.11082,503
+Bronx,Public Housing,2011,Percent,0.12812,36005
+Bronx,Rent Regulated,2011,Percent,0.66739,36005
+Brooklyn,Public Housing,2011,Percent,0.09226,36047
+Brooklyn,Rent Regulated,2011,Percent,0.49445,36047
+Manhattan,Public Housing,2011,Percent,0.09274,36061
+Manhattan,Rent Regulated,2011,Percent,0.54969,36061
+Queens,Public Housing,2011,Percent,0.03989,36081
+Queens,Rent Regulated,2011,Percent,0.4591,36081
+Staten Island,Public Housing,2011,Percent,0.09011,36085
+Staten Island,Rent Regulated,2011,Percent,0.18968,36085
+New York City,Public Housing,2011,Percent,0.08797,3651000
+New York City,Rent Regulated,2011,Percent,0.52529,3651000
+Battery Park/Tribeca,Public Housing,2014,Percent,0,101
+Battery Park/Tribeca,Rent Regulated,2014,Percent,0.44812,101
+Greenwich Village,Public Housing,2014,Percent,0,102
+Greenwich Village,Rent Regulated,2014,Percent,0.44812,102
+Lower East Side,Public Housing,2014,Percent,0.23261,103
+Lower East Side,Rent Regulated,2014,Percent,0.52115,103
+Chelsea/Clinton,Public Housing,2014,Percent,0.03552,104
+Chelsea/Clinton,Rent Regulated,2014,Percent,0.51451,104
+Midtown Business District,Public Housing,2014,Percent,0.03552,105
+Midtown Business District,Rent Regulated,2014,Percent,0.51451,105
+Murray Hill/Stuyvesant,Public Housing,2014,Percent,0.00793,106
+Murray Hill/Stuyvesant,Rent Regulated,2014,Percent,0.46268,106
+Upper West Side,Public Housing,2014,Percent,0.08296,107
+Upper West Side,Rent Regulated,2014,Percent,0.51091,107
+Upper East Side,Public Housing,2014,Percent,0.01799,108
+Upper East Side,Rent Regulated,2014,Percent,0.55596,108
+Manhattanville,Public Housing,2014,Percent,0.12132,109
+Manhattanville,Rent Regulated,2014,Percent,0.69289,109
+Central Harlem,Public Housing,2014,Percent,0.19313,110
+Central Harlem,Rent Regulated,2014,Percent,0.64514,110
+East Harlem,Public Housing,2014,Percent,0.34496,111
+East Harlem,Rent Regulated,2014,Percent,0.49056,111
+Washington Heights,Public Housing,2014,Percent,0.03474,112
+Washington Heights,Rent Regulated,2014,Percent,0.89967,112
+Mott Haven,Public Housing,2014,Percent,0.38127,201
+Mott Haven,Rent Regulated,2014,Percent,0.48621,201
+Hunts Point,Public Housing,2014,Percent,0.38127,202
+Hunts Point,Rent Regulated,2014,Percent,0.48621,202
+Morrisania,Public Housing,2014,Percent,0.23456,203
+Morrisania,Rent Regulated,2014,Percent,0.59483,203
+Concourse/Highbridge,Public Housing,2014,Percent,0.02035,204
+Concourse/Highbridge,Rent Regulated,2014,Percent,0.91748,204
+University Heights,Public Housing,2014,Percent,0.01508,205
+University Heights,Rent Regulated,2014,Percent,0.87406,205
+East Tremont,Public Housing,2014,Percent,0.23456,206
+East Tremont,Rent Regulated,2014,Percent,0.59483,206
+Bedford Park,Public Housing,2014,Percent,0,207
+Bedford Park,Rent Regulated,2014,Percent,0.92788,207
+Riverdale,Public Housing,2014,Percent,0.07192,208
+Riverdale,Rent Regulated,2014,Percent,0.77346,208
+Unionport/Soundview,Public Housing,2014,Percent,0.21932,209
+Unionport/Soundview,Rent Regulated,2014,Percent,0.49511,209
+Throgs Neck,Public Housing,2014,Percent,0.12853,210
+Throgs Neck,Rent Regulated,2014,Percent,0.36405,210
+Pelham Parkway,Public Housing,2014,Percent,0.09773,211
+Pelham Parkway,Rent Regulated,2014,Percent,0.55384,211
+Williamsbridge,Public Housing,2014,Percent,0.09925,212
+Williamsbridge,Rent Regulated,2014,Percent,0.39718,212
+Williamsburg/Greenpoint,Public Housing,2014,Percent,0.09479,301
+Williamsburg/Greenpoint,Rent Regulated,2014,Percent,0.52117,301
+Fort Greene/Brooklyn Hts,Public Housing,2014,Percent,0.23102,302
+Fort Greene/Brooklyn Hts,Rent Regulated,2014,Percent,0.39593,302
+Bedford Stuyvesant,Public Housing,2014,Percent,0.1768,303
+Bedford Stuyvesant,Rent Regulated,2014,Percent,0.50097,303
+Bushwick,Public Housing,2014,Percent,0.14141,304
+Bushwick,Rent Regulated,2014,Percent,0.43943,304
+East New York,Public Housing,2014,Percent,0.1159,305
+East New York,Rent Regulated,2014,Percent,0.36762,305
+Park Slope,Public Housing,2014,Percent,0.11089,306
+Park Slope,Rent Regulated,2014,Percent,0.36582,306
+Sunset Park,Public Housing,2014,Percent,0,307
+Sunset Park,Rent Regulated,2014,Percent,0.49172,307
+Crown Heights North,Public Housing,2014,Percent,0.0912,308
+Crown Heights North,Rent Regulated,2014,Percent,0.55432,308
+Crown Heights South,Public Housing,2014,Percent,0,309
+Crown Heights South,Rent Regulated,2014,Percent,0.79988,309
+Bay Ridge,Public Housing,2014,Percent,0,310
+Bay Ridge,Rent Regulated,2014,Percent,0.5764,310
+Bensonhurst,Public Housing,2014,Percent,0,311
+Bensonhurst,Rent Regulated,2014,Percent,0.43813,311
+Borough Park,Public Housing,2014,Percent,0,312
+Borough Park,Rent Regulated,2014,Percent,0.51122,312
+Coney Island,Public Housing,2014,Percent,0.18214,313
+Coney Island,Rent Regulated,2014,Percent,0.47632,313
+Flatbush/Midwood,Public Housing,2014,Percent,0,314
+Flatbush/Midwood,Rent Regulated,2014,Percent,0.74467,314
+Sheepshead Bay,Public Housing,2014,Percent,0.0446,315
+Sheepshead Bay,Rent Regulated,2014,Percent,0.52626,315
+Brownsville,Public Housing,2014,Percent,0.27173,316
+Brownsville,Rent Regulated,2014,Percent,0.47338,316
+East Flatbush,Public Housing,2014,Percent,0.02156,317
+East Flatbush,Rent Regulated,2014,Percent,0.54276,317
+Canarsie,Public Housing,2014,Percent,0.19087,318
+Canarsie,Rent Regulated,2014,Percent,0.1353,318
+Astoria,Public Housing,2014,Percent,0.1223,401
+Astoria,Rent Regulated,2014,Percent,0.52448,401
+Sunnyside/Woodside,Public Housing,2014,Percent,0,402
+Sunnyside/Woodside,Rent Regulated,2014,Percent,0.60694,402
+Jackson Heights,Public Housing,2014,Percent,0,403
+Jackson Heights,Rent Regulated,2014,Percent,0.53499,403
+Elmhurst/Corona,Public Housing,2014,Percent,0,404
+Elmhurst/Corona,Rent Regulated,2014,Percent,0.51773,404
+Ridgewood/Glendale,Public Housing,2014,Percent,0,405
+Ridgewood/Glendale,Rent Regulated,2014,Percent,0.40264,405
+Rego Park/Forest Hills,Public Housing,2014,Percent,0.03084,406
+Rego Park/Forest Hills,Rent Regulated,2014,Percent,0.76205,406
+Flushing,Public Housing,2014,Percent,0,407
+Flushing,Rent Regulated,2014,Percent,0.50106,407
+Fresh Meadows/Briarwood,Public Housing,2014,Percent,0.08226,408
+Fresh Meadows/Briarwood,Rent Regulated,2014,Percent,0.48662,408
+Woodhaven,Public Housing,2014,Percent,0,409
+Woodhaven,Rent Regulated,2014,Percent,0.32499,409
+Howard Beach,Public Housing,2014,Percent,0,410
+Howard Beach,Rent Regulated,2014,Percent,0.01546,410
+Bayside,Public Housing,2014,Percent,0,411
+Bayside,Rent Regulated,2014,Percent,0.22461,411
+Jamaica/St. Albans,Public Housing,2014,Percent,0.04304,412
+Jamaica/St. Albans,Rent Regulated,2014,Percent,0.32068,412
+Queens Village,Public Housing,2014,Percent,0,413
+Queens Village,Rent Regulated,2014,Percent,0.11583,413
+The Rockaways,Public Housing,2014,Percent,0.13571,414
+The Rockaways,Rent Regulated,2014,Percent,0.43528,414
+St. George,Public Housing,2014,Percent,0.08911,501
+St. George,Rent Regulated,2014,Percent,0.35138,501
+South Beach,Public Housing,2014,Percent,0.10815,502
+South Beach,Rent Regulated,2014,Percent,0.13696,502
+Tottenville,Public Housing,2014,Percent,0,503
+Tottenville,Rent Regulated,2014,Percent,0.17096,503
+Bronx,Public Housing,2014,Percent,0.13438,36005
+Bronx,Rent Regulated,2014,Percent,0.65253,36005
+Brooklyn,Public Housing,2014,Percent,0.0908,36047
+Brooklyn,Rent Regulated,2014,Percent,0.4982,36047
+Manhattan,Public Housing,2014,Percent,0.09389,36061
+Manhattan,Rent Regulated,2014,Percent,0.56931,36061
+Queens,Public Housing,2014,Percent,0.03627,36081
+Queens,Rent Regulated,2014,Percent,0.46028,36081
+Staten Island,Public Housing,2014,Percent,0.07528,36085
+Staten Island,Rent Regulated,2014,Percent,0.25406,36085
+New York City,Public Housing,2014,Percent,0.08775,3651000
+New York City,Rent Regulated,2014,Percent,0.53071,3651000
+Battery Park/Tribeca,Public Housing,2017,Percent,0,101
+Battery Park/Tribeca,Rent Regulated,2017,Percent,0.39203,101
+Greenwich Village,Public Housing,2017,Percent,0,102
+Greenwich Village,Rent Regulated,2017,Percent,0.39203,102
+Lower East Side,Public Housing,2017,Percent,0.22951,103
+Lower East Side,Rent Regulated,2017,Percent,0.39927,103
+Chelsea/Clinton,Public Housing,2017,Percent,0.02348,104
+Chelsea/Clinton,Rent Regulated,2017,Percent,0.4862,104
+Midtown Business District,Public Housing,2017,Percent,0.02348,105
+Midtown Business District,Rent Regulated,2017,Percent,0.4862,105
+Murray Hill/Stuyvesant,Public Housing,2017,Percent,0.00944,106
+Murray Hill/Stuyvesant,Rent Regulated,2017,Percent,0.44476,106
+Upper West Side,Public Housing,2017,Percent,0.08402,107
+Upper West Side,Rent Regulated,2017,Percent,0.4136,107
+Upper East Side,Public Housing,2017,Percent,0.02014,108
+Upper East Side,Rent Regulated,2017,Percent,0.37674,108
+Manhattanville,Public Housing,2017,Percent,0.09221,109
+Manhattanville,Rent Regulated,2017,Percent,0.61392,109
+Central Harlem,Public Housing,2017,Percent,0.20266,110
+Central Harlem,Rent Regulated,2017,Percent,0.58617,110
+East Harlem,Public Housing,2017,Percent,0.36669,111
+East Harlem,Rent Regulated,2017,Percent,0.43197,111
+Washington Heights,Public Housing,2017,Percent,0.03836,112
+Washington Heights,Rent Regulated,2017,Percent,0.8151,112
+Mott Haven,Public Housing,2017,Percent,0.32947,201
+Mott Haven,Rent Regulated,2017,Percent,0.5226,201
+Hunts Point,Public Housing,2017,Percent,0.32947,202
+Hunts Point,Rent Regulated,2017,Percent,0.5226,202
+Morrisania,Public Housing,2017,Percent,0.20673,203
+Morrisania,Rent Regulated,2017,Percent,0.54551,203
+Concourse/Highbridge,Public Housing,2017,Percent,0.00606,204
+Concourse/Highbridge,Rent Regulated,2017,Percent,0.90684,204
+University Heights,Public Housing,2017,Percent,0.02157,205
+University Heights,Rent Regulated,2017,Percent,0.8724,205
+East Tremont,Public Housing,2017,Percent,0.20673,206
+East Tremont,Rent Regulated,2017,Percent,0.54551,206
+Bedford Park,Public Housing,2017,Percent,0,207
+Bedford Park,Rent Regulated,2017,Percent,0.91426,207
+Riverdale,Public Housing,2017,Percent,0.07221,208
+Riverdale,Rent Regulated,2017,Percent,0.83627,208
+Unionport/Soundview,Public Housing,2017,Percent,0.22268,209
+Unionport/Soundview,Rent Regulated,2017,Percent,0.48146,209
+Throgs Neck,Public Housing,2017,Percent,0.1852,210
+Throgs Neck,Rent Regulated,2017,Percent,0.37619,210
+Pelham Parkway,Public Housing,2017,Percent,0.08467,211
+Pelham Parkway,Rent Regulated,2017,Percent,0.48211,211
+Williamsbridge,Public Housing,2017,Percent,0.09478,212
+Williamsbridge,Rent Regulated,2017,Percent,0.4257,212
+Williamsburg/Greenpoint,Public Housing,2017,Percent,0.0761,301
+Williamsburg/Greenpoint,Rent Regulated,2017,Percent,0.48946,301
+Fort Greene/Brooklyn Hts,Public Housing,2017,Percent,0.21821,302
+Fort Greene/Brooklyn Hts,Rent Regulated,2017,Percent,0.32167,302
+Bedford Stuyvesant,Public Housing,2017,Percent,0.17013,303
+Bedford Stuyvesant,Rent Regulated,2017,Percent,0.40527,303
+Bushwick,Public Housing,2017,Percent,0.13777,304
+Bushwick,Rent Regulated,2017,Percent,0.34295,304
+East New York,Public Housing,2017,Percent,0.17911,305
+East New York,Rent Regulated,2017,Percent,0.30976,305
+Park Slope,Public Housing,2017,Percent,0.12411,306
+Park Slope,Rent Regulated,2017,Percent,0.28019,306
+Sunset Park,Public Housing,2017,Percent,0,307
+Sunset Park,Rent Regulated,2017,Percent,0.40942,307
+Crown Heights North,Public Housing,2017,Percent,0.10909,308
+Crown Heights North,Rent Regulated,2017,Percent,0.49689,308
+Crown Heights South,Public Housing,2017,Percent,0,309
+Crown Heights South,Rent Regulated,2017,Percent,0.7923,309
+Bay Ridge,Public Housing,2017,Percent,0,310
+Bay Ridge,Rent Regulated,2017,Percent,0.5705,310
+Bensonhurst,Public Housing,2017,Percent,0,311
+Bensonhurst,Rent Regulated,2017,Percent,0.44823,311
+Borough Park,Public Housing,2017,Percent,0,312
+Borough Park,Rent Regulated,2017,Percent,0.49881,312
+Coney Island,Public Housing,2017,Percent,0.1698,313
+Coney Island,Rent Regulated,2017,Percent,0.6068,313
+Flatbush/Midwood,Public Housing,2017,Percent,0,314
+Flatbush/Midwood,Rent Regulated,2017,Percent,0.72149,314
+Sheepshead Bay,Public Housing,2017,Percent,0.05478,315
+Sheepshead Bay,Rent Regulated,2017,Percent,0.504,315
+Brownsville,Public Housing,2017,Percent,0.2552,316
+Brownsville,Rent Regulated,2017,Percent,0.41462,316
+East Flatbush,Public Housing,2017,Percent,0.02444,317
+East Flatbush,Rent Regulated,2017,Percent,0.55022,317
+Canarsie,Public Housing,2017,Percent,0.17355,318
+Canarsie,Rent Regulated,2017,Percent,0.11734,318
+Astoria,Public Housing,2017,Percent,0.14338,401
+Astoria,Rent Regulated,2017,Percent,0.469,401
+Sunnyside/Woodside,Public Housing,2017,Percent,0,402
+Sunnyside/Woodside,Rent Regulated,2017,Percent,0.55263,402
+Jackson Heights,Public Housing,2017,Percent,0,403
+Jackson Heights,Rent Regulated,2017,Percent,0.53094,403
+Elmhurst/Corona,Public Housing,2017,Percent,0,404
+Elmhurst/Corona,Rent Regulated,2017,Percent,0.51174,404
+Ridgewood/Glendale,Public Housing,2017,Percent,0,405
+Ridgewood/Glendale,Rent Regulated,2017,Percent,0.40697,405
+Rego Park/Forest Hills,Public Housing,2017,Percent,0.03527,406
+Rego Park/Forest Hills,Rent Regulated,2017,Percent,0.69636,406
+Flushing,Public Housing,2017,Percent,0,407
+Flushing,Rent Regulated,2017,Percent,0.4588,407
+Fresh Meadows/Briarwood,Public Housing,2017,Percent,0.07133,408
+Fresh Meadows/Briarwood,Rent Regulated,2017,Percent,0.39327,408
+Woodhaven,Public Housing,2017,Percent,0,409
+Woodhaven,Rent Regulated,2017,Percent,0.33383,409
+Howard Beach,Public Housing,2017,Percent,0,410
+Howard Beach,Rent Regulated,2017,Percent,0.0162,410
+Bayside,Public Housing,2017,Percent,0,411
+Bayside,Rent Regulated,2017,Percent,0.25972,411
+Jamaica/St. Albans,Public Housing,2017,Percent,0.05113,412
+Jamaica/St. Albans,Rent Regulated,2017,Percent,0.32149,412
+Queens Village,Public Housing,2017,Percent,0,413
+Queens Village,Rent Regulated,2017,Percent,0.10498,413
+The Rockaways,Public Housing,2017,Percent,0.1146,414
+The Rockaways,Rent Regulated,2017,Percent,0.49302,414
+St. George,Public Housing,2017,Percent,0.10277,501
+St. George,Rent Regulated,2017,Percent,0.36029,501
+South Beach,Public Housing,2017,Percent,0.11206,502
+South Beach,Rent Regulated,2017,Percent,0.07502,502
+Tottenville,Public Housing,2017,Percent,0,503
+Tottenville,Rent Regulated,2017,Percent,0.13728,503
+Bronx,Public Housing,2017,Percent,0.12438,36005
+Bronx,Rent Regulated,2017,Percent,0.65602,36005
+Brooklyn,Public Housing,2017,Percent,0.09232,36047
+Brooklyn,Rent Regulated,2017,Percent,0.4661,36047
+Manhattan,Public Housing,2017,Percent,0.09783,36061
+Manhattan,Rent Regulated,2017,Percent,0.49007,36061
+Queens,Public Housing,2017,Percent,0.03826,36081
+Queens,Rent Regulated,2017,Percent,0.4364,36081
+Staten Island,Public Housing,2017,Percent,0.07909,36085
+Staten Island,Rent Regulated,2017,Percent,0.22942,36085
+New York City,Public Housing,2017,Percent,0.08787,3651000
+New York City,Rent Regulated,2017,Percent,0.49352,3651000

@@ -1,0 +1,539 @@
+"Name","COVID-19 Hospitalizations"
+"Description","Hospitalizations are estimations that reflect the&nbsp;<strong>total&nbsp;</strong>number of people ever admitted to a hospital for COVID-19,&nbsp;<strong>not</strong>&nbsp;currently admitted. For more information on how DOHMH estimates the number of hospitalizations to COVID-19, see&nbsp;<a href=""https://github.com/nychealth/coronavirus-data#estimated-number-of-covid-19-patients-ever-hospitalized"">their technical notes</a>.&nbsp;Rates are calculated using interpolated intercensal population estimates updated in 2019 by the&nbsp;<a href=""https://github.com/nychealth/coronavirus-data#rates-per-100000-people"" target=""_blank"">Department of Health</a>, and represent the rate per 100,000 people.&nbsp;"
+"Source Notes","New York City Department of Health and Mental Hygiene, COVID-19 Data (2020). Retrieved from:&nbsp;<a href=""https://github.com/nychealth/coronavirus-data"" target=""_blank"">https://github.com/nychealth/coronavirus-data</a><br />
+<br />
+<strong>Data for COVID-19 Hospitalizations&nbsp;were updated weekly for the period of April 2, 2020 through April 2, 2021. <strong>These data are no longer being regularly updated.&nbsp;</strong><strong><strong>For the latest data on <strong>COVID-19</strong>, see:&nbsp;</strong><a href=""https://www1.nyc.gov/site/doh/covid/covid-19-data.page"" target=""_blank"">https://www1.nyc.gov/site/doh/covid/covid-19-data.page</a></strong></strong>"
+"Notes","Data are cumulative and do not represent new hospitalizations per day listed.&nbsp;Data are cumulative and do not represent new cases per day listed. Data are being collected in real-time and are preliminary and subject to change as COVID-19 response continues. Due to delays in reporting, recent data are incomplete.&nbsp;<br />
+Decreases in hospitalization data after 10/6, are due to enhanced data cleaning processes which restricts the classification of hospitalizations due to COVID-19 only if the patient was admitted within 14 days of diagnosis date."
+
+Location,TimeFrame,DataFormat,Data,Fips
+New York City,04/02,Number,10590,3651000
+New York City,04/02,Rate,126.09,3651000
+New York City,04/06,Number,15333,3651000
+New York City,04/06,Rate,182.56,3651000
+New York City,04/10,Number,25920,3651000
+New York City,04/10,Rate,308.62,3651000
+New York City,04/13,Number,29335,3651000
+New York City,04/13,Rate,349.28,3651000
+New York City,04/17,Number,32843,3651000
+New York City,04/17,Rate,391.05,3651000
+New York City,04/20,Number,34729,3651000
+New York City,04/20,Rate,413.5,3651000
+New York City,04/24,Number,37995,3651000
+New York City,04/24,Rate,452.39,3651000
+New York City,04/27,Number,40050,3651000
+New York City,04/27,Rate,476.86,3651000
+New York City,05/01,Number,42417,3651000
+New York City,05/01,Rate,505.04,3651000
+New York City,05/04,Number,43045,3651000
+New York City,05/04,Rate,512.52,3651000
+New York City,05/08,Number,43913,3651000
+New York City,05/08,Rate,522.85,3651000
+New York City,05/11,Number,48706,3651000
+New York City,05/11,Rate,579.92,3651000
+New York City,05/15,Number,49580,3651000
+New York City,05/15,Rate,590.33,3651000
+Bronx,05/19,Number,11420,36005
+Brooklyn,05/19,Number,13620,36047
+Manhattan,05/19,Number,7423,36061
+Queens,05/19,Number,15931,36081
+Staten Island,05/19,Number,2199,36085
+New York City,05/19,Number,50618,3651000
+Bronx,05/19,Rate,797.41,36005
+Brooklyn,05/19,Rate,527.33,36047
+Manhattan,05/19,Rate,455.76,36061
+Queens,05/19,Rate,699.06,36081
+Staten Island,05/19,Rate,461.8,36085
+New York City,05/19,Rate,602.69,3651000
+Bronx,05/22,Number,11498,36005
+Brooklyn,05/22,Number,13682,36047
+Manhattan,05/22,Number,7466,36061
+Queens,05/22,Number,15979,36081
+Staten Island,05/22,Number,2211,36085
+New York City,05/22,Number,50863,3651000
+Bronx,05/22,Rate,802.86,36005
+Brooklyn,05/22,Rate,529.73,36047
+Manhattan,05/22,Rate,458.4,36061
+Queens,05/22,Rate,701.17,36081
+Staten Island,05/22,Rate,464.32,36085
+New York City,05/22,Rate,605.6,3651000
+Bronx,05/25,Number,11570,36005
+Brooklyn,05/25,Number,13770,36047
+Manhattan,05/25,Number,7516,36061
+Queens,05/25,Number,16086,36081
+Staten Island,05/25,Number,2228,36085
+New York City,05/25,Number,51197,3651000
+Bronx,05/25,Rate,807.89,36005
+Brooklyn,05/25,Rate,533.14,36047
+Manhattan,05/25,Rate,461.47,36061
+Queens,05/25,Rate,705.87,36081
+Staten Island,05/25,Rate,467.89,36085
+New York City,05/25,Rate,609.58,3651000
+Bronx,05/29,Number,11654,36005
+Brooklyn,05/29,Number,13859,36047
+Manhattan,05/29,Number,7548,36061
+Queens,05/29,Number,16152,36081
+Staten Island,05/29,Number,2241,36085
+New York City,05/29,Number,51481,3651000
+Bronx,05/29,Rate,813.75,36005
+Brooklyn,05/29,Rate,536.58,36047
+Manhattan,05/29,Rate,463.44,36061
+Queens,05/29,Rate,708.76,36081
+Staten Island,05/29,Rate,470.62,36085
+New York City,05/29,Rate,612.96,3651000
+Bronx,06/01,Number,11765,36005
+Brooklyn,06/01,Number,14205,36047
+Manhattan,06/01,Number,7673,36061
+Queens,06/01,Number,16387,36081
+Staten Island,06/01,Number,2275,36085
+New York City,06/01,Number,52333,3651000
+Bronx,06/01,Rate,821.5,36005
+Brooklyn,06/01,Rate,549.98,36047
+Manhattan,06/01,Rate,471.11,36061
+Queens,06/01,Rate,719.07,36081
+Staten Island,06/01,Rate,477.76,36085
+New York City,06/01,Rate,623.1,3651000
+Bronx,06/05,Number,11802,36005
+Brooklyn,06/05,Number,14312,36047
+Manhattan,06/05,Number,7740,36061
+Queens,06/05,Number,16521,36081
+Staten Island,06/05,Number,2293,36085
+New York City,06/05,Number,52697,3651000
+Bronx,06/05,Rate,824.09,36005
+Brooklyn,06/05,Rate,554.12,36047
+Manhattan,06/05,Rate,475.23,36061
+Queens,06/05,Rate,724.95,36081
+Staten Island,06/05,Rate,481.54,36085
+New York City,06/05,Rate,627.44,3651000
+Bronx,06/08,Number,11841,36005
+Brooklyn,06/08,Number,14412,36047
+Manhattan,06/08,Number,7767,36061
+Queens,06/08,Number,16565,36081
+Staten Island,06/08,Number,2306,36085
+New York City,06/08,Number,52920,3651000
+Bronx,06/08,Rate,826.81,36005
+Brooklyn,06/08,Rate,557.99,36047
+Manhattan,06/08,Rate,476.88,36061
+Queens,06/08,Rate,726.88,36081
+Staten Island,06/08,Rate,484.27,36085
+New York City,06/08,Rate,630.09,3651000
+Bronx,06/12,Number,11929,36005
+Brooklyn,06/12,Number,14733,36047
+Manhattan,06/12,Number,7827,36061
+Queens,06/12,Number,16638,36081
+Staten Island,06/12,Number,2315,36085
+New York City,06/12,Number,53471,3651000
+Bronx,06/12,Rate,832.95,36005
+Brooklyn,06/12,Rate,570.42,36047
+Manhattan,06/12,Rate,480.57,36061
+Queens,06/12,Rate,730.09,36081
+Staten Island,06/12,Rate,486.16,36085
+New York City,06/12,Rate,636.65,3651000
+Bronx,06/15,Number,11968,36005
+Brooklyn,06/15,Number,14755,36047
+Manhattan,06/15,Number,7842,36061
+Queens,06/15,Number,16660,36081
+Staten Island,06/15,Number,2317,36085
+New York City,06/15,Number,53571,3651000
+Bronx,06/15,Rate,835.68,36005
+Brooklyn,06/15,Rate,571.27,36047
+Manhattan,06/15,Rate,481.49,36061
+Queens,06/15,Rate,731.05,36081
+Staten Island,06/15,Rate,486.58,36085
+New York City,06/15,Rate,637.85,3651000
+Bronx,06/19,Number,12075,36005
+Brooklyn,06/19,Number,15018,36047
+Manhattan,06/19,Number,8012,36061
+Queens,06/19,Number,16789,36081
+Staten Island,06/19,Number,2333,36085
+New York City,06/19,Number,54256,3651000
+Bronx,06/19,Rate,843.15,36005
+Brooklyn,06/19,Rate,581.46,36047
+Manhattan,06/19,Rate,491.93,36061
+Queens,06/19,Rate,736.71,36081
+Staten Island,06/19,Rate,489.94,36085
+New York City,06/19,Rate,646,3651000
+Bronx,06/22,Number,12108,36005
+Brooklyn,06/22,Number,15078,36047
+Manhattan,06/22,Number,8027,36061
+Queens,06/22,Number,16836,36081
+Staten Island,06/22,Number,2334,36085
+New York City,06/22,Number,54412,3651000
+Bronx,06/22,Rate,845.45,36005
+Brooklyn,06/22,Rate,583.78,36047
+Manhattan,06/22,Rate,492.85,36061
+Queens,06/22,Rate,738.78,36081
+Staten Island,06/22,Rate,490.15,36085
+New York City,06/22,Rate,647.86,3651000
+Bronx,06/26,Number,12149,36005
+Brooklyn,06/26,Number,15132,36047
+Manhattan,06/26,Number,8049,36061
+Queens,06/26,Number,16880,36081
+Staten Island,06/26,Number,2339,36085
+New York City,06/26,Number,54578,3651000
+Bronx,06/26,Rate,848.32,36005
+Brooklyn,06/26,Rate,585.87,36047
+Manhattan,06/26,Rate,494.2,36061
+Queens,06/26,Rate,740.71,36081
+Staten Island,06/26,Rate,491.2,36085
+New York City,06/26,Rate,649.83,3651000
+Bronx,06/30,Number,12220,36005
+Brooklyn,06/30,Number,15309,36047
+Manhattan,06/30,Number,8090,36061
+Queens,06/30,Number,16963,36081
+Staten Island,06/30,Number,2349,36085
+New York City,06/30,Number,54960,3651000
+Bronx,06/30,Rate,853.27,36005
+Brooklyn,06/30,Rate,592.72,36047
+Manhattan,06/30,Rate,496.71,36061
+Queens,06/30,Rate,744.35,36081
+Staten Island,06/30,Rate,493.3,36085
+New York City,06/30,Rate,654.38,3651000
+Bronx,07/09,Number,12321,36005
+Brooklyn,07/09,Number,15500,36047
+Manhattan,07/09,Number,8087,36061
+Queens,07/09,Number,17059,36081
+Staten Island,07/09,Number,2364,36085
+New York City,07/09,Number,55360,3651000
+Bronx,07/09,Rate,860.33,36005
+Brooklyn,07/09,Rate,600.12,36047
+Manhattan,07/09,Rate,496.53,36061
+Queens,07/09,Rate,748.56,36081
+Staten Island,07/09,Rate,496.45,36085
+New York City,07/09,Rate,659.15,3651000
+Bronx,07/20,Number,12443,36005
+Brooklyn,07/20,Number,15635,36047
+Manhattan,07/20,Number,8107,36061
+Queens,07/20,Number,17146,36081
+Staten Island,07/20,Number,2373,36085
+New York City,07/20,Number,55734,3651000
+Bronx,07/20,Rate,868.84,36005
+Brooklyn,07/20,Rate,605.34,36047
+Manhattan,07/20,Rate,497.76,36061
+Queens,07/20,Rate,752.38,36081
+Staten Island,07/20,Rate,498.34,36085
+New York City,07/20,Rate,663.6,3651000
+Bronx,07/30,Number,12585,36005
+Brooklyn,07/30,Number,15747,36047
+Manhattan,07/30,Number,8136,36061
+Queens,07/30,Number,17237,36081
+Staten Island,07/30,Number,2396,36085
+New York City,07/30,Number,56132,3651000
+Bronx,07/30,Rate,878.76,36005
+Brooklyn,07/30,Rate,609.68,36047
+Manhattan,07/30,Rate,499.54,36061
+Queens,07/30,Rate,756.37,36081
+Staten Island,07/30,Rate,503.17,36085
+New York City,07/30,Rate,668.34,3651000
+Bronx,08/05,Number,12639,36005
+Brooklyn,08/05,Number,15820,36047
+Manhattan,08/05,Number,8180,36061
+Queens,08/05,Number,17328,36081
+Staten Island,08/05,Number,2416,36085
+New York City,08/05,Number,56414,3651000
+Bronx,08/05,Rate,882.53,36005
+Brooklyn,08/05,Rate,612.51,36047
+Manhattan,08/05,Rate,502.24,36061
+Queens,08/05,Rate,760.36,36081
+Staten Island,08/05,Rate,507.37,36085
+New York City,08/05,Rate,671.7,3651000
+Bronx,08/16,Number,12738,36005
+Brooklyn,08/16,Number,15937,36047
+Manhattan,08/16,Number,8224,36061
+Queens,08/16,Number,17399,36081
+Staten Island,08/16,Number,2434,36085
+New York City,08/16,Number,56763,3651000
+Bronx,08/16,Rate,889.44,36005
+Brooklyn,08/16,Rate,617.04,36047
+Manhattan,08/16,Rate,504.94,36061
+Queens,08/16,Rate,763.48,36081
+Staten Island,08/16,Rate,511.15,36085
+New York City,08/16,Rate,675.85,3651000
+Bronx,08/23,Number,12799,36005
+Brooklyn,08/23,Number,15984,36047
+Manhattan,08/23,Number,8246,36061
+Queens,08/23,Number,17440,36081
+Staten Island,08/23,Number,2442,36085
+New York City,08/23,Number,56922,3651000
+Bronx,08/23,Rate,893.7,36005
+Brooklyn,08/23,Rate,618.86,36047
+Manhattan,08/23,Rate,506.29,36061
+Queens,08/23,Rate,765.28,36081
+Staten Island,08/23,Rate,512.83,36085
+New York City,08/23,Rate,677.74,3651000
+Bronx,09/07,Number,12896,36005
+Brooklyn,09/07,Number,16092,36047
+Manhattan,09/07,Number,8295,36061
+Queens,09/07,Number,17523,36081
+Staten Island,09/07,Number,2463,36085
+New York City,09/07,Number,57280,3651000
+Bronx,09/07,Rate,900.48,36005
+Brooklyn,09/07,Rate,623.04,36047
+Manhattan,09/07,Rate,509.3,36061
+Queens,09/07,Rate,768.92,36081
+Staten Island,09/07,Rate,517.24,36085
+New York City,09/07,Rate,682.01,3651000
+Bronx,09/14,Number,12947,36005
+Brooklyn,09/14,Number,16138,36047
+Manhattan,09/14,Number,8308,36061
+Queens,09/14,Number,17551,36081
+Staten Island,09/14,Number,2470,36085
+New York City,09/14,Number,57425,3651000
+Bronx,09/14,Rate,904.04,36005
+Brooklyn,09/14,Rate,624.82,36047
+Manhattan,09/14,Rate,510.1,36061
+Queens,09/14,Rate,770.15,36081
+Staten Island,09/14,Rate,518.71,36085
+New York City,09/14,Rate,683.73,3651000
+Bronx,09/27,Number,13098,36005
+Brooklyn,09/27,Number,16338,36047
+Manhattan,09/27,Number,8378,36061
+Queens,09/27,Number,17719,36081
+Staten Island,09/27,Number,2510,36085
+New York City,09/27,Number,58054,3651000
+Bronx,09/27,Rate,914.58,36005
+Brooklyn,09/27,Rate,632.56,36047
+Manhattan,09/27,Rate,514.4,36061
+Queens,09/27,Rate,777.52,36081
+Staten Island,09/27,Rate,527.11,36085
+New York City,09/27,Rate,691.22,3651000
+Bronx,10/07,Number,12717,36005
+Brooklyn,10/07,Number,16351,36047
+Manhattan,10/07,Number,8237,36061
+Queens,10/07,Number,17814,36081
+Staten Island,10/07,Number,2497,36085
+New York City,10/07,Number,57626,3651000
+Bronx,10/07,Rate,887.98,36005
+Brooklyn,10/07,Rate,633.07,36047
+Manhattan,10/07,Rate,505.74,36061
+Queens,10/07,Rate,781.69,36081
+Staten Island,10/07,Rate,524.38,36085
+New York City,10/07,Rate,686.13,3651000
+Bronx,10/14,Number,12757,36005
+Brooklyn,10/14,Number,16465,36047
+Manhattan,10/14,Number,8261,36061
+Queens,10/14,Number,17865,36081
+Staten Island,10/14,Number,2510,36085
+New York City,10/14,Number,57868,3651000
+Bronx,10/14,Rate,890.77,36005
+Brooklyn,10/14,Rate,637.48,36047
+Manhattan,10/14,Rate,507.21,36061
+Queens,10/14,Rate,783.93,36081
+Staten Island,10/14,Rate,527.11,36085
+New York City,10/14,Rate,689.01,3651000
+Bronx,10/21,Number,12832,36005
+Brooklyn,10/21,Number,16753,36047
+Manhattan,10/21,Number,8310,36061
+Queens,10/21,Number,18021,36081
+Staten Island,10/21,Number,2539,36085
+New York City,10/21,Number,58465,3651000
+Bronx,10/28,Number,12896,36005
+Brooklyn,10/28,Number,16898,36047
+Manhattan,10/28,Number,8349,36061
+Queens,10/28,Number,18118,36081
+Staten Island,10/28,Number,2566,36085
+New York City,10/28,Number,58837,3651000
+Bronx,10/21,Rate,896.01,36005
+Brooklyn,10/21,Rate,648.63,36047
+Manhattan,10/21,Rate,510.22,36061
+Queens,10/21,Rate,790.77,36081
+Staten Island,10/21,Rate,533.2,36085
+New York City,10/21,Rate,696.12,3651000
+Bronx,10/28,Rate,900.48,36005
+Brooklyn,10/28,Rate,654.24,36047
+Manhattan,10/28,Rate,512.62,36061
+Queens,10/28,Rate,795.03,36081
+Staten Island,10/28,Rate,538.87,36085
+New York City,10/28,Rate,700.54,3651000
+Bronx,11/04,Number,12965,36005
+Brooklyn,11/04,Number,17033,36047
+Manhattan,11/04,Number,8382,36061
+Queens,11/04,Number,18225,36081
+Staten Island,11/04,Number,2598,36085
+New York City,11/04,Number,59213,3651000
+Bronx,11/12,Number,13064,36005
+Brooklyn,11/12,Number,17176,36047
+Manhattan,11/12,Number,8459,36061
+Queens,11/12,Number,18348,36081
+Staten Island,11/12,Number,2640,36085
+New York City,11/12,Number,59687,3651000
+Bronx,11/04,Rate,905.29,36005
+Brooklyn,11/04,Rate,659.47,36047
+Manhattan,11/04,Rate,514.64,36061
+Queens,11/04,Rate,799.73,36081
+Staten Island,11/04,Rate,545.59,36085
+New York City,11/04,Rate,705.02,3651000
+Bronx,11/12,Rate,921.16,36005
+Brooklyn,11/12,Rate,670.96,36047
+Manhattan,11/12,Rate,519.37,36061
+Queens,11/12,Rate,814.07,36081
+Staten Island,11/12,Rate,554.46,36085
+New York City,11/12,Rate,715.94,3651000
+Bronx,11/19,Number,13189,36005
+Brooklyn,11/19,Number,17331,36047
+Manhattan,11/19,Number,8550,36061
+Queens,11/19,Number,18502,36081
+Staten Island,11/19,Number,2708,36085
+New York City,11/19,Number,60280,3651000
+Bronx,11/26,Number,13349,36005
+Brooklyn,11/26,Number,17542,36047
+Manhattan,11/26,Number,8644,36061
+Queens,11/26,Number,18709,36081
+Staten Island,11/26,Number,2828,36085
+New York City,11/26,Number,61072,3651000
+Bronx,12/03,Number,13532,36005
+Brooklyn,12/03,Number,17757,36047
+Manhattan,12/03,Number,8780,36061
+Queens,12/03,Number,18983,36081
+Staten Island,12/03,Number,2964,36085
+New York City,12/03,Number,62016,3651000
+Bronx,12/11,Number,13820,36005
+Brooklyn,12/11,Number,18218,36047
+Manhattan,12/11,Number,8974,36061
+Queens,12/11,Number,19468,36081
+Staten Island,12/11,Number,3167,36085
+New York City,12/11,Number,63647,3651000
+Bronx,11/19,Rate,929.98,36005
+Brooklyn,11/19,Rate,677.02,36047
+Manhattan,11/19,Rate,524.96,36061
+Queens,11/19,Rate,820.9,36081
+Staten Island,11/19,Rate,568.74,36085
+New York City,11/19,Rate,723.06,3651000
+Bronx,11/26,Rate,941.26,36005
+Brooklyn,11/26,Rate,685.26,36047
+Manhattan,11/26,Rate,530.73,36061
+Queens,11/26,Rate,830.09,36081
+Staten Island,11/26,Rate,593.94,36085
+New York City,11/26,Rate,732.56,3651000
+Bronx,12/03,Rate,954.16,36005
+Brooklyn,12/03,Rate,693.66,36047
+Manhattan,12/03,Rate,539.08,36061
+Queens,12/03,Rate,842.24,36081
+Staten Island,12/03,Rate,622.5,36085
+New York City,12/03,Rate,743.88,3651000
+Bronx,12/11,Rate,974.47,36005
+Brooklyn,12/11,Rate,711.67,36047
+Manhattan,12/11,Rate,550.99,36061
+Queens,12/11,Rate,863.76,36081
+Staten Island,12/11,Rate,665.14,36085
+New York City,12/11,Rate,763.44,3651000
+Bronx,12/25,Number,14532,36005
+Brooklyn,12/25,Number,19142,36047
+Manhattan,12/25,Number,9480,36061
+Queens,12/25,Number,20405,36081
+Staten Island,12/25,Number,3477,36085
+New York City,12/25,Number,67036,3651000
+Bronx,1/08,Number,15305,36005
+Brooklyn,1/08,Number,20312,36047
+Manhattan,1/08,Number,10103,36061
+Queens,1/08,Number,21449,36081
+Staten Island,1/08,Number,3759,36085
+New York City,1/08,Number,70928,3651000
+Bronx,1/22,Number,16351,36005
+Brooklyn,1/22,Number,21888,36047
+Manhattan,1/22,Number,10832,36061
+Queens,1/22,Number,23141,36081
+Staten Island,1/22,Number,4167,36085
+New York City,1/22,Number,76379,3651000
+Bronx,1/27,Number,16768,36005
+Brooklyn,1/27,Number,22329,36047
+Manhattan,1/27,Number,11081,36061
+Queens,1/27,Number,23622,36081
+Staten Island,1/27,Number,4263,36085
+New York City,1/27,Number,78063,3651000
+Bronx,12/25,Rate,1024.67,36005
+Brooklyn,12/25,Rate,747.76,36047
+Manhattan,12/25,Rate,582.06,36061
+Queens,12/25,Rate,905.34,36081
+Staten Island,12/25,Rate,730.24,36085
+New York City,12/25,Rate,804.1,3651000
+Bronx,1/08,Rate,1079.18,36005
+Brooklyn,1/08,Rate,793.47,36047
+Manhattan,1/08,Rate,620.31,36061
+Queens,1/08,Rate,951.66,36081
+Staten Island,1/08,Rate,789.47,36085
+New York City,1/08,Rate,850.78,3651000
+Bronx,1/22,Rate,1152.93,36005
+Brooklyn,1/22,Rate,855.03,36047
+Manhattan,1/22,Rate,665.07,36061
+Queens,1/22,Rate,1026.73,36081
+Staten Island,1/22,Rate,875.16,36085
+New York City,1/22,Rate,916.17,3651000
+Bronx,1/27,Rate,1182.34,36005
+Brooklyn,1/27,Rate,872.26,36047
+Manhattan,1/27,Rate,680.36,36061
+Queens,1/27,Rate,1048.07,36081
+Staten Island,1/27,Rate,895.32,36085
+New York City,1/27,Rate,936.36,3651000
+Bronx,2/12,Number,18196,36005
+Brooklyn,2/12,Number,24027,36047
+Manhattan,2/12,Number,11949,36061
+Queens,2/12,Number,25083,36081
+Staten Island,2/12,Number,4532,36085
+New York City,2/12,Number,83788,3651000
+Bronx,2/26,Number,19549,36005
+Brooklyn,2/26,Number,25838,36047
+Manhattan,2/26,Number,12752,36061
+Queens,2/26,Number,26719,36081
+Staten Island,2/26,Number,4803,36085
+New York City,2/26,Number,89662,3651000
+Bronx,3/05,Number,20149,36005
+Brooklyn,3/05,Number,26675,36047
+Manhattan,3/05,Number,13122,36061
+Queens,3/05,Number,27454,36081
+Staten Island,3/05,Number,4896,36085
+New York City,3/05,Number,92297,3651000
+Bronx,2/12,Rate,1283.03,36005
+Brooklyn,2/12,Rate,938.59,36047
+Manhattan,2/12,Rate,733.65,36061
+Queens,2/12,Rate,1112.89,36081
+Staten Island,2/12,Rate,951.81,36085
+New York City,2/12,Rate,1005.04,3651000
+Bronx,2/26,Rate,1378.43,36005
+Brooklyn,2/26,Rate,1009.34,36047
+Manhattan,2/26,Rate,782.95,36061
+Queens,2/26,Rate,1185.48,36081
+Staten Island,2/26,Rate,1008.73,36085
+New York City,2/26,Rate,1075.49,3651000
+Bronx,3/05,Rate,1420.74,36005
+Brooklyn,3/05,Rate,1042.03,36047
+Manhattan,3/05,Rate,805.67,36061
+Queens,3/05,Rate,1218.09,36081
+Staten Island,3/05,Rate,1028.26,36085
+New York City,3/05,Rate,1107.1,3651000
+Bronx,3/19,Number,21000,36005
+Brooklyn,3/19,Number,27916,36047
+Manhattan,3/19,Number,13697,36061
+Queens,3/19,Number,28544,36081
+Staten Island,3/19,Number,5078,36085
+New York City,3/19,Number,96236,3651000
+Bronx,4/02,Number,21425,36005
+Brooklyn,4/02,Number,29257,36047
+Manhattan,4/02,Number,14255,36061
+Queens,4/02,Number,29824,36081
+Staten Island,4/02,Number,5374,36085
+New York City,4/02,Number,100136,3651000
+Bronx,4/11,Number,21862,36005
+Brooklyn,4/11,Number,29930,36047
+Manhattan,4/11,Number,14486,36061
+Queens,4/11,Number,30418,36081
+Staten Island,4/11,Number,5488,36085
+New York City,4/11,Number,102185,3651000
+Bronx,3/19,Rate,1480.74,36005
+Brooklyn,3/19,Rate,1090.51,36047
+Manhattan,3/19,Rate,840.97,36061
+Queens,3/19,Rate,1266.45,36081
+Staten Island,3/19,Rate,1066.49,36085
+New York City,3/19,Rate,1154.35,3651000
+Bronx,4/02,Rate,1510.71,36005
+Brooklyn,4/02,Rate,1142.89,36047
+Manhattan,4/02,Rate,875.23,36061
+Queens,4/02,Rate,1323.24,36081
+Staten Island,4/02,Rate,1128.65,36085
+New York City,4/02,Rate,1201.13,3651000
+Bronx,4/11,Rate,1541.52,36005
+Brooklyn,4/11,Rate,1169.18,36047
+Manhattan,4/11,Rate,889.42,36061
+Queens,4/11,Rate,1349.6,36081
+Staten Island,4/11,Rate,1152.59,36085
+New York City,4/11,Rate,1225.71,3651000

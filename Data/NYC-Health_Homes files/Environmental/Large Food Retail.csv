@@ -1,0 +1,139 @@
+"Name","Large Food Retail"
+"Description","Rate of adults per large food retail represents the total population per one large food retail (10,000 square feet or larger) in a given geography.&nbsp;<br />
+<br />
+You can explore large food retail across New York City on the&nbsp;<a href=""https://data.cccnewyork.org/assetmapping#?domain=1245&amp;assets=Food%20Retail%2FTraditional%20Food%20Retail&amp;communities=8%7C17"" target=""_blank"">Map Community Resources</a>&nbsp;tool.&nbsp;"
+"Source Notes","New York State Department of Agriculture and Markets. (September 2021). Retail Food Stores. Retrieved from: <a href=""https://data.ny.gov/Economic-Development/Retail-Food-Stores/9a8c-vfzj"" target=""_blank"">https://data.ny.gov/Economic-Development/Retail-Food-Stores/9a8c-vfzj</a>.<br />
+U.S. Census Bureau. (2019). American Community Survey 1-Year Estimates. Retrieved from <a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a>."
+"Notes",""
+
+Location,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,2021,Number of Large Food Retail,11,101
+Greenwich Village,2021,Number of Large Food Retail,19,102
+Lower East Side,2021,Number of Large Food Retail,20,103
+Chelsea/Clinton,2021,Number of Large Food Retail,22,104
+Midtown Business District,2021,Number of Large Food Retail,21,105
+Murray Hill/Stuyvesant,2021,Number of Large Food Retail,14,106
+Upper West Side,2021,Number of Large Food Retail,25,107
+Upper East Side,2021,Number of Large Food Retail,22,108
+Manhattanville,2021,Number of Large Food Retail,7,109
+Central Harlem,2021,Number of Large Food Retail,13,110
+East Harlem,2021,Number of Large Food Retail,12,111
+Washington Heights,2021,Number of Large Food Retail,14,112
+Mott Haven,2021,Number of Large Food Retail,11,201
+Hunts Point,2021,Number of Large Food Retail,8,202
+Morrisania,2021,Number of Large Food Retail,7,203
+Concourse/Highbridge,2021,Number of Large Food Retail,14,204
+University Heights,2021,Number of Large Food Retail,8,205
+East Tremont,2021,Number of Large Food Retail,4,206
+Bedford Park,2021,Number of Large Food Retail,7,207
+Riverdale,2021,Number of Large Food Retail,9,208
+Unionport/Soundview,2021,Number of Large Food Retail,17,209
+Throgs Neck,2021,Number of Large Food Retail,14,210
+Pelham Parkway,2021,Number of Large Food Retail,8,211
+Williamsbridge,2021,Number of Large Food Retail,13,212
+Williamsburg/Greenpoint,2021,Number of Large Food Retail,26,301
+Fort Greene/Brooklyn Hts,2021,Number of Large Food Retail,16,302
+Bedford Stuyvesant,2021,Number of Large Food Retail,9,303
+Bushwick,2021,Number of Large Food Retail,5,304
+East New York,2021,Number of Large Food Retail,26,305
+Park Slope,2021,Number of Large Food Retail,11,306
+Sunset Park,2021,Number of Large Food Retail,14,307
+Crown Heights North,2021,Number of Large Food Retail,4,308
+Crown Heights South,2021,Number of Large Food Retail,5,309
+Bay Ridge,2021,Number of Large Food Retail,13,310
+Bensonhurst,2021,Number of Large Food Retail,17,311
+Borough Park,2021,Number of Large Food Retail,17,312
+Coney Island,2021,Number of Large Food Retail,8,313
+Flatbush/Midwood,2021,Number of Large Food Retail,11,314
+Sheepshead Bay,2021,Number of Large Food Retail,19,315
+Brownsville,2021,Number of Large Food Retail,16,316
+East Flatbush,2021,Number of Large Food Retail,7,317
+Canarsie,2021,Number of Large Food Retail,22,318
+Astoria,2021,Number of Large Food Retail,17,401
+Sunnyside/Woodside,2021,Number of Large Food Retail,13,402
+Jackson Heights,2021,Number of Large Food Retail,15,403
+Elmhurst/Corona,2021,Number of Large Food Retail,13,404
+Ridgewood/Glendale,2021,Number of Large Food Retail,20,405
+Rego Park/Forest Hills,2021,Number of Large Food Retail,13,406
+Flushing,2021,Number of Large Food Retail,41,407
+Fresh Meadows/Briarwood,2021,Number of Large Food Retail,14,408
+Woodhaven,2021,Number of Large Food Retail,19,409
+Howard Beach,2021,Number of Large Food Retail,14,410
+Bayside,2021,Number of Large Food Retail,10,411
+Jamaica/St. Albans,2021,Number of Large Food Retail,23,412
+Queens Village,2021,Number of Large Food Retail,13,413
+The Rockaways,2021,Number of Large Food Retail,8,414
+St. George,2021,Number of Large Food Retail,15,501
+South Beach,2021,Number of Large Food Retail,15,502
+Tottenville,2021,Number of Large Food Retail,13,503
+Bronx,2021,Number of Large Food Retail,120,36005
+Brooklyn,2021,Number of Large Food Retail,246,36047
+Manhattan,2021,Number of Large Food Retail,200,36061
+Queens,2021,Number of Large Food Retail,233,36081
+Staten Island,2021,Number of Large Food Retail,43,36085
+New York City,2021,Number of Large Food Retail,842,3651000
+Battery Park/Tribeca,2021,Rate (Total Population per Large Food Retail),6040,101
+Greenwich Village,2021,Rate (Total Population per Large Food Retail),5162,102
+Lower East Side,2021,Rate (Total Population per Large Food Retail),8356,103
+Chelsea/Clinton,2021,Rate (Total Population per Large Food Retail),5068,104
+Midtown Business District,2021,Rate (Total Population per Large Food Retail),2657,105
+Murray Hill/Stuyvesant,2021,Rate (Total Population per Large Food Retail),10606,106
+Upper West Side,2021,Rate (Total Population per Large Food Retail),7187,107
+Upper East Side,2021,Rate (Total Population per Large Food Retail),9858,108
+Manhattanville,2021,Rate (Total Population per Large Food Retail),18977,109
+Central Harlem,2021,Rate (Total Population per Large Food Retail),10489,110
+East Harlem,2021,Rate (Total Population per Large Food Retail),9288,111
+Washington Heights,2021,Rate (Total Population per Large Food Retail),14578,112
+Mott Haven,2021,Rate (Total Population per Large Food Retail),8496,201
+Hunts Point,2021,Rate (Total Population per Large Food Retail),6671,202
+Morrisania,2021,Rate (Total Population per Large Food Retail),12087,203
+Concourse/Highbridge,2021,Rate (Total Population per Large Food Retail),10065,204
+University Heights,2021,Rate (Total Population per Large Food Retail),17276,205
+East Tremont,2021,Rate (Total Population per Large Food Retail),22081,206
+Bedford Park,2021,Rate (Total Population per Large Food Retail),21669,207
+Riverdale,2021,Rate (Total Population per Large Food Retail),11572,208
+Unionport/Soundview,2021,Rate (Total Population per Large Food Retail),10491,209
+Throgs Neck,2021,Rate (Total Population per Large Food Retail),7920,210
+Pelham Parkway,2021,Rate (Total Population per Large Food Retail),15644,211
+Williamsbridge,2021,Rate (Total Population per Large Food Retail),11471,212
+Williamsburg/Greenpoint,2021,Rate (Total Population per Large Food Retail),5820,301
+Fort Greene/Brooklyn Hts,2021,Rate (Total Population per Large Food Retail),8334,302
+Bedford Stuyvesant,2021,Rate (Total Population per Large Food Retail),16034,303
+Bushwick,2021,Rate (Total Population per Large Food Retail),25510,304
+East New York,2021,Rate (Total Population per Large Food Retail),6954,305
+Park Slope,2021,Rate (Total Population per Large Food Retail),10368,306
+Sunset Park,2021,Rate (Total Population per Large Food Retail),9342,307
+Crown Heights North,2021,Rate (Total Population per Large Food Retail),32082,308
+Crown Heights South,2021,Rate (Total Population per Large Food Retail),21252,309
+Bay Ridge,2021,Rate (Total Population per Large Food Retail),9379,310
+Bensonhurst,2021,Rate (Total Population per Large Food Retail),10998,311
+Borough Park,2021,Rate (Total Population per Large Food Retail),9028,312
+Coney Island,2021,Rate (Total Population per Large Food Retail),14410,313
+Flatbush/Midwood,2021,Rate (Total Population per Large Food Retail),14261,314
+Sheepshead Bay,2021,Rate (Total Population per Large Food Retail),7758,315
+Brownsville,2021,Rate (Total Population per Large Food Retail),8023,316
+East Flatbush,2021,Rate (Total Population per Large Food Retail),19430,317
+Canarsie,2021,Rate (Total Population per Large Food Retail),8950,318
+Astoria,2021,Rate (Total Population per Large Food Retail),9769,401
+Sunnyside/Woodside,2021,Rate (Total Population per Large Food Retail),10466,402
+Jackson Heights,2021,Rate (Total Population per Large Food Retail),11685,403
+Elmhurst/Corona,2021,Rate (Total Population per Large Food Retail),12006,404
+Ridgewood/Glendale,2021,Rate (Total Population per Large Food Retail),8295,405
+Rego Park/Forest Hills,2021,Rate (Total Population per Large Food Retail),8122,406
+Flushing,2021,Rate (Total Population per Large Food Retail),5850,407
+Fresh Meadows/Briarwood,2021,Rate (Total Population per Large Food Retail),12034,408
+Woodhaven,2021,Rate (Total Population per Large Food Retail),7566,409
+Howard Beach,2021,Rate (Total Population per Large Food Retail),8469,410
+Bayside,2021,Rate (Total Population per Large Food Retail),11456,411
+Jamaica/St. Albans,2021,Rate (Total Population per Large Food Retail),10490,412
+Queens Village,2021,Rate (Total Population per Large Food Retail),15435,413
+The Rockaways,2021,Rate (Total Population per Large Food Retail),15218,414
+St. George,2021,Rate (Total Population per Large Food Retail),11746,501
+South Beach,2021,Rate (Total Population per Large Food Retail),9239,502
+Tottenville,2021,Rate (Total Population per Large Food Retail),12412,503
+Bronx,2021,Rate (Total Population per Large Food Retail),11818,36005
+Brooklyn,2021,Rate (Total Population per Large Food Retail),10406,36047
+Manhattan,2021,Rate (Total Population per Large Food Retail),8144,36061
+Queens,2021,Rate (Total Population per Large Food Retail),9673,36081
+Staten Island,2021,Rate (Total Population per Large Food Retail),11073,36085
+New York City,2021,Rate (Total Population per Large Food Retail),9901,3651000
